@@ -3,6 +3,8 @@ web/app/plugins/*
 !web/app/plugins/.gitkeep
 !web/app/plugins/facebook-for-woocommerce
 !web/app/plugins/woocommerce-brands
+!web/app/plugins/woocommerce-google-analytics-integration
+!web/app/plugins/woocommerce-gateway-stripe
 web/app/mu-plugins/*/
 web/app/upgrade
 web/app/uploads/*
