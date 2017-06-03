@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="34c3f3ed-5d4a-4459-9af4-aae409ab49e2" name="Default" comment="" />
+    <list default="true" id="34c3f3ed-5d4a-4459-9af4-aae409ab49e2" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/config/application.php" afterPath="$PROJECT_DIR$/config/application.php" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -11,14 +13,12 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="class-wc-brands.php" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/web/app/plugins/woocommerce-brands/includes/class-wc-brands.php">
+      <file leaf-file-name="application.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/config/application.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="58">
-              <caret line="402" column="30" lean-forward="false" selection-start-line="402" selection-start-column="30" selection-end-line="402" selection-end-column="30" />
-              <folding>
-                <marker date="1495734744000" expanded="true" signature="25481:25719" ph="..." />
-              </folding>
+            <state relative-caret-position="1049">
+              <caret line="76" column="34" lean-forward="false" selection-start-line="76" selection-start-column="34" selection-end-line="76" selection-end-column="34" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -33,12 +33,16 @@
       <find>slug</find>
     </findStrings>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/.env" />
         <option value="$PROJECT_DIR$/.gitignore" />
         <option value="$PROJECT_DIR$/web/app/plugins/woocommerce-brands/includes/class-wc-brands.php" />
+        <option value="$PROJECT_DIR$/config/application.php" />
       </list>
     </option>
   </component>
@@ -58,6 +62,7 @@
     <option name="width" value="1329" />
     <option name="height" value="1373" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1">
       <flattenPackages />
@@ -296,6 +301,20 @@
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
           </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="hemdetalj" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="hemdetalj" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="config" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
         </subPane>
       </pane>
       <pane id="Scope" />
@@ -405,12 +424,12 @@
       <option name="presentableId" value="Default" />
       <updated>1495654816194</updated>
       <workItem from="1495654817490" duration="1762000" />
-      <workItem from="1495724961964" duration="1261000" />
+      <workItem from="1495724961964" duration="1405000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3023000" />
+    <option name="totallyTimeSpent" value="3167000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1231" y="23" width="1329" height="1373" extended-state="0" />
@@ -420,7 +439,7 @@
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
@@ -592,8 +611,167 @@
         <state relative-caret-position="58">
           <caret line="402" column="30" lean-forward="false" selection-start-line="402" selection-start-column="30" selection-end-line="402" selection-end-column="30" />
           <folding>
+            <marker date="1495734744000" expanded="true" signature="10:32" ph=" WC_Brands class. ..." />
+            <marker date="1495734744000" expanded="true" signature="52:26644" ph="..." />
+            <marker date="1495734744000" expanded="true" signature="141:170" ph=" __construct function. ..." />
+            <marker date="1495734744000" expanded="true" signature="205:497" ph="..." />
+            <marker date="1495734744000" expanded="true" signature="338:388" ph="..." />
+            <marker date="1495734744000" expanded="true" signature="504:534" ph=" Register our hooks ..." />
+            <marker date="1495734744000" expanded="true" signature="572:2099" ph="..." />
+            <marker date="1495734744000" expanded="true" signature="1468:1560" ph="..." />
+            <marker date="1495734744000" expanded="true" signature="2106:2204" ph=" Layered Nav Init ..." />
+            <marker date="1495734744000" expanded="true" signature="2280:3370" ph="..." />
+            <marker date="1495734744000" expanded="true" signature="2443:3332" ph="..." />
+            <marker date="1495734744000" expanded="true" signature="2499:3327" ph="..." />
+            <marker date="1495734744000" expanded="true" signature="2621:3321" ph="..." />
+            <marker date="1495734744000" expanded="true" signature="2657:3049" ph="..." />
+            <marker date="1495734744000" expanded="true" signature="2670:3042" ph="..." />
+            <marker date="1495734744000" expanded="true" signature="2872:3034" ph="..." />
+            <marker date="1495734744000" expanded="true" signature="2917:3025" ph="..." />
+            <marker date="1495734744000" expanded="true" signature="3172:3221" ph="..." />
+            <marker date="1495734744000" expanded="true" signature="3229:3314" ph="..." />
+            <marker date="1495734744000" expanded="true" signature="3377:3570" ph=" Filter to allow product_brand in the permalinks for products. ..." />
+            <marker date="1495734744000" expanded="true" signature="3627:4564" ph="..." />
+            <marker date="1495734744000" expanded="true" signature="4008:4177" ph="..." />
+            <marker date="1495734744000" expanded="true" signature="4185:4336" ph="..." />
+            <marker date="1495734744000" expanded="true" signature="4355:4379" ph="..." />
+            <marker date="1495734744000" expanded="true" signature="4402:4423" ph="..." />
+            <marker date="1495734744000" expanded="true" signature="4595:4901" ph=" Display a specific error message if the coupon doesn't validate because of a brands-related element. ..." />
+            <marker date="1495734744000" expanded="true" signature="4979:5771" ph="..." />
+            <marker date="1495734744000" expanded="true" signature="5037:5753" ph="..." />
+            <marker date="1495734744000" expanded="true" signature="5165:5607" ph="..." />
+            <marker date="1495734744000" expanded="true" signature="5237:5602" ph="..." />
+            <marker date="1495734744000" expanded="true" signature="5459:5596" ph="..." />
+            <marker date="1495734744000" expanded="true" signature="5499:5589" ph="..." />
+            <marker date="1495734744000" expanded="true" signature="5778:5883" ph=" Conditionally apply brands discounts. ..." />
+            <marker date="1495734744000" expanded="true" signature="5991:6812" ph="..." />
+            <marker date="1495734744000" expanded="true" signature="6151:6175" ph="..." />
+            <marker date="1495734744000" expanded="true" signature="6515:6536" ph="..." />
+            <marker date="1495734744000" expanded="true" signature="6767:6788" ph="..." />
+            <marker date="1495734744000" expanded="true" signature="6819:6973" ph=" Check whether given product brands are assigned to the current coupon being inspected. ..." />
+            <marker date="1495734744000" expanded="true" signature="7050:7127" ph="..." />
+            <marker date="1495734744000" expanded="true" signature="7134:7970" ph=" This validate coupon based on included and/or excluded product brands on ..." />
+            <marker date="1495734744000" expanded="true" signature="8030:8321" ph="..." />
+            <marker date="1495734744000" expanded="true" signature="8143:8300" ph="..." />
+            <marker date="1495734744000" expanded="true" signature="8328:8550" ph=" Set brand settings as properties on coupon object. These properties are ..." />
+            <marker date="1495734744000" expanded="true" signature="8617:9290" ph="..." />
+            <marker date="1495734744000" expanded="true" signature="8707:8721" ph="..." />
+            <marker date="1495734744000" expanded="true" signature="8855:8897" ph="..." />
+            <marker date="1495734744000" expanded="true" signature="9039:9081" ph="..." />
+            <marker date="1495734744000" expanded="true" signature="9297:9654" ph=" Validate whether cart items are in Product Brands restriction. If no item ..." />
+            <marker date="1495734744000" expanded="true" signature="9733:10620" ph="..." />
+            <marker date="1495734744000" expanded="true" signature="9787:10599" ph="..." />
+            <marker date="1495734744000" expanded="true" signature="9858:10169" ph="..." />
+            <marker date="1495734744000" expanded="true" signature="9912:10164" ph="..." />
+            <marker date="1495734744000" expanded="true" signature="10117:10158" ph="..." />
+            <marker date="1495734744000" expanded="true" signature="10372:10444" ph="..." />
+            <marker date="1495734744000" expanded="true" signature="10523:10595" ph="..." />
+            <marker date="1495734744000" expanded="true" signature="10627:11094" ph=" Validate whether cart items are in the Exclude Brands restriction. ..." />
+            <marker date="1495734744000" expanded="true" signature="11173:12154" ph="..." />
+            <marker date="1495734744000" expanded="true" signature="11227:12133" ph="..." />
+            <marker date="1495734744000" expanded="true" signature="11298:11609" ph="..." />
+            <marker date="1495734744000" expanded="true" signature="11352:11604" ph="..." />
+            <marker date="1495734744000" expanded="true" signature="11557:11598" ph="..." />
+            <marker date="1495734744000" expanded="true" signature="11783:11849" ph="..." />
+            <marker date="1495734744000" expanded="true" signature="12063:12129" ph="..." />
+            <marker date="1495734744000" expanded="true" signature="12188:12296" ph="..." />
+            <marker date="1495734744000" expanded="true" signature="12225:12293" ph="..." />
+            <marker date="1495734744000" expanded="true" signature="12344:12430" ph="..." />
+            <marker date="1495734744000" expanded="true" signature="12460:12562" ph="..." />
+            <marker date="1495734744000" expanded="true" signature="12569:12623" ph=" init_taxonomy function. ..." />
+            <marker date="1495734744000" expanded="true" signature="12667:14373" ph="..." />
+            <marker date="1495734744000" expanded="true" signature="12981:14369" ph="..." />
+            <marker date="1495734744000" expanded="true" signature="13037:14365" ph="..." />
+            <marker date="1495734744000" expanded="true" signature="13079:14363" ph="..." />
+            <marker date="1495734744000" expanded="true" signature="13271:13903" ph="..." />
+            <marker date="1495734744000" expanded="true" signature="14039:14229" ph="..." />
+            <marker date="1495734744000" expanded="true" signature="14380:14433" ph=" init_widgets function. ..." />
+            <marker date="1495734744000" expanded="true" signature="14469:14835" ph="..." />
+            <marker date="1495734744000" expanded="true" signature="14842:14869" ph=" Get the plugin path ..." />
+            <marker date="1495734744000" expanded="true" signature="14904:15053" ph="..." />
+            <marker date="1495734744000" expanded="true" signature="15060:15501" ph=" template_loader ..." />
+            <marker date="1495734744000" expanded="true" signature="15551:16131" ph="..." />
+            <marker date="1495734744000" expanded="true" signature="15642:15964" ph="..." />
+            <marker date="1495734744000" expanded="true" signature="15983:16107" ph="..." />
+            <marker date="1495734744000" expanded="true" signature="16138:16190" ph=" brand_image function. ..." />
+            <marker date="1495734744000" expanded="true" signature="16231:16639" ph="..." />
+            <marker date="1495734744000" expanded="true" signature="16509:16635" ph="..." />
+            <marker date="1495734744000" expanded="true" signature="16541:16573" ph="..." />
+            <marker date="1495734744000" expanded="true" signature="16646:16714" ph=" show_brand function. ..." />
+            <marker date="1495734744000" expanded="true" signature="16748:17134" ph="..." />
+            <marker date="1495734744000" expanded="true" signature="16801:17131" ph="..." />
+            <marker date="1495734744000" expanded="true" signature="17141:17300" ph=" Loop over found products. ..." />
+            <marker date="1495734744000" expanded="true" signature="17368:18264" ph="..." />
+            <marker date="1495734744000" expanded="true" signature="17678:18112" ph="..." />
+            <marker date="1495734744000" expanded="true" signature="17851:17950" ph="..." />
+            <marker date="1495734744000" expanded="true" signature="18271:18331" ph=" register_shortcodes function. ..." />
+            <marker date="1495734744000" expanded="true" signature="18374:18838" ph="..." />
+            <marker date="1495734744000" expanded="true" signature="18845:18906" ph=" output_product_brand function. ..." />
+            <marker date="1495734744000" expanded="true" signature="18957:20043" ph="..." />
+            <marker date="1495734744000" expanded="true" signature="18985:19112" ph="..." />
+            <marker date="1495734744000" expanded="true" signature="19001:19110" ph="..." />
+            <marker date="1495734744000" expanded="true" signature="19008:19101" ph="..." />
+            <marker date="1495734744000" expanded="true" signature="19344:20021" ph="..." />
+            <marker date="1495734744000" expanded="true" signature="19395:19988" ph="..." />
+            <marker date="1495734744000" expanded="true" signature="19473:19983" ph="..." />
+            <marker date="1495734744000" expanded="true" signature="19566:19657" ph="..." />
+            <marker date="1495734744000" expanded="true" signature="19682:19975" ph="..." />
+            <marker date="1495734744000" expanded="true" signature="19720:19874" ph="..." />
+            <marker date="1495734744000" expanded="true" signature="20050:20133" ph=" output_product_brand_list function. ..." />
+            <marker date="1495734744000" expanded="true" signature="20189:21418" ph="..." />
+            <marker date="1495734744000" expanded="true" signature="20201:20334" ph="..." />
+            <marker date="1495734744000" expanded="true" signature="20217:20332" ph="..." />
+            <marker date="1495734744000" expanded="true" signature="20224:20323" ph="..." />
+            <marker date="1495734744000" expanded="true" signature="20709:20993" ph="..." />
+            <marker date="1495734744000" expanded="true" signature="20798:20936" ph="..." />
+            <marker date="1495734744000" expanded="true" signature="20872:20930" ph="..." />
+            <marker date="1495734744000" expanded="true" signature="20944:20988" ph="..." />
+            <marker date="1495734744000" expanded="true" signature="21029:21388" ph="..." />
+            <marker date="1495734744000" expanded="true" signature="21065:21287" ph="..." />
+            <marker date="1495734744000" expanded="true" signature="21425:21537" ph=" output_product_brand_thumbnails function. ..." />
+            <marker date="1495734744000" expanded="true" signature="21599:22550" ph="..." />
+            <marker date="1495734744000" expanded="true" signature="21611:21837" ph="..." />
+            <marker date="1495734744000" expanded="true" signature="21627:21835" ph="..." />
+            <marker date="1495734744000" expanded="true" signature="21634:21826" ph="..." />
+            <marker date="1495734744000" expanded="true" signature="21982:22009" ph="..." />
+            <marker date="1495734744000" expanded="true" signature="22017:22043" ph="..." />
+            <marker date="1495734744000" expanded="true" signature="22277:22520" ph="..." />
+            <marker date="1495734744000" expanded="true" signature="22316:22419" ph="..." />
+            <marker date="1495734744000" expanded="true" signature="22557:22681" ph=" output_product_brand_thumbnails_description function. ..." />
+            <marker date="1495734744000" expanded="true" signature="22755:23525" ph="..." />
+            <marker date="1495734744000" expanded="true" signature="22767:22946" ph="..." />
+            <marker date="1495734744000" expanded="true" signature="22783:22944" ph="..." />
+            <marker date="1495734744000" expanded="true" signature="22790:22935" ph="..." />
+            <marker date="1495734744000" expanded="true" signature="23290:23495" ph="..." />
+            <marker date="1495734744000" expanded="true" signature="23341:23394" ph="..." />
+            <marker date="1495734744000" expanded="true" signature="23532:23634" ph=" output_brand_products function. ..." />
+            <marker date="1495734744000" expanded="true" signature="23686:24970" ph="..." />
+            <marker date="1495734744000" expanded="true" signature="23713:23871" ph="..." />
+            <marker date="1495734744000" expanded="true" signature="23720:23862" ph="..." />
+            <marker date="1495734744000" expanded="true" signature="23902:23919" ph="..." />
+            <marker date="1495734744000" expanded="true" signature="24119:24690" ph="..." />
+            <marker date="1495734744000" expanded="true" signature="24467:24686" ph="..." />
+            <marker date="1495734744000" expanded="true" signature="24478:24681" ph="..." />
+            <marker date="1495734744000" expanded="true" signature="24740:24800" ph="..." />
+            <marker date="1495734744000" expanded="true" signature="24977:25072" ph=" Register REST API route for /products/brands. ..." />
+            <marker date="1495734744000" expanded="true" signature="25120:25419" ph="..." />
+            <marker date="1495734744000" expanded="true" signature="25161:25175" ph="..." />
             <marker date="1495734744000" expanded="true" signature="25481:25719" ph="..." />
+            <marker date="1495734744000" expanded="true" signature="25769:25889" ph="..." />
+            <marker date="1495734744000" expanded="true" signature="25898:26122" ph=" Add brands in product response. ..." />
+            <marker date="1495734744000" expanded="true" signature="26194:26642" ph="..." />
+            <marker date="1495734744000" expanded="true" signature="26359:26618" ph="..." />
+            <marker date="1495734744000" expanded="true" signature="26454:26574" ph="..." />
+            <marker date="1495734744000" expanded="true" signature="26476:26568" ph="..." />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config/application.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1049">
+          <caret line="76" column="34" lean-forward="false" selection-start-line="76" selection-start-column="34" selection-end-line="76" selection-end-column="34" />
+          <folding />
         </state>
       </provider>
     </entry>
