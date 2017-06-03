@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: WooCommerce Stripe Gateway\n"
 "POT-Creation-Date: 2017-06-03 23:40+0200\n"
-"PO-Revision-Date: 2017-06-03 23:40+0200\n"
+"PO-Revision-Date: 2017-06-03 23:43+0200\n"
 "Language-Team: \n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -64,7 +64,7 @@ msgstr ""
 #: includes/class-wc-gateway-stripe.php:172
 #: includes/legacy/class-wc-gateway-stripe.php:60
 msgid "Continue to payment"
-msgstr "Betala"
+msgstr "Slutför köp"
 
 #: includes/class-wc-gateway-stripe.php:176
 #: includes/legacy/class-wc-gateway-stripe.php:64
