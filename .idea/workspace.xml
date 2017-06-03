@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="34c3f3ed-5d4a-4459-9af4-aae409ab49e2" name="Default" comment="" />
+    <list default="true" id="34c3f3ed-5d4a-4459-9af4-aae409ab49e2" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/app/languages/plugins/woocommerce-gateway-stripe-sv_SE.mo" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/app/languages/plugins/woocommerce-gateway-stripe-sv_SE.po" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -11,11 +14,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="application.php" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/config/application.php">
+      <file leaf-file-name="woocommerce-gateway-stripe-sv_SE.mo" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/web/app/languages/plugins/woocommerce-gateway-stripe-sv_SE.mo">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1049">
-              <caret line="76" column="34" lean-forward="false" selection-start-line="76" selection-start-column="34" selection-end-line="76" selection-end-column="34" />
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -187,7 +190,7 @@
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="woocommerce-brands" />
+              <option name="myItemId" value="woocommerce-gateway-stripe" />
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
           </PATH>
@@ -213,37 +216,7 @@
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="woocommerce-brands" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="languages" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="hemdetalj" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="hemdetalj" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="web" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="app" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="plugins" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="woocommerce-brands" />
+              <option name="myItemId" value="woocommerce-gateway-stripe" />
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
@@ -329,6 +302,7 @@
       <recent name="$PROJECT_DIR$/web/app/themes" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/web/app/languages/plugins" />
       <recent name="$PROJECT_DIR$/web/app/plugins/woocommerce-brands/languages" />
       <recent name="$PROJECT_DIR$" />
     </key>
@@ -422,18 +396,17 @@
       <option name="presentableId" value="Default" />
       <updated>1495654816194</updated>
       <workItem from="1495654817490" duration="1762000" />
-      <workItem from="1495724961964" duration="1429000" />
+      <workItem from="1495724961964" duration="1747000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3191000" />
+    <option name="totallyTimeSpent" value="3509000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1231" y="23" width="1329" height="1373" extended-state="0" />
-    <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24981189" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24981189" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -767,8 +740,209 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/config/application.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1049">
-          <caret line="76" column="34" lean-forward="false" selection-start-line="76" selection-start-column="34" selection-end-line="76" selection-end-column="34" />
+        <state relative-caret-position="701">
+          <caret line="64" column="38" lean-forward="false" selection-start-line="64" selection-start-column="38" selection-end-line="64" selection-end-column="38" />
+          <folding>
+            <marker date="1496519222000" expanded="true" signature="174:228" ph=" Expose global env() function from oscarotero/env ..." />
+            <marker date="1496519222000" expanded="true" signature="248:329" ph=" Use Dotenv to set required environment variables and load .env file in root ..." />
+            <marker date="1496519222000" expanded="true" signature="411:520" ph="..." />
+            <marker date="1496519222000" expanded="true" signature="526:619" ph=" Set up our global environment constant and load its config first ..." />
+            <marker date="1496519222000" expanded="true" signature="764:795" ph="..." />
+            <marker date="1496519222000" expanded="true" signature="801:811" ph=" URLs ..." />
+            <marker date="1496519222000" expanded="true" signature="894:924" ph=" Custom Content Directory ..." />
+            <marker date="1496519222000" expanded="true" signature="1065:1082" ph=" DB settings ..." />
+            <marker date="1496519222000" expanded="true" signature="1354:1396" ph=" Authentication Unique Keys and Salts ..." />
+            <marker date="1496519222000" expanded="true" signature="1759:1780" ph=" Custom Settings ..." />
+            <marker date="1496519222000" expanded="true" signature="1962:1987" ph=" Bootstrap WordPress ..." />
+            <marker date="1496519222000" expanded="true" signature="2016:2063" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/app/plugins/woocommerce-gateway-stripe/woocommerce-gateway-stripe.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1495718690000" expanded="false" signature="8:1030" ph="..." />
+            <marker date="1495718690000" expanded="true" signature="1065:1073" ph="..." />
+            <marker date="1495718690000" expanded="true" signature="1079:1116" ph=" Required minimums and constants ..." />
+            <marker date="1495718690000" expanded="true" signature="1546:20563" ph="..." />
+            <marker date="1495718690000" expanded="true" signature="1566:20507" ph="..." />
+            <marker date="1495718690000" expanded="true" signature="1573:1650" ph=" @var Singleton The reference the *Singleton* instance of this class ..." />
+            <marker date="1495718690000" expanded="true" signature="1687:1729" ph=" @var Reference to logging class. ..." />
+            <marker date="1495718690000" expanded="true" signature="1761:1872" ph=" Returns the *Singleton* instance of this class. ..." />
+            <marker date="1495718690000" expanded="true" signature="1916:2022" ph="..." />
+            <marker date="1495718690000" expanded="true" signature="1953:1991" ph="..." />
+            <marker date="1495718690000" expanded="true" signature="2030:2152" ph=" Private clone method to prevent cloning of the instance of the ..." />
+            <marker date="1495718690000" expanded="true" signature="2193:2311" ph=" Private unserialize method to prevent unserializing of the *Singleton* ..." />
+            <marker date="1495718690000" expanded="true" signature="2353:2464" ph=" Flag to indicate whether or not we need to load code for / support subscriptions. ..." />
+            <marker date="1495718690000" expanded="true" signature="2522:2646" ph=" Flag to indicate whether or not we need to load support for pre-orders. ..." />
+            <marker date="1495718690000" expanded="true" signature="2693:2734" ph=" Notices (array) ..." />
+            <marker date="1495718690000" expanded="true" signature="2772:2913" ph=" Protected constructor to prevent creating a new instance of the ..." />
+            <marker date="1495718690000" expanded="true" signature="2952:3153" ph="..." />
+            <marker date="1495718690000" expanded="true" signature="3161:3241" ph=" Init the plugin after plugins_loaded so environment variables are set. ..." />
+            <marker date="1495718690000" expanded="true" signature="3270:4810" ph="..." />
+            <marker date="1495718690000" expanded="true" signature="3399:3415" ph="..." />
+            <marker date="1495718690000" expanded="true" signature="4818:4911" ph=" Allow this class and other classes to add slug keyed notices (to avoid duplication) ..." />
+            <marker date="1495718690000" expanded="true" signature="4977:5074" ph="..." />
+            <marker date="1495718690000" expanded="true" signature="5013:5069" ph="..." />
+            <marker date="1495718690000" expanded="true" signature="5082:5245" ph=" The backup sanity check, in case the plugin is activated in a weird way, ..." />
+            <marker date="1495718690000" expanded="true" signature="5287:6394" ph="..." />
+            <marker date="1495718690000" expanded="true" signature="5392:5466" ph="..." />
+            <marker date="1495718690000" expanded="true" signature="5612:5697" ph="..." />
+            <marker date="1495718690000" expanded="true" signature="5834:5917" ph="..." />
+            <marker date="1495718690000" expanded="true" signature="6113:6390" ph="..." />
+            <marker date="1495718690000" expanded="true" signature="6189:6384" ph="..." />
+            <marker date="1495718690000" expanded="true" signature="6402:6505" ph=" Updates the plugin version in db ..." />
+            <marker date="1495718690000" expanded="true" signature="6560:6681" ph="..." />
+            <marker date="1495718690000" expanded="true" signature="6689:6796" ph=" Dismiss the Google Payment Request API Feature notice. ..." />
+            <marker date="1495718690000" expanded="true" signature="6847:6913" ph="..." />
+            <marker date="1495718690000" expanded="true" signature="6921:7011" ph=" Dismiss the Apple Pay Feature notice. ..." />
+            <marker date="1495718690000" expanded="true" signature="7060:7124" ph="..." />
+            <marker date="1495718690000" expanded="true" signature="7132:7210" ph=" Handles upgrade routines. ..." />
+            <marker date="1495718690000" expanded="true" signature="7242:7379" ph="..." />
+            <marker date="1495718690000" expanded="true" signature="7290:7338" ph="..." />
+            <marker date="1495718690000" expanded="true" signature="7387:7552" ph=" Checks the environment for compatibility problems.  Returns a string with the first incompatibility ..." />
+            <marker date="1495718690000" expanded="true" signature="7600:8532" ph="..." />
+            <marker date="1495718690000" expanded="true" signature="7672:7901" ph="..." />
+            <marker date="1495718690000" expanded="true" signature="7941:8060" ph="..." />
+            <marker date="1495718690000" expanded="true" signature="8131:8365" ph="..." />
+            <marker date="1495718690000" expanded="true" signature="8412:8510" ph="..." />
+            <marker date="1495718690000" expanded="true" signature="8540:8597" ph=" Adds plugin action links ..." />
+            <marker date="1495718690000" expanded="true" signature="8649:9106" ph="..." />
+            <marker date="1495718690000" expanded="true" signature="8722:9053" ph="..." />
+            <marker date="1495718690000" expanded="true" signature="9114:9202" ph=" Get setting link. ..." />
+            <marker date="1495718690000" expanded="true" signature="9243:9530" ph="..." />
+            <marker date="1495718690000" expanded="true" signature="9538:9629" ph=" Display any notices we've collected thus far (e.g. for connection, disconnection) ..." />
+            <marker date="1495718690000" expanded="true" signature="9667:11556" ph="..." />
+            <marker date="1495718690000" expanded="true" signature="9872:10543" ph="..." />
+            <marker date="1495718690000" expanded="true" signature="10261:10527" ph="..." />
+            <marker date="1495718690000" expanded="true" signature="10351:10512" ph="{...}" />
+            <marker date="1495718690000" expanded="true" signature="10370:10428" ph="{&quot;action&quot;: 'stripe_dismiss_apple_pay_notice'...}" />
+            <marker date="1495718690000" expanded="true" signature="10591:11304" ph="..." />
+            <marker date="1495718690000" expanded="true" signature="10749:10956" ph="..." />
+            <marker date="1495718690000" expanded="true" signature="11018:11288" ph="..." />
+            <marker date="1495718690000" expanded="true" signature="11110:11273" ph="{...}" />
+            <marker date="1495718690000" expanded="true" signature="11129:11189" ph="{&quot;action&quot;: 'stripe_dismiss_request_api_notice'...}" />
+            <marker date="1495718690000" expanded="true" signature="11375:11552" ph="..." />
+            <marker date="1495718690000" expanded="true" signature="11564:11684" ph=" Initialize the gateway. Called very early - in the context of the plugins_loaded action ..." />
+            <marker date="1495718690000" expanded="true" signature="11722:12902" ph="..." />
+            <marker date="1495718690000" expanded="true" signature="11824:11876" ph="..." />
+            <marker date="1495718690000" expanded="true" signature="11928:11969" ph="..." />
+            <marker date="1495718690000" expanded="true" signature="12022:12038" ph="..." />
+            <marker date="1495718690000" expanded="true" signature="12092:12264" ph="..." />
+            <marker date="1495718690000" expanded="true" signature="12272:12468" ph="..." />
+            <marker date="1495718690000" expanded="true" signature="12804:12898" ph="..." />
+            <marker date="1495718690000" expanded="true" signature="12910:12974" ph=" Add the gateways to WooCommerce ..." />
+            <marker date="1495718690000" expanded="true" signature="13021:13220" ph="..." />
+            <marker date="1495718690000" expanded="true" signature="13097:13146" ph="..." />
+            <marker date="1495718690000" expanded="true" signature="13154:13196" ph="..." />
+            <marker date="1495718690000" expanded="true" signature="13228:13334" ph=" List of currencies supported by Stripe that has no decimals. ..." />
+            <marker date="1495718690000" expanded="true" signature="13387:13865" ph="..." />
+            <marker date="1495718690000" expanded="true" signature="13404:13860" ph="..." />
+            <marker date="1495718690000" expanded="true" signature="13873:14123" ph=" Stripe uses smallest denomination in currencies such as cents. ..." />
+            <marker date="1495718690000" expanded="true" signature="14205:14673" ph="..." />
+            <marker date="1495718690000" expanded="true" signature="14253:14269" ph="..." />
+            <marker date="1495718690000" expanded="true" signature="14371:14488" ph="..." />
+            <marker date="1495718690000" expanded="true" signature="14400:14444" ph="..." />
+            <marker date="1495718690000" expanded="true" signature="14518:14595" ph="..." />
+            <marker date="1495718690000" expanded="true" signature="14681:14803" ph=" Capture payment when the order is changed from on-hold to complete or processing ..." />
+            <marker date="1495718690000" expanded="true" signature="14854:16570" ph="..." />
+            <marker date="1495718690000" expanded="true" signature="15023:16566" ph="..." />
+            <marker date="1495718690000" expanded="true" signature="15215:16561" ph="..." />
+            <marker date="1495718690000" expanded="true" signature="15254:15394" ph="..." />
+            <marker date="1495718690000" expanded="true" signature="15261:15357" ph="..." />
+            <marker date="1495718690000" expanded="true" signature="15434:15574" ph="..." />
+            <marker date="1495718690000" expanded="true" signature="15582:16555" ph="..." />
+            <marker date="1495718690000" expanded="true" signature="15998:16548" ph="..." />
+            <marker date="1495718690000" expanded="true" signature="16578:16658" ph=" Cancel pre-auth on refund/cancellation ..." />
+            <marker date="1495718690000" expanded="true" signature="16708:17567" ph="..." />
+            <marker date="1495718690000" expanded="true" signature="16877:17563" ph="..." />
+            <marker date="1495718690000" expanded="true" signature="16970:17558" ph="..." />
+            <marker date="1495718690000" expanded="true" signature="17009:17103" ph="..." />
+            <marker date="1495718690000" expanded="true" signature="17016:17067" ph="..." />
+            <marker date="1495718690000" expanded="true" signature="17143:17282" ph="..." />
+            <marker date="1495718690000" expanded="true" signature="17290:17552" ph="..." />
+            <marker date="1495718690000" expanded="true" signature="17575:17700" ph=" Gets saved tokens from API if they don't already exist in WooCommerce. ..." />
+            <marker date="1495718690000" expanded="true" signature="17800:18707" ph="..." />
+            <marker date="1495718690000" expanded="true" signature="17901:18684" ph="..." />
+            <marker date="1495718690000" expanded="true" signature="18087:18137" ph="..." />
+            <marker date="1495718690000" expanded="true" signature="18180:18679" ph="..." />
+            <marker date="1495718690000" expanded="true" signature="18234:18673" ph="..." />
+            <marker date="1495718690000" expanded="true" signature="18715:18749" ph=" Delete token from Stripe ..." />
+            <marker date="1495718690000" expanded="true" signature="18826:19014" ph="..." />
+            <marker date="1495718690000" expanded="true" signature="18876:19010" ph="..." />
+            <marker date="1495718690000" expanded="true" signature="19022:19056" ph=" Set as default in Stripe ..." />
+            <marker date="1495718690000" expanded="true" signature="19129:19371" ph="..." />
+            <marker date="1495718690000" expanded="true" signature="19228:19367" ph="..." />
+            <marker date="1495718690000" expanded="true" signature="19379:19446" ph=" Checks Stripe minimum order value authorized per currency ..." />
+            <marker date="1495718690000" expanded="true" signature="19496:20140" ph="..." />
+            <marker date="1495718690000" expanded="true" signature="19564:20108" ph="..." />
+            <marker date="1495718690000" expanded="true" signature="19660:19699" ph="..." />
+            <marker date="1495718690000" expanded="true" signature="19715:19754" ph="..." />
+            <marker date="1495718690000" expanded="true" signature="19770:19810" ph="..." />
+            <marker date="1495718690000" expanded="true" signature="19842:19882" ph="..." />
+            <marker date="1495718690000" expanded="true" signature="19898:19939" ph="..." />
+            <marker date="1495718690000" expanded="true" signature="19955:19996" ph="..." />
+            <marker date="1495718690000" expanded="true" signature="20012:20052" ph="..." />
+            <marker date="1495718690000" expanded="true" signature="20065:20104" ph="..." />
+            <marker date="1495718690000" expanded="true" signature="20148:20322" ph=" What rolls down stairs ..." />
+            <marker date="1495718690000" expanded="true" signature="20367:20504" ph="..." />
+            <marker date="1495718690000" expanded="true" signature="20399:20437" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/app/plugins/woocommerce-gateway-stripe/readme.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-9">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/app/plugins/woocommerce-gateway-stripe/includes/settings-stripe.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1490895432000" expanded="true" signature="37:45" ph="..." />
+            <marker date="1490895432000" expanded="true" signature="69:9101" ph="..." />
+            <marker date="1490895432000" expanded="true" signature="99:9099" ph="..." />
+            <marker date="1490895432000" expanded="true" signature="121:353" ph="..." />
+            <marker date="1490895432000" expanded="true" signature="375:697" ph="..." />
+            <marker date="1490895432000" expanded="true" signature="725:1076" ph="..." />
+            <marker date="1490895432000" expanded="true" signature="1101:1453" ph="..." />
+            <marker date="1490895432000" expanded="true" signature="1485:1744" ph="..." />
+            <marker date="1490895432000" expanded="true" signature="1781:2045" ph="..." />
+            <marker date="1490895432000" expanded="true" signature="2072:2331" ph="..." />
+            <marker date="1490895432000" expanded="true" signature="2363:2627" ph="..." />
+            <marker date="1490895432000" expanded="true" signature="2664:2977" ph="..." />
+            <marker date="1490895432000" expanded="true" signature="3001:3475" ph="..." />
+            <marker date="1490895432000" expanded="true" signature="3210:3417" ph="..." />
+            <marker date="1490895432000" expanded="true" signature="3507:3951" ph="..." />
+            <marker date="1490895432000" expanded="true" signature="3990:5251" ph="..." />
+            <marker date="1490895432000" expanded="true" signature="4443:5246" ph="..." />
+            <marker date="1490895432000" expanded="true" signature="5282:5741" ph="..." />
+            <marker date="1490895432000" expanded="true" signature="5779:6152" ph="..." />
+            <marker date="1490895432000" expanded="true" signature="6188:6596" ph="..." />
+            <marker date="1490895432000" expanded="true" signature="6622:7254" ph="..." />
+            <marker date="1490895432000" expanded="true" signature="6720:7051" ph="..." />
+            <marker date="1490895432000" expanded="true" signature="7287:7789" ph="..." />
+            <marker date="1490895432000" expanded="true" signature="7660:7784" ph="..." />
+            <marker date="1490895432000" expanded="true" signature="7827:8253" ph="..." />
+            <marker date="1490895432000" expanded="true" signature="7936:8167" ph="..." />
+            <marker date="1490895432000" expanded="true" signature="8281:8722" ph="..." />
+            <marker date="1490895432000" expanded="true" signature="8746:9095" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/app/languages/plugins/woocommerce-gateway-stripe-sv_SE.mo">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
