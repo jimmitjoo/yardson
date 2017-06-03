@@ -1,0 +1,294 @@
+# Copyright (C) 2016 WooThemes
+# This file is distributed under the same license as the WooCommerce Brands package.
+msgid ""
+msgstr ""
+"Project-Id-Version: WooCommerce Brands 1.4.5\n"
+"Report-Msgid-Bugs-To: https://support.woothemes.com/hc/\n"
+"POT-Creation-Date: 2017-05-25 10:58+0200\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2017-05-25 19:43+0200\n"
+"Language-Team: LANGUAGE <EMAIL@ADDRESS>\n"
+"X-Generator: Poedit 2.0.2\n"
+"Last-Translator: \n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Language: sv_SE\n"
+
+#: classes/class-wc-brands-admin.php:31 classes/class-wc-brands.php:338
+#: classes/class-wc-brands.php:340
+#: classes/widgets/class-wc-widget-brand-nav.php:281
+msgid "Brands"
+msgstr "Varumärken"
+
+#: classes/class-wc-brands-admin.php:88
+msgid "Product brands"
+msgstr "Produkt varumärken"
+
+#: classes/class-wc-brands-admin.php:89
+#: classes/widgets/class-wc-widget-brand-nav.php:93
+msgid "Any brand"
+msgstr "Alla varumärken"
+
+#: classes/class-wc-brands-admin.php:98
+msgid ""
+"A product must be associated with this brand for the coupon to remain valid "
+"or, for \"Product Discounts\", products with these brands will be discounted."
+msgstr ""
+"En produkt måste tillhöra detta varumärke för att kupongen ska gälla eller, "
+"för produktrabatter, produkter med dessa varumärken kommer att rabatteras."
+
+#: classes/class-wc-brands-admin.php:103
+msgid "Exclude brands"
+msgstr "Exkludera varumärken"
+
+#: classes/class-wc-brands-admin.php:104
+msgid "No brands"
+msgstr "Inga varumärken"
+
+#: classes/class-wc-brands-admin.php:113
+msgid ""
+"Product must not be associated with these brands for the coupon to remain "
+"valid or, for \"Product Discounts\", products associated with these brands "
+"will not be discounted."
+msgstr ""
+"En produkt får inte tillhöra dessa varumärken för att kupongen ska vara "
+"giltig eller, för produktrabatter, produkter med dessa varumärken kommer "
+"inte rabatteras."
+
+#: classes/class-wc-brands-admin.php:142
+msgid "Brands Archives"
+msgstr "Varumärken"
+
+#: classes/class-wc-brands-admin.php:145
+msgid "Show description"
+msgstr "Visa beskrivning"
+
+#: classes/class-wc-brands-admin.php:146
+msgid ""
+"Choose to show the brand description on the archive page. Turn this off if "
+"you intend to use the description widget instead."
+msgstr ""
+"Välj att visa beskrivning för varumärke på arkivsidan. Inaktivare detta om "
+"du tänker använda dig av widgets istället."
+
+#: classes/class-wc-brands-admin.php:201 classes/class-wc-brands-admin.php:278
+msgid "Thumbnail"
+msgstr "Tumnagel"
+
+#: classes/class-wc-brands-admin.php:205 classes/class-wc-brands-admin.php:283
+msgid "Upload/Add image"
+msgstr "Ladda upp/Lägg till bild"
+
+#: classes/class-wc-brands-admin.php:206 classes/class-wc-brands-admin.php:284
+msgid "Remove image"
+msgstr "Ta bort bild"
+
+#: classes/class-wc-brands-admin.php:231 classes/class-wc-brands-admin.php:309
+msgid "Choose an image"
+msgstr "Välj en bild"
+
+#: classes/class-wc-brands-admin.php:233 classes/class-wc-brands-admin.php:311
+msgid "Use image"
+msgstr "Använd bild"
+
+#: classes/class-wc-brands-admin.php:354
+msgid ""
+"Brands be added and managed from this screen. You can optionally upload a "
+"brand image to display in brand widgets and on brand archives"
+msgstr ""
+"Varumärken läggs till och administreras från denna sidan. Du kan vilja att "
+"ladda upp en logga för att visa i varumärkes widgets och på varumärkessidor"
+
+#: classes/class-wc-brands-admin.php:376
+msgid "Image"
+msgstr "Bild"
+
+#: classes/class-wc-brands-admin.php:438
+msgid "Select a brand"
+msgstr "Välj ett varumärke"
+
+#: classes/class-wc-brands.php:116
+msgid "Sorry, this coupon is not applicable to the brands: %s."
+msgstr "Ledsen, kupongen gäller inte för varumärket: %s."
+
+#: classes/class-wc-brands.php:341
+msgid "Brand"
+msgstr "Varumärke"
+
+#: classes/class-wc-brands.php:342
+msgid "Search Brands"
+msgstr "Sök varumärken"
+
+#: classes/class-wc-brands.php:343
+msgid "All Brands"
+msgstr "Alla varumärken"
+
+#: classes/class-wc-brands.php:344
+msgid "Parent Brand"
+msgstr "Överliggande varumärke"
+
+#: classes/class-wc-brands.php:345
+msgid "Parent Brand:"
+msgstr "Överliggande varumärke:"
+
+#: classes/class-wc-brands.php:346
+msgid "Edit Brand"
+msgstr "Redigera varumärke"
+
+#: classes/class-wc-brands.php:347
+msgid "Update Brand"
+msgstr "Uppdatera varumärke"
+
+#: classes/class-wc-brands.php:348
+msgid "Add New Brand"
+msgstr "Lägg till nytt varumärke"
+
+#: classes/class-wc-brands.php:349
+msgid "New Brand Name"
+msgstr "Nytt varumärkesnamn"
+
+#: classes/class-wc-brands.php:362
+msgid "brand"
+msgstr "varumarke"
+
+#: classes/widgets/class-wc-widget-brand-description.php:24
+msgid "WooCommerce Brand Description"
+msgstr "WooCommerce Varumärkes beskrivning"
+
+#: classes/widgets/class-wc-widget-brand-description.php:25
+msgid "When viewing a brand archive, show the current brands description."
+msgstr ""
+"Visa nuvarande varumärkesbeskrivningen när man besöker ett varumärkes "
+"arkivsida."
+
+#: classes/widgets/class-wc-widget-brand-description.php:70
+#: classes/widgets/class-wc-widget-brand-nav.php:303
+#: classes/widgets/class-wc-widget-brand-thumbnails.php:114
+msgid "Title:"
+msgstr "Rubrik:"
+
+#: classes/widgets/class-wc-widget-brand-nav.php:25
+msgid ""
+"Shows brands in a widget which lets you narrow down the list of products "
+"when viewing products."
+msgstr ""
+"Visar varumärken i en widget som låter dig filtrera listan av produkter när "
+"du visar produkter."
+
+#: classes/widgets/class-wc-widget-brand-nav.php:27
+msgid "WooCommerce Brand Layered Nav"
+msgstr "WooCommerce Varumärke Lager Navigation"
+
+#: classes/widgets/class-wc-widget-brand-nav.php:306
+msgid "Display Type:"
+msgstr "Visningstyp:"
+
+#: classes/widgets/class-wc-widget-brand-nav.php:308
+msgid "List"
+msgstr "Lista"
+
+#: classes/widgets/class-wc-widget-brand-nav.php:309
+msgid "Dropdown"
+msgstr "Rullgardin"
+
+#: classes/widgets/class-wc-widget-brand-thumbnails.php:24
+msgid "WooCommerce Brand Thumbnails"
+msgstr "WooCommerce Varumärken tumnaglar"
+
+#: classes/widgets/class-wc-widget-brand-thumbnails.php:25
+msgid "Show a grid of brand thumbnails."
+msgstr "Visa en grid av varumärkes tumnaglar."
+
+#: classes/widgets/class-wc-widget-brand-thumbnails.php:119
+msgid "Columns:"
+msgstr "Kolumner:"
+
+#: classes/widgets/class-wc-widget-brand-thumbnails.php:124
+msgid "Fluid columns:"
+msgstr "Dynamiska kolumner:"
+
+#: classes/widgets/class-wc-widget-brand-thumbnails.php:129
+msgid "Number:"
+msgstr "Nummer:"
+
+#: classes/widgets/class-wc-widget-brand-thumbnails.php:130
+msgid "All"
+msgstr "Alla"
+
+#: classes/widgets/class-wc-widget-brand-thumbnails.php:134
+msgid "Exclude:"
+msgstr "Exkludera:"
+
+#: classes/widgets/class-wc-widget-brand-thumbnails.php:135
+msgid "None"
+msgstr "Ingen"
+
+#: classes/widgets/class-wc-widget-brand-thumbnails.php:139
+msgid "Hide empty brands:"
+msgstr "Dölj tomma varumärken:"
+
+#: classes/widgets/class-wc-widget-brand-thumbnails.php:141
+msgid "Yes"
+msgstr "Ja"
+
+#: classes/widgets/class-wc-widget-brand-thumbnails.php:142
+msgid "No"
+msgstr "Nej"
+
+#: classes/widgets/class-wc-widget-brand-thumbnails.php:147
+msgid "Order by:"
+msgstr "Sortera efter:"
+
+#: classes/widgets/class-wc-widget-brand-thumbnails.php:149
+msgid "Name"
+msgstr "Namn"
+
+#: classes/widgets/class-wc-widget-brand-thumbnails.php:150
+msgid "Count"
+msgstr "Antal"
+
+#: templates/shortcodes/brands-a-z.php:35
+msgid "&uarr; Top"
+msgstr "&uarr; Topp"
+
+#: woocommerce-brands.php:76
+msgid "Docs"
+msgstr "Dokumentation"
+
+#: woocommerce-brands.php:79
+msgid "Support"
+msgstr "Support"
+
+#: woocommerce-brands.php:82
+msgid "Changelog"
+msgstr "Ändrings logg"
+
+#. Plugin Name of the plugin/theme
+msgid "WooCommerce Brands"
+msgstr "WooCommerce Varumärken"
+
+#. Plugin URI of the plugin/theme
+msgid "http://woothemes.com/products/brands/"
+msgstr "http://woothemes.com/products/brands/"
+
+#. Description of the plugin/theme
+msgid ""
+"Add brands to your products, as well as widgets and shortcodes for "
+"displaying your brands."
+msgstr ""
+"Lägg till varumärken för dina produkter, även widgets och shortcodes för att "
+"visa dina varumärken."
+
+#. Author of the plugin/theme
+msgid "WooThemes"
+msgstr "WooThemes"
+
+#. Author URI of the plugin/theme
+msgid "http://woothemes.com/"
+msgstr "http://woothemes.com/"
+
+#: classes/class-wc-brands.php:66
+msgctxt "slug"
+msgid "uncategorized"
+msgstr "okategoriserad"
