@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file",
         "This file is @generated automatically"
     ],
-    "content-hash": "c5fd11c09901b443a73de4186fc28d7f",
+    "content-hash": "b0a26b079cbd9356aa689c7e22ddd820",
     "packages": [
         {
             "name": "composer/installers",
@@ -387,6 +387,26 @@
             "time": "2016-09-01T10:05:43+00:00"
         },
         {
+            "name": "wpackagist-plugin/header-and-footer-scripts",
+            "version": "1.3.4",
+            "source": {
+                "type": "svn",
+                "url": "https://plugins.svn.wordpress.org/header-and-footer-scripts/",
+                "reference": "tags/1.3.4"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://downloads.wordpress.org/plugin/header-and-footer-scripts.1.3.4.zip",
+                "reference": null,
+                "shasum": null
+            },
+            "require": {
+                "composer/installers": "~1.0"
+            },
+            "type": "wordpress-plugin",
+            "homepage": "https://wordpress.org/plugins/header-and-footer-scripts/"
+        },
+        {
             "name": "wpackagist-plugin/mailchimp-for-woocommerce",
             "version": "2.0.0",
             "source": {
@@ -397,7 +417,7 @@
             "dist": {
                 "type": "zip",
                 "url": "https://downloads.wordpress.org/plugin/mailchimp-for-woocommerce.2.0.0.zip",
-                "reference": null,
+                "reference": "tags/2.0.0",
                 "shasum": null
             },
             "require": {
