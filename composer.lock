@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file",
         "This file is @generated automatically"
     ],
-    "content-hash": "1ef6055ebd63c11d90dd4cbae90ea1ea",
+    "content-hash": "c5fd11c09901b443a73de4186fc28d7f",
     "packages": [
         {
             "name": "composer/installers",
@@ -387,6 +387,26 @@
             "time": "2016-09-01T10:05:43+00:00"
         },
         {
+            "name": "wpackagist-plugin/mailchimp-for-woocommerce",
+            "version": "2.0.0",
+            "source": {
+                "type": "svn",
+                "url": "https://plugins.svn.wordpress.org/mailchimp-for-woocommerce/",
+                "reference": "tags/2.0.0"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://downloads.wordpress.org/plugin/mailchimp-for-woocommerce.2.0.0.zip",
+                "reference": null,
+                "shasum": null
+            },
+            "require": {
+                "composer/installers": "~1.0"
+            },
+            "type": "wordpress-plugin",
+            "homepage": "https://wordpress.org/plugins/mailchimp-for-woocommerce/"
+        },
+        {
             "name": "wpackagist-plugin/no-category-base-wpml",
             "version": "1.3",
             "source": {
@@ -497,7 +517,7 @@
             "dist": {
                 "type": "zip",
                 "url": "https://downloads.wordpress.org/plugin/wp-mail-smtp.0.10.1.zip",
-                "reference": null,
+                "reference": "tags/0.10.1",
                 "shasum": null
             },
             "require": {
