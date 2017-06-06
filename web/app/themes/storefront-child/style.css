@@ -12,6 +12,18 @@ Text Domain:  	storefront-child
 */
 
 
+/* Fokusera användaren på checkout på varukorgssidan */
+body.woocommerce-cart #masthead,
+body.woocommerce-cart #secondary,
+body.woocommerce-cart .woocommerce-breadcrumb,
+body.woocommerce-cart .site-footer {
+    display: none;
+}
+body.woocommerce-cart #primary {
+    margin-right: 0;
+    width: 100%;
+}
+
 /* Varukorgen i desktop */
 .site-header-cart {
     background: #f0c14b;
