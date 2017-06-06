@@ -47,7 +47,9 @@ Text Domain:  	storefront-child
     .woocommerce-variation-add-to-cart {
         padding-top: 0 !important;
     }
-    .single_variation_wrap {
+    .single_variation_wrap,
+    .product-type-simple form.cart
+    {
         width: 100vw;
         position: fixed;
         bottom: 69px;
