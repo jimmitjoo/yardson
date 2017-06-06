@@ -66,12 +66,14 @@ Text Domain:  	storefront-child
     .woocommerce-variation-price {
         text-align: center;
     }
-    .single_variation_wrap .woocommerce-Price-amount.amount,
-    .price ins {
+    .single_variation_wrap .woocommerce-Price-amount.amount {
+        color: #b12704;
+    }
+    .price ins .woocommerce-Price-amount.amount {
         color: #b12704 !important;
         font-weight: bold !important;
     }
-    .price del {
+    .price del .woocommerce-Price-amount.amount {
         color: #6d6d6d !important;
         font-weight: normal !important;
     }
