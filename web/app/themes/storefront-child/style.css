@@ -86,7 +86,10 @@ body.woocommerce-checkout #primary
     }
 
     /* cart count */
-    .cart .count {
+    .storefront-handheld-footer-bar ul li.cart .count,
+    button.menu-toggle:after,
+    button.menu-toggle:before,
+    button.menu-toggle span:before {
         background-color: #f0c14b;
     }
 
