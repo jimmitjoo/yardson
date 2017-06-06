@@ -44,10 +44,10 @@ Text Domain:  	storefront-child
     }
 
     /* Knappar kategorisidor i mobilen */
-    .tax-product_cat button,
-    .tax-product_cat input[type="button"],
-    .tax-product_cat .button,
-    .tax-product_cat a.button {
+    .tax-product_cat .product button,
+    .tax-product_cat .product input[type="button"],
+    .tax-product_cat .product .button,
+    .tax-product_cat .product a.button {
         background-color: #f0c14b;
         border-color: #f0c14b;
         color: #333333;
