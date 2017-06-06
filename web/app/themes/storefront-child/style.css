@@ -21,6 +21,11 @@ Text Domain:  	storefront-child
         font-size: 1.617924em;
     }
 
+    /* Mindre whitespace på startsida i mobilen */
+    .page-template-template-homepage:not(.has-post-thumbnail) .site-main {
+        padding-top: 2.235801em;
+    }
+
     /* Fixerad meny i mobilen */
     body {
         padding-top: 64px;
