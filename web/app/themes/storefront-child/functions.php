@@ -1,8 +1,4 @@
 <?php
-add_action( 'wp_enqueue_scripts', 'yardson_enqueue_styles' );
-function yardson_enqueue_styles() {
-    wp_enqueue_style( 'storefront-style', get_template_directory_uri() . '/style.css' );
-}
 
 function yardson_enqueue_styles() {
 
