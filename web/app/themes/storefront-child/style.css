@@ -90,6 +90,7 @@ body.woocommerce-checkout #primary
     button.menu-toggle:after,
     button.menu-toggle:before,
     button.menu-toggle span:before {
+        color: #000;
         background-color: #f0c14b;
     }
 
