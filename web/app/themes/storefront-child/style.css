@@ -21,6 +21,7 @@ body.woocommerce-cart .site-footer {
 }
 body.woocommerce-cart #primary {
     margin-right: 0;
+    padding-top: 30px;
     width: 100%;
 }
 
