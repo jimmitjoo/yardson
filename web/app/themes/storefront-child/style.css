@@ -71,6 +71,10 @@ Text Domain:  	storefront-child
         font-weight: bold;
         color: #b12704;
     }
+    .product-type-variable .price > .woocommerce-Price-amount.amount {
+        color: #333;
+        font-weight: normal;
+    }
     .price ins .woocommerce-Price-amount.amount {
         color: #b12704 !important;
         font-weight: bold !important;
