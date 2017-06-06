@@ -13,6 +13,14 @@ Text Domain:  	storefront-child
 
 
 @media (max-width: 767px) {
+    /* Mindre rubrik i mobilen */
+    .page-template-template-homepage .entry-header h1 {
+        font-size: 2em;
+    }
+    h1 {
+        font-size: 1.617924em;
+    }
+
     /* Fixerad meny i mobilen */
     body {
         padding-top: 64px;
