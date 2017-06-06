@@ -12,6 +12,18 @@ Text Domain:  	storefront-child
 */
 
 
+/* Varukorgen i desktop */
+.site-header-cart {
+    background: #f0c14b;
+    bottom: 0;
+    padding: 22px 10px;
+    position: fixed;
+    right: 0;
+}
+.site-header-cart .cart-contents {
+    padding: 0;
+}
+
 @media (max-width: 767px) {
     /* Mindre rubrik i mobilen */
     .page-template-template-homepage .entry-header h1 {
@@ -51,6 +63,11 @@ Text Domain:  	storefront-child
         background-color: #f0c14b;
         border-color: #f0c14b;
         color: #333333;
+    }
+
+    /* cart count */
+    .cart .count {
+        background-color: #f0c14b;
     }
 
     /* Lägg i varukorg i mobilen */
