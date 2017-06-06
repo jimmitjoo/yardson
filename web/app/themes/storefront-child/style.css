@@ -63,6 +63,13 @@ Text Domain:  	storefront-child
     button.single_add_to_cart_button.button.alt {
         width: 100%;
     }
+    .woocommerce-variation-price {
+        text-align: center;
+    }
+    .price ins {
+        font-weight: bold !important;
+        color: #b12704 !important;
+    }
     .type-product .quantity {
         display: none !important;
     }
