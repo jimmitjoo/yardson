@@ -25,6 +25,9 @@ Text Domain:  	storefront-child
     .page-template-template-homepage:not(.has-post-thumbnail) .site-main {
         padding-top: 2.235801em;
     }
+    .page-template-template-homepage .type-page {
+        padding-top: 0;
+    }
 
     /* Fixerad meny i mobilen */
     body {
