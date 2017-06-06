@@ -66,7 +66,9 @@ Text Domain:  	storefront-child
     .woocommerce-variation-price {
         text-align: center;
     }
-    .single_variation_wrap .woocommerce-Price-amount.amount {
+    .single_variation_wrap .woocommerce-Price-amount.amount,
+    .price > .woocommerce-Price-amount.amount {
+        font-weight: bold;
         color: #b12704;
     }
     .price ins .woocommerce-Price-amount.amount {
