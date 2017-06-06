@@ -34,13 +34,13 @@ Text Domain:  	storefront-child
         padding-top: 64px;
     }
     #masthead {
+        background: rgba(255,255,255,.9);
+        box-shadow: 2px 2px 2px rgba(0,0,0,.2);
+        padding: 10px 0;
         position: fixed;
         top: 0;
         width: 100%;
-        box-shadow: 2px 2px 2px rgba(0,0,0,.2);
-        padding: 10px 0;
         z-index: 1000;
-        background: rgba(255,255,255,.9);
     }
 
     /* Lägg i varukorg i mobilen */
@@ -50,15 +50,15 @@ Text Domain:  	storefront-child
     .single_variation_wrap,
     .product-type-simple form.cart
     {
-        width: 100vw;
-        position: fixed;
-        bottom: 69px;
-        left: 0;
-        padding: 10px 22px !important;
         background: rgba(255,255,255,.9);
-        z-index: 100;
+        bottom: 69px;
         box-shadow: 2px -1px 2px rgba(0, 0, 0, .25);
+        left: 0;
         margin-bottom: 0 !important;
+        padding: 10px 22px !important;
+        position: fixed;
+        width: 100vw;
+        z-index: 100;
     }
     button.single_add_to_cart_button.button.alt {
         width: 100%;
@@ -68,8 +68,12 @@ Text Domain:  	storefront-child
     }
     .single_variation_wrap .woocommerce-Price-amount.amount,
     .price ins {
-        font-weight: bold !important;
         color: #b12704 !important;
+        font-weight: bold !important;
+    }
+    .price del {
+        color: #6d6d6d !important;
+        font-weight: normal !important;
     }
     .type-product .quantity {
         display: none !important;
