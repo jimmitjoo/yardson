@@ -13,6 +13,13 @@ Text Domain:  	storefront-child
 
 /* Lägg i varukorg i mobilen */
 @media (max-width: 767px) {
+    #masthead {
+        position: fixed;
+        width: 100%;
+        box-shadow: 2px 2px 2px rgba(0,0,0,.2);
+        padding: 10px 0;
+        z-index: 1000;
+    }
     .woocommerce-variation-add-to-cart {
         padding-top: 0 !important;
     }
