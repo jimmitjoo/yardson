@@ -10,3 +10,18 @@ License URI:  	http://www.gnu.org/licenses/gpl-2.0.html
 Template:       storefront
 Text Domain:  	storefront-child
 */
+
+/* Lägg i varukorg i mobilen */
+.woocommerce-variation-add-to-cart {
+    padding-top: 0 !important;
+}
+.single_variation_wrap {
+    width: 100vw;
+    position: fixed;
+    bottom: 69px;
+    left: 0;
+    padding: 10px 22px;
+    background: #fff;
+    z-index: 100;
+    box-shadow: 2px -1px 2px rgba(0, 0, 0, .25);
+}
