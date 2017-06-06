@@ -16,10 +16,17 @@ Text Domain:  	storefront-child
 body.woocommerce-cart #masthead,
 body.woocommerce-cart #secondary,
 body.woocommerce-cart .woocommerce-breadcrumb,
-body.woocommerce-cart .site-footer {
+body.woocommerce-cart .site-footer,
+body.woocommerce-checkout #masthead,
+body.woocommerce-checkout #secondary,
+body.woocommerce-checkout .woocommerce-breadcrumb,
+body.woocommerce-checkout .site-footer
+{
     display: none;
 }
-body.woocommerce-cart #primary {
+body.woocommerce-cart #primary,
+body.woocommerce-checkout #primary
+{
     margin-right: 0;
     padding-top: 30px;
     width: 100%;
