@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="34c3f3ed-5d4a-4459-9af4-aae409ab49e2" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web/app/themes/storefront/inc/woocommerce/storefront-woocommerce-template-functions.php" afterPath="$PROJECT_DIR$/web/app/themes/storefront/inc/woocommerce/storefront-woocommerce-template-functions.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web/app/themes/storefront-child/style.css" afterPath="$PROJECT_DIR$/web/app/themes/storefront-child/style.css" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -14,11 +14,11 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="storefront-woocommerce-template-functions.php" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/web/app/themes/storefront/inc/woocommerce/storefront-woocommerce-template-functions.php">
+      <file leaf-file-name="style.css" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/web/app/themes/storefront-child/style.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="345">
-              <caret line="114" column="121" lean-forward="false" selection-start-line="114" selection-start-column="121" selection-end-line="114" selection-end-column="121" />
+            <state relative-caret-position="579">
+              <caret line="45" column="45" lean-forward="false" selection-start-line="45" selection-start-column="45" selection-end-line="45" selection-end-column="45" />
               <folding />
             </state>
           </provider>
@@ -50,8 +50,8 @@
         <option value="$PROJECT_DIR$/web/app/plugins/woocommerce-brands/includes/class-wc-brands.php" />
         <option value="$PROJECT_DIR$/config/application.php" />
         <option value="$PROJECT_DIR$/web/app/themes/storefront-child/functions.php" />
-        <option value="$PROJECT_DIR$/web/app/themes/storefront-child/style.css" />
         <option value="$PROJECT_DIR$/web/app/themes/storefront/inc/woocommerce/storefront-woocommerce-template-functions.php" />
+        <option value="$PROJECT_DIR$/web/app/themes/storefront-child/style.css" />
       </list>
     </option>
   </component>
@@ -510,12 +510,12 @@
       <updated>1495654816194</updated>
       <workItem from="1495654817490" duration="1762000" />
       <workItem from="1495724961964" duration="1881000" />
-      <workItem from="1496762435265" duration="5460000" />
+      <workItem from="1496762435265" duration="5621000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="9103000" />
+    <option name="totallyTimeSpent" value="9264000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
@@ -774,40 +774,6 @@
           <folding>
             <marker date="1496763413000" expanded="true" signature="42:404" ph="..." />
             <marker date="1496763413000" expanded="true" signature="253:401" ph="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/web/app/themes/storefront-child/style.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="794">
-          <caret line="77" column="24" lean-forward="false" selection-start-line="77" selection-start-column="24" selection-end-line="77" selection-end-column="24" />
-          <folding>
-            <marker date="1496821796000" expanded="true" signature="0:389" ph="/*...*/" />
-            <marker date="1496821796000" expanded="true" signature="763:785" ph="{...}" />
-            <marker date="1496821796000" expanded="true" signature="853:917" ph="{...}" />
-            <marker date="1496821796000" expanded="true" signature="964:1066" ph="{...}" />
-            <marker date="1496821796000" expanded="true" signature="1100:1119" ph="{...}" />
-            <marker date="1496821796000" expanded="true" signature="1147:3906" ph="{...}" />
-            <marker date="1496821796000" expanded="true" signature="1237:1268" ph="{...}" />
-            <marker date="1496821796000" expanded="true" signature="1276:1314" ph="{...}" />
-            <marker date="1496821796000" expanded="true" signature="1440:1480" ph="{...}" />
-            <marker date="1496821796000" expanded="true" signature="1529:1560" ph="{...}" />
-            <marker date="1496821796000" expanded="true" signature="1604:1638" ph="{...}" />
-            <marker date="1496821796000" expanded="true" signature="1653:1860" ph="{...}" />
-            <marker date="1496821796000" expanded="true" signature="1877:1909" ph="{...}" />
-            <marker date="1496821796000" expanded="true" signature="1939:1965" ph="{...}" />
-            <marker date="1496821796000" expanded="true" signature="2177:2274" ph="{...}" />
-            <marker date="1496821796000" expanded="true" signature="2544:2634" ph="{...}" />
-            <marker date="1496821796000" expanded="true" signature="2711:2753" ph="{...}" />
-            <marker date="1496821796000" expanded="true" signature="2821:3107" ph="{...}" />
-            <marker date="1496821796000" expanded="true" signature="3156:3184" ph="{...}" />
-            <marker date="1496821796000" expanded="true" signature="3246:3281" ph="{...}" />
-            <marker date="1496821796000" expanded="true" signature="3389:3447" ph="{...}" />
-            <marker date="1496821796000" expanded="true" signature="3517:3574" ph="{...}" />
-            <marker date="1496821796000" expanded="true" signature="3623:3703" ph="{...}" />
-            <marker date="1496821796000" expanded="true" signature="3752:3834" ph="{...}" />
-            <marker date="1496821796000" expanded="true" signature="3863:3904" ph="{...}" />
           </folding>
         </state>
       </provider>
@@ -1206,6 +1172,131 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="345">
           <caret line="114" column="121" lean-forward="false" selection-start-line="114" selection-start-column="121" selection-end-line="114" selection-end-column="121" />
+          <folding>
+            <marker date="1496822725000" expanded="false" signature="9:72" ph=" WooCommerce Template Functions. ..." />
+            <marker date="1496822725000" expanded="true" signature="133:427" ph="..." />
+            <marker date="1496822725000" expanded="true" signature="138:276" ph=" Before Content ..." />
+            <marker date="1496822725000" expanded="true" signature="318:425" ph="..." />
+            <marker date="1496822725000" expanded="true" signature="486:727" ph="..." />
+            <marker date="1496822725000" expanded="true" signature="491:582" ph=" After Content ..." />
+            <marker date="1496822725000" expanded="true" signature="623:725" ph="..." />
+            <marker date="1496822725000" expanded="true" signature="791:1334" ph="..." />
+            <marker date="1496822725000" expanded="true" signature="796:1018" ph=" Cart Fragments ..." />
+            <marker date="1496822725000" expanded="true" signature="1076:1332" ph="..." />
+            <marker date="1496822725000" expanded="true" signature="1389:2037" ph="..." />
+            <marker date="1496822725000" expanded="true" signature="1394:1540" ph=" Cart Link ..." />
+            <marker date="1496822725000" expanded="true" signature="1577:2035" ph="..." />
+            <marker date="1496822725000" expanded="true" signature="1622:1658" ph="..." />
+            <marker date="1496822725000" expanded="true" signature="1674:1730" ph="..." />
+            <marker date="1496822725000" expanded="true" signature="1733:2024" ph="..." />
+            <marker date="1496822725000" expanded="true" signature="1765:1820" ph="..." />
+            <marker date="1496822725000" expanded="true" signature="1855:2008" ph="..." />
+            <marker date="1496822725000" expanded="true" signature="2097:2468" ph="..." />
+            <marker date="1496822725000" expanded="true" signature="2102:2254" ph=" Display Product Search ..." />
+            <marker date="1496822725000" expanded="true" signature="2296:2466" ph="..." />
+            <marker date="1496822725000" expanded="true" signature="2345:2463" ph="..." />
+            <marker date="1496822725000" expanded="true" signature="2376:2451" ph="..." />
+            <marker date="1496822725000" expanded="true" signature="2387:2440" ph="..." />
+            <marker date="1496822725000" expanded="true" signature="2525:3172" ph="..." />
+            <marker date="1496822725000" expanded="true" signature="2530:2679" ph=" Display Header Cart ..." />
+            <marker date="1496822725000" expanded="true" signature="2718:3170" ph="..." />
+            <marker date="1496822725000" expanded="true" signature="2767:3167" ph="..." />
+            <marker date="1496822725000" expanded="true" signature="2789:2827" ph="..." />
+            <marker date="1496822725000" expanded="true" signature="2835:2856" ph="..." />
+            <marker date="1496822725000" expanded="true" signature="2931:2976" ph="..." />
+            <marker date="1496822725000" expanded="true" signature="2979:3155" ph="..." />
+            <marker date="1496822725000" expanded="true" signature="3000:3026" ph="..." />
+            <marker date="1496822725000" expanded="true" signature="3029:3075" ph="..." />
+            <marker date="1496822725000" expanded="true" signature="3040:3065" ph="..." />
+            <marker date="1496822725000" expanded="true" signature="3083:3147" ph="..." />
+            <marker date="1496822725000" expanded="true" signature="3094:3137" ph="..." />
+            <marker date="1496822725000" expanded="true" signature="3232:3593" ph="..." />
+            <marker date="1496822725000" expanded="true" signature="3237:3438" ph=" Upsells ..." />
+            <marker date="1496822725000" expanded="true" signature="3480:3591" ph="..." />
+            <marker date="1496822725000" expanded="true" signature="3654:3813" ph="..." />
+            <marker date="1496822725000" expanded="true" signature="3659:3723" ph=" Sorting wrapper ..." />
+            <marker date="1496822725000" expanded="true" signature="3766:3811" ph="..." />
+            <marker date="1496822725000" expanded="true" signature="3880:4025" ph="..." />
+            <marker date="1496822725000" expanded="true" signature="3885:3955" ph=" Sorting wrapper close ..." />
+            <marker date="1496822725000" expanded="true" signature="4004:4023" ph="..." />
+            <marker date="1496822725000" expanded="true" signature="4094:4325" ph="..." />
+            <marker date="1496822725000" expanded="true" signature="4099:4171" ph=" Product columns wrapper ..." />
+            <marker date="1496822725000" expanded="true" signature="4222:4323" ph="..." />
+            <marker date="1496822725000" expanded="true" signature="4383:4617" ph="..." />
+            <marker date="1496822725000" expanded="true" signature="4388:4495" ph=" Default loop columns on product archives ..." />
+            <marker date="1496822725000" expanded="true" signature="4535:4615" ph="..." />
+            <marker date="1496822725000" expanded="true" signature="4692:4853" ph="..." />
+            <marker date="1496822725000" expanded="true" signature="4697:4775" ph=" Product columns wrapper close ..." />
+            <marker date="1496822725000" expanded="true" signature="4832:4851" ph="..." />
+            <marker date="1496822725000" expanded="true" signature="4912:5160" ph="..." />
+            <marker date="1496822725000" expanded="true" signature="4917:5009" ph=" Storefront shop messages ..." />
+            <marker date="1496822725000" expanded="true" signature="5050:5158" ph="..." />
+            <marker date="1496822725000" expanded="true" signature="5077:5155" ph="..." />
+            <marker date="1496822725000" expanded="true" signature="5228:5693" ph="..." />
+            <marker date="1496822725000" expanded="true" signature="5233:5559" ph=" Storefront WooCommerce Pagination ..." />
+            <marker date="1496822725000" expanded="true" signature="5609:5691" ph="..." />
+            <marker date="1496822725000" expanded="true" signature="5656:5688" ph="..." />
+            <marker date="1496822725000" expanded="true" signature="5756:7361" ph="..." />
+            <marker date="1496822725000" expanded="true" signature="5761:6425" ph=" Featured and On-Sale Products ..." />
+            <marker date="1496822725000" expanded="true" signature="6528:7359" ph="..." />
+            <marker date="1496822725000" expanded="true" signature="6577:7356" ph="..." />
+            <marker date="1496822725000" expanded="true" signature="6620:6845" ph="..." />
+            <marker date="1496822725000" expanded="true" signature="6733:6839" ph="..." />
+            <marker date="1496822725000" expanded="true" signature="6761:6837" ph="..." />
+            <marker date="1496822725000" expanded="true" signature="6888:7103" ph="..." />
+            <marker date="1496822725000" expanded="true" signature="6995:7097" ph="..." />
+            <marker date="1496822725000" expanded="true" signature="7019:7095" ph="..." />
+            <marker date="1496822725000" expanded="true" signature="7134:7352" ph="..." />
+            <marker date="1496822725000" expanded="true" signature="7242:7346" ph="..." />
+            <marker date="1496822725000" expanded="true" signature="7268:7344" ph="..." />
+            <marker date="1496822725000" expanded="true" signature="7426:8562" ph="..." />
+            <marker date="1496822725000" expanded="true" signature="7431:7511" ph=" Display a menu intended for use on handheld devices ..." />
+            <marker date="1496822725000" expanded="true" signature="7558:8560" ph="..." />
+            <marker date="1496822725000" expanded="true" signature="7576:7927" ph="..." />
+            <marker date="1496822725000" expanded="true" signature="7602:7693" ph="..." />
+            <marker date="1496822725000" expanded="true" signature="7721:7806" ph="..." />
+            <marker date="1496822725000" expanded="true" signature="7834:7922" ph="..." />
+            <marker date="1496822725000" expanded="true" signature="7978:8015" ph="..." />
+            <marker date="1496822725000" expanded="true" signature="8060:8091" ph="..." />
+            <marker date="1496822725000" expanded="true" signature="8220:8549" ph="..." />
+            <marker date="1496822725000" expanded="true" signature="8249:8272" ph="..." />
+            <marker date="1496822725000" expanded="true" signature="8275:8540" ph="..." />
+            <marker date="1496822725000" expanded="true" signature="8286:8530" ph="..." />
+            <marker date="1496822725000" expanded="true" signature="8324:8518" ph="..." />
+            <marker date="1496822725000" expanded="true" signature="8349:8373" ph="..." />
+            <marker date="1496822725000" expanded="true" signature="8376:8506" ph="..." />
+            <marker date="1496822725000" expanded="true" signature="8389:8494" ph="..." />
+            <marker date="1496822725000" expanded="true" signature="8422:8486" ph="..." />
+            <marker date="1496822725000" expanded="true" signature="8634:8883" ph="..." />
+            <marker date="1496822725000" expanded="true" signature="8639:8724" ph=" The search callback function for the handheld footer bar ..." />
+            <marker date="1496822725000" expanded="true" signature="8778:8881" ph="..." />
+            <marker date="1496822725000" expanded="true" signature="8958:9386" ph="..." />
+            <marker date="1496822725000" expanded="true" signature="8963:9046" ph=" The cart callback function for the handheld footer bar ..." />
+            <marker date="1496822725000" expanded="true" signature="9103:9384" ph="..." />
+            <marker date="1496822725000" expanded="true" signature="9155:9191" ph="..." />
+            <marker date="1496822725000" expanded="true" signature="9207:9263" ph="..." />
+            <marker date="1496822725000" expanded="true" signature="9266:9373" ph="..." />
+            <marker date="1496822725000" expanded="true" signature="9297:9357" ph="..." />
+            <marker date="1496822725000" expanded="true" signature="9464:9774" ph="..." />
+            <marker date="1496822725000" expanded="true" signature="9469:9555" ph=" The account callback function for the handheld footer bar ..." />
+            <marker date="1496822725000" expanded="true" signature="9615:9772" ph="..." />
+            <marker date="1496822725000" expanded="true" signature="9852:11547" ph="..." />
+            <marker date="1496822725000" expanded="true" signature="9857:10047" ph=" WARNING: This function will be deprecated in Storefront v2.2. ..." />
+            <marker date="1496822725000" expanded="true" signature="10107:11545" ph="..." />
+            <marker date="1496822725000" expanded="true" signature="10142:10156" ph="..." />
+            <marker date="1496822725000" expanded="true" signature="10603:10880" ph="..." />
+            <marker date="1496822725000" expanded="true" signature="10640:10875" ph="..." />
+            <marker date="1496822725000" expanded="true" signature="10909:11393" ph="..." />
+            <marker date="1496822725000" expanded="true" signature="11284:11388" ph="..." />
+            <marker date="1496822725000" expanded="true" signature="11424:11438" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/app/themes/storefront-child/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="579">
+          <caret line="45" column="45" lean-forward="false" selection-start-line="45" selection-start-column="45" selection-end-line="45" selection-end-column="45" />
           <folding />
         </state>
       </provider>
