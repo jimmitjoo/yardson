@@ -55,6 +55,7 @@ add_action('wp_footer', 'yardson_nyhetsbrev_markup');
 
 function yardson_nyhetsbrev_create_account()
 {
+    echo 'yardson_nyhetsbrev_create_account körs!';
     var_dump($_POST);
 
     $email_address = $_POST['nyhetsbrev_email'];
