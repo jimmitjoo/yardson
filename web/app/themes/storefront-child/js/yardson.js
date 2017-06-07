@@ -24,7 +24,10 @@ function get_cookie(name) {
 }
 
 if ( get_cookie( 'has_visited' ) === null ) {
-    jQuery('#nlpop').show();
+    jQuery('document').ready(function() {
+        jQuery('#nlpop').show();
+        console.log('visar!!!');
+    });
 } else {
     create_cookie('has_visited', 'yes', 365);
 }
