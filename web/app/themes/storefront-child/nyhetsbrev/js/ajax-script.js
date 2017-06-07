@@ -22,6 +22,7 @@ jQuery('document').ready(function () {
     jQuery('#nyhetsbrev_formular').submit(function (e) {
         e.preventDefault();
         console.log('submitted');
+        console.log({'Skickat: ': window.newsletterFormData});
         jQuery.ajax({
             url: yardson_nyhetsbrev.ajax_url,  // this is part of the JS object you pass in from wp_localize_scripts.
             type: 'post',        // 'get' or 'post', override for form's 'method' attribute
