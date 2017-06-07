@@ -55,6 +55,11 @@ body.woocommerce-checkout #primary {
 }
 
 @media (max-width: 767px) {
+    /* Logo size i mobilen */
+    .site-header .custom-logo-link img, .site-header .site-logo-anchor img, .site-header .site-logo-link img {
+        max-width: 43px;
+    }
+
     /* Mindre rubrik i mobilen */
     .page-template-template-homepage .entry-header h1 {
         font-size: 2em;
