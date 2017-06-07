@@ -1,5 +1,4 @@
 window.newsletterFormData = {};
-window.newsletterFormData.nyhetsbrev_email = jQuery('#nyhetsbrev_email').val();
 window.newsletterFormData.action = 'yardson_nyhetsbrev_create_account';
 
 var options = {
@@ -22,6 +21,7 @@ jQuery('document').ready(function () {
     jQuery('#nyhetsbrev_formular').submit(function (e) {
         e.preventDefault();
         console.log('submitted');
+        window.newsletterFormData.nyhetsbrev_email = jQuery('#nyhetsbrev_email').val();
         console.log({'Skickat: ': window.newsletterFormData});
         jQuery.ajax({
             url: yardson_nyhetsbrev.ajax_url,  // this is part of the JS object you pass in from wp_localize_scripts.
