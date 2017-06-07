@@ -6,36 +6,37 @@ var options = {
     type: 'post',        // 'get' or 'post', override for form's 'method' attribute
     dataType: 'json',
     data: window.newsletterFormData,
-    success : function(responseText, statusText, xhr, $form) {
+    success: function (responseText, statusText, xhr, $form) {
         jQuery('#nyhetsbrev_formular').html('<p>Ditt konto är nu skapat, kolla din e-post!</p>');
     },
     // use beforeSubmit to add your nonce to the form data before submitting.
-    beforeSubmit : function(arr, $form, options){
-        arr.push( { "name" : "nonce", "value" : yardson_nyhetsbrev.nonce });
+    beforeSubmit: function (arr, $form, options) {
+        arr.push({"name": "nonce", "value": yardson_nyhetsbrev.nonce});
     },
 
 };
-
+jQuery('document').ready(function () {
 // you should probably use an id more unique than "form"
-jQuery('#nyhetsbrev_formular').ajax(options);
-/*
-jQuery('#nyhetsbrev_formular').on('submit', function (event) {
-    event.preventDefault();
-
-    window.newsletterFormData.nyhetsbrev_email = jQuery('#nyhetsbrev_email').val();
-
-
-    jQuery.ajax(
-        {
-            type: "post",
-            dataType: "json",
-            url: yardson_nyhetsbrev.ajax_url,
-            data: window.newsletterFormData,
-            success: function (msg) {
-                console.log(msg);
-            }
-        }
-    );
+    jQuery('#nyhetsbrev_formular').ajax(options);
 });
+/*
+ jQuery('#nyhetsbrev_formular').on('submit', function (event) {
+ event.preventDefault();
 
-*/
+ window.newsletterFormData.nyhetsbrev_email = jQuery('#nyhetsbrev_email').val();
+
+
+ jQuery.ajax(
+ {
+ type: "post",
+ dataType: "json",
+ url: yardson_nyhetsbrev.ajax_url,
+ data: window.newsletterFormData,
+ success: function (msg) {
+ console.log(msg);
+ }
+ }
+ );
+ });
+
+ */
