@@ -23,4 +23,6 @@ function get_cookie(name) {
     return null;
 }
 
-setTimeout(create_cookie('has_visited', 'yes', 365), 1000);
+setTimeout(function() {
+    create_cookie('has_visited', 'yes', 365);
+}, 1000);
