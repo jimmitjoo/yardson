@@ -74,6 +74,9 @@ body.woocommerce-checkout #primary
         width: 100%;
         z-index: 1000;
     }
+    #wpadminbar {
+        position: fixed;
+    }
     body.admin-bar #masthead {
         top: 46px;
     }
