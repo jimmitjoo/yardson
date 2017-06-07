@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="34c3f3ed-5d4a-4459-9af4-aae409ab49e2" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web/app/themes/storefront-child/nyhetsbrev/functions.php" afterPath="$PROJECT_DIR$/web/app/themes/storefront-child/nyhetsbrev/functions.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web/app/themes/storefront-child/nyhetsbrev/js/ajax-script.js" afterPath="$PROJECT_DIR$/web/app/themes/storefront-child/nyhetsbrev/js/ajax-script.js" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -14,13 +14,14 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="functions.php" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/web/app/themes/storefront-child/nyhetsbrev/functions.php">
+      <file leaf-file-name="ajax-script.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/web/app/themes/storefront-child/nyhetsbrev/js/ajax-script.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="706">
-              <caret line="90" column="0" lean-forward="false" selection-start-line="90" selection-start-column="0" selection-end-line="90" selection-end-column="0" />
+            <state relative-caret-position="505">
+              <caret line="28" column="8" lean-forward="false" selection-start-line="28" selection-start-column="8" selection-end-line="28" selection-end-column="8" />
               <folding>
-                <element signature="e#6#97#0#PHP" expanded="true" />
+                <marker date="1496836371000" expanded="true" signature="791:8317" ph="{...}" />
+                <marker date="1496836371000" expanded="true" signature="879:8315" ph="{...}" />
               </folding>
             </state>
           </provider>
@@ -64,8 +65,8 @@
         <option value="$PROJECT_DIR$/web/app/themes/storefront-child/js/yardson.js" />
         <option value="$PROJECT_DIR$/web/app/themes/storefront-child/nyhetsbrev/style.css" />
         <option value="$PROJECT_DIR$/web/app/themes/storefront-child/nyhetsbrev/js/nyhetsbrev.js" />
-        <option value="$PROJECT_DIR$/web/app/themes/storefront-child/nyhetsbrev/js/ajax-script.js" />
         <option value="$PROJECT_DIR$/web/app/themes/storefront-child/nyhetsbrev/functions.php" />
+        <option value="$PROJECT_DIR$/web/app/themes/storefront-child/nyhetsbrev/js/ajax-script.js" />
       </list>
     </option>
   </component>
@@ -481,7 +482,7 @@
     <property name="settings.editor.selected.configurable" value="preferences.intentionPowerPack" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="SearchEverywhereHistoryKey" value="&#9;FILE&#9;file:///Users/jimmiejohansson/Code/yardson/web/app/themes/storefront-child/nyhetsbrev/functions.php&#10;get_template_directory_uri&#9;null&#9;null" />
+    <property name="SearchEverywhereHistoryKey" value="&#9;FILE&#9;file:///Users/jimmiejohansson/Code/yardson/web/app/themes/storefront-child/nyhetsbrev/js/ajax-script.js&#10;get_template_directory_uri&#9;null&#9;null" />
     <property name="FullScreen" value="true" />
   </component>
   <component name="RecentsManager">
@@ -603,12 +604,12 @@
       <updated>1495654816194</updated>
       <workItem from="1495654817490" duration="1762000" />
       <workItem from="1495724961964" duration="1881000" />
-      <workItem from="1496762435265" duration="14542000" />
+      <workItem from="1496762435265" duration="14624000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="18185000" />
+    <option name="totallyTimeSpent" value="18267000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
@@ -2029,33 +2030,34 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/web/app/themes/storefront-child/nyhetsbrev/js/ajax-script.js">
+    <entry file="file://$PROJECT_DIR$/web/app/themes/storefront-child/nyhetsbrev/functions.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="646">
-          <caret line="36" column="25" lean-forward="false" selection-start-line="36" selection-start-column="25" selection-end-line="36" selection-end-column="25" />
+        <state relative-caret-position="430">
+          <caret line="72" column="23" lean-forward="true" selection-start-line="72" selection-start-column="23" selection-end-line="72" selection-end-column="23" />
           <folding>
-            <marker date="1496836220000" expanded="true" signature="119:752" ph="{&quot;url&quot;: yardson_nyhetsbrev.ajax_url...}" />
-            <marker date="1496836220000" expanded="true" signature="435:540" ph="{...}" />
-            <marker date="1496836220000" expanded="true" signature="669:748" ph="{...}" />
-            <marker date="1496836220000" expanded="true" signature="791:8304" ph="{...}" />
-            <marker date="1496836220000" expanded="true" signature="791:8306" ph="{...}" />
-            <marker date="1496836220000" expanded="true" signature="879:8300" ph="{...}" />
-            <marker date="1496836220000" expanded="true" signature="879:8304" ph="{...}" />
-            <marker date="1496836220000" expanded="true" signature="7417:8269" ph="{&quot;url&quot;: yardson_nyhetsbrev.ajax_url...}" />
-            <marker date="1496836220000" expanded="true" signature="7773:8019" ph="{...}" />
-            <marker date="1496836220000" expanded="true" signature="7920:7997" ph="{...}" />
-            <marker date="1496836220000" expanded="true" signature="8164:8259" ph="{...}" />
-            <marker date="1496836220000" expanded="true" signature="8307:8668" ph="/*...*/" />
+            <marker date="1496836288000" expanded="true" signature="9:95" ph=" Created by PhpStorm. ..." />
+            <marker date="1496836288000" expanded="true" signature="143:1120" ph="{...}" />
+            <marker date="1496836288000" expanded="true" signature="273:441" ph="..." />
+            <marker date="1496836288000" expanded="true" signature="802:1116" ph="..." />
+            <marker date="1496836288000" expanded="true" signature="881:1110" ph="..." />
+            <marker date="1496836288000" expanded="true" signature="1230:1966" ph="{...}" />
+            <marker date="1496836288000" expanded="true" signature="2067:3022" ph="{...}" />
+            <marker date="1496836288000" expanded="true" signature="2169:3008" ph="..." />
+            <marker date="1496836288000" expanded="true" signature="2406:2527" ph="..." />
+            <marker date="1496836288000" expanded="true" signature="2425:2517" ph="..." />
+            <marker date="1496836288000" expanded="true" signature="2758:2922" ph="..." />
+            <marker date="1496836288000" expanded="true" signature="3069:3094" ph="..." />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/web/app/themes/storefront-child/nyhetsbrev/functions.php">
+    <entry file="file://$PROJECT_DIR$/web/app/themes/storefront-child/nyhetsbrev/js/ajax-script.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="706">
-          <caret line="90" column="0" lean-forward="false" selection-start-line="90" selection-start-column="0" selection-end-line="90" selection-end-column="0" />
+        <state relative-caret-position="505">
+          <caret line="28" column="8" lean-forward="false" selection-start-line="28" selection-start-column="8" selection-end-line="28" selection-end-column="8" />
           <folding>
-            <element signature="e#6#97#0#PHP" expanded="true" />
+            <marker date="1496836371000" expanded="true" signature="791:8317" ph="{...}" />
+            <marker date="1496836371000" expanded="true" signature="879:8315" ph="{...}" />
           </folding>
         </state>
       </provider>
