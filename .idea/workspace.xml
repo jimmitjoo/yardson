@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="34c3f3ed-5d4a-4459-9af4-aae409ab49e2" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gitignore" afterPath="$PROJECT_DIR$/.gitignore" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web/app/themes/storefront-child/nyhetsbrev/js/ajax-script.js" afterPath="$PROJECT_DIR$/web/app/themes/storefront-child/nyhetsbrev/js/ajax-script.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web/app/themes/storefront-child/style.css" afterPath="$PROJECT_DIR$/web/app/themes/storefront-child/style.css" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -16,11 +14,11 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name=".gitignore" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/.gitignore">
+      <file leaf-file-name="style.css" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/web/app/themes/storefront-child/style.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="78">
-              <caret line="3" column="27" lean-forward="false" selection-start-line="3" selection-start-column="27" selection-end-line="3" selection-end-column="27" />
+            <state relative-caret-position="693">
+              <caret line="38" column="5" lean-forward="true" selection-start-line="38" selection-start-column="5" selection-end-line="38" selection-end-column="5" />
               <folding />
             </state>
           </provider>
@@ -58,7 +56,6 @@
         <option value="$PROJECT_DIR$/web/app/plugins/woocommerce-brands/includes/class-wc-brands.php" />
         <option value="$PROJECT_DIR$/config/application.php" />
         <option value="$PROJECT_DIR$/web/app/themes/storefront/inc/woocommerce/storefront-woocommerce-template-functions.php" />
-        <option value="$PROJECT_DIR$/web/app/themes/storefront-child/style.css" />
         <option value="$PROJECT_DIR$/web/app/themes/storefront-child/functions.php" />
         <option value="$PROJECT_DIR$/web/app/themes/storefront-child/js/yardson.js" />
         <option value="$PROJECT_DIR$/web/app/themes/storefront-child/nyhetsbrev/style.css" />
@@ -66,6 +63,7 @@
         <option value="$PROJECT_DIR$/web/app/themes/storefront-child/nyhetsbrev/functions.php" />
         <option value="$PROJECT_DIR$/web/app/themes/storefront-child/nyhetsbrev/js/ajax-script.js" />
         <option value="$PROJECT_DIR$/.gitignore" />
+        <option value="$PROJECT_DIR$/web/app/themes/storefront-child/style.css" />
       </list>
     </option>
   </component>
@@ -514,12 +512,12 @@
       <updated>1495654816194</updated>
       <workItem from="1495654817490" duration="1762000" />
       <workItem from="1495724961964" duration="1881000" />
-      <workItem from="1496762435265" duration="14831000" />
+      <workItem from="1496762435265" duration="15111000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="18474000" />
+    <option name="totallyTimeSpent" value="18754000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
@@ -1767,41 +1765,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/web/app/themes/storefront-child/style.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="344">
-          <caret line="45" column="45" lean-forward="false" selection-start-line="45" selection-start-column="45" selection-end-line="45" selection-end-column="45" />
-          <folding>
-            <marker date="1496822933000" expanded="true" signature="0:389" ph="/*...*/" />
-            <marker date="1496822933000" expanded="true" signature="763:785" ph="{...}" />
-            <marker date="1496822933000" expanded="true" signature="853:917" ph="{...}" />
-            <marker date="1496822933000" expanded="true" signature="964:1066" ph="{...}" />
-            <marker date="1496822933000" expanded="true" signature="1093:1186" ph="{...}" />
-            <marker date="1496822933000" expanded="true" signature="1220:1239" ph="{...}" />
-            <marker date="1496822933000" expanded="true" signature="1267:4026" ph="{...}" />
-            <marker date="1496822933000" expanded="true" signature="1357:1388" ph="{...}" />
-            <marker date="1496822933000" expanded="true" signature="1396:1434" ph="{...}" />
-            <marker date="1496822933000" expanded="true" signature="1560:1600" ph="{...}" />
-            <marker date="1496822933000" expanded="true" signature="1649:1680" ph="{...}" />
-            <marker date="1496822933000" expanded="true" signature="1724:1758" ph="{...}" />
-            <marker date="1496822933000" expanded="true" signature="1773:1980" ph="{...}" />
-            <marker date="1496822933000" expanded="true" signature="1997:2029" ph="{...}" />
-            <marker date="1496822933000" expanded="true" signature="2059:2085" ph="{...}" />
-            <marker date="1496822933000" expanded="true" signature="2297:2394" ph="{...}" />
-            <marker date="1496822933000" expanded="true" signature="2664:2754" ph="{...}" />
-            <marker date="1496822933000" expanded="true" signature="2831:2873" ph="{...}" />
-            <marker date="1496822933000" expanded="true" signature="2941:3227" ph="{...}" />
-            <marker date="1496822933000" expanded="true" signature="3276:3304" ph="{...}" />
-            <marker date="1496822933000" expanded="true" signature="3366:3401" ph="{...}" />
-            <marker date="1496822933000" expanded="true" signature="3509:3567" ph="{...}" />
-            <marker date="1496822933000" expanded="true" signature="3637:3694" ph="{...}" />
-            <marker date="1496822933000" expanded="true" signature="3743:3823" ph="{...}" />
-            <marker date="1496822933000" expanded="true" signature="3872:3954" ph="{...}" />
-            <marker date="1496822933000" expanded="true" signature="3983:4024" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/web/app/themes/storefront-child/nyhetsbrev/style.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="650">
@@ -1980,6 +1943,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="78">
           <caret line="3" column="27" lean-forward="false" selection-start-line="3" selection-start-column="27" selection-end-line="3" selection-end-column="27" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/app/themes/storefront-child/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="693">
+          <caret line="38" column="5" lean-forward="true" selection-start-line="38" selection-start-column="5" selection-end-line="38" selection-end-column="5" />
           <folding />
         </state>
       </provider>

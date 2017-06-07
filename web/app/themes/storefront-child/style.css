@@ -32,6 +32,13 @@ body.woocommerce-checkout #primary
     width: 100%;
 }
 
+/* Full bredd */
+@media (min-width: 768px) {
+    .col-full {
+        max-width: 2000px;
+    }
+}
+
 /* Varukorgen i desktop */
 .site-header-cart {
     background: #f0c14b;
