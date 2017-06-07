@@ -9,7 +9,7 @@
 function yardson_nyhetsbrev_enqueue_styles()
 {
 
-    $templateStyle = 'yardson-style'; // This is 'twentyfifteen-style' for the Twenty Fifteen theme.
+    $templateStyle = 'storefront-style'; // This is 'twentyfifteen-style' for the Twenty Fifteen theme.
 
     wp_enqueue_style('yardson-nyhetsbrev-style',
         get_stylesheet_directory_uri() . '/nyhetsbrev/style.css',
