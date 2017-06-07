@@ -32,3 +32,15 @@
 #nyhetsbrev_formular {
     margin-bottom: 0;
 }
+
+@media (max-width: 960px) {
+    .newsletter-popup {
+        background-position: -60px -70px;
+        height: 361px;
+        left: 50%;
+        margin-left: -200px;
+        top: 70px;
+        width: 400px;
+        background-repeat: no-repeat;
+    }
+}
