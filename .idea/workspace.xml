@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="34c3f3ed-5d4a-4459-9af4-aae409ab49e2" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web/app/themes/storefront-child/nyhetsbrev/functions.php" afterPath="$PROJECT_DIR$/web/app/themes/storefront-child/nyhetsbrev/functions.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web/app/themes/storefront-child/nyhetsbrev/js/ajax-script.js" afterPath="$PROJECT_DIR$/web/app/themes/storefront-child/nyhetsbrev/js/ajax-script.js" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -17,11 +18,11 @@
       <file leaf-file-name="ajax-script.js" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/web/app/themes/storefront-child/nyhetsbrev/js/ajax-script.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="461">
-              <caret line="26" column="10" lean-forward="false" selection-start-line="26" selection-start-column="10" selection-end-line="26" selection-end-column="10" />
+            <state relative-caret-position="646">
+              <caret line="36" column="25" lean-forward="false" selection-start-line="36" selection-start-column="25" selection-end-line="36" selection-end-column="25" />
               <folding>
-                <marker date="1496835848000" expanded="true" signature="791:8181" ph="{...}" />
-                <marker date="1496835848000" expanded="true" signature="879:8179" ph="{...}" />
+                <marker date="1496836220000" expanded="true" signature="791:8306" ph="{...}" />
+                <marker date="1496836220000" expanded="true" signature="879:8304" ph="{...}" />
               </folding>
             </state>
           </provider>
@@ -39,7 +40,12 @@
       <find>cart</find>
       <find>displ</find>
       <find>log</find>
+      <find>#333333</find>
+      <find>get_user_by</find>
     </findStrings>
+    <replaceStrings>
+      <replace>#ffffff</replace>
+    </replaceStrings>
     <dirStrings>
       <dir>$PROJECT_DIR$/web/app/plugins/woocommerce</dir>
     </dirStrings>
@@ -599,12 +605,12 @@
       <updated>1495654816194</updated>
       <workItem from="1495654817490" duration="1762000" />
       <workItem from="1495724961964" duration="1881000" />
-      <workItem from="1496762435265" duration="14168000" />
+      <workItem from="1496762435265" duration="14484000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="17811000" />
+    <option name="totallyTimeSpent" value="18127000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
@@ -1981,34 +1987,78 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/web/wp/wp-includes/pluggable-deprecated.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="290">
+          <caret line="67" column="45" lean-forward="true" selection-start-line="67" selection-start-column="45" selection-end-line="67" selection-end-column="45" />
+          <folding>
+            <marker date="1494974888000" expanded="false" signature="9:375" ph=" Deprecated pluggable functions from past WordPress versions. You shouldn't use these ..." />
+            <marker date="1494974888000" expanded="true" signature="381:425" ph="..." />
+            <marker date="1494974888000" expanded="true" signature="474:993" ph="..." />
+            <marker date="1494974888000" expanded="true" signature="478:829" ph=" Changes the current user by ID or name. ..." />
+            <marker date="1494974888000" expanded="true" signature="876:991" ph="..." />
+            <marker date="1494974888000" expanded="true" signature="1049:1480" ph="..." />
+            <marker date="1494974888000" expanded="true" signature="1053:1336" ph=" Populate global variables with information about the currently logged in user. ..." />
+            <marker date="1494974888000" expanded="true" signature="1371:1478" ph="..." />
+            <marker date="1494974888000" expanded="true" signature="1536:1930" ph="..." />
+            <marker date="1494974888000" expanded="true" signature="1540:1766" ph=" Retrieve user info by login name. ..." />
+            <marker date="1494974888000" expanded="true" signature="1812:1928" ph="..." />
+            <marker date="1494974888000" expanded="true" signature="1984:2362" ph="..." />
+            <marker date="1494974888000" expanded="true" signature="1988:2210" ph=" Retrieve user info by email. ..." />
+            <marker date="1494974888000" expanded="true" signature="2249:2360" ph="..." />
+            <marker date="1494974888000" expanded="true" signature="2411:3373" ph="..." />
+            <marker date="1494974888000" expanded="true" signature="2415:3011" ph=" Sets a cookie for a user who just logged in. This function is deprecated. ..." />
+            <marker date="1494974888000" expanded="true" signature="3132:3290" ph="..." />
+            <marker date="1494974888000" expanded="true" signature="3298:3372" ph="..." />
+            <marker date="1494974888000" expanded="true" signature="3424:3833" ph="..." />
+            <marker date="1494974888000" expanded="true" signature="3428:3616" ph=" Clears the authentication cookie, logging the user out. This function is deprecated. ..." />
+            <marker date="1494974888000" expanded="true" signature="3646:3746" ph="..." />
+            <marker date="1494974888000" expanded="true" signature="3754:3832" ph="..." />
+            <marker date="1494974888000" expanded="true" signature="3888:4351" ph="..." />
+            <marker date="1494974888000" expanded="true" signature="3892:4186" ph=" Gets the user cookie login. This function is deprecated. ..." />
+            <marker date="1494974888000" expanded="true" signature="4221:4285" ph="..." />
+            <marker date="1494974888000" expanded="true" signature="4293:4350" ph="..." />
+            <marker date="1494974888000" expanded="true" signature="4396:5542" ph="..." />
+            <marker date="1494974888000" expanded="true" signature="4400:5182" ph=" Checks a users login information and logs them in if it checks out. This function is deprecated. ..." />
+            <marker date="1494974888000" expanded="true" signature="5244:5472" ph="..." />
+            <marker date="1494974888000" expanded="true" signature="5480:5541" ph="..." />
+            <marker date="1494974888000" expanded="true" signature="5553:5859" ph=" WordPress AtomPub API implementation. ..." />
+            <marker date="1494974888000" expanded="true" signature="5912:6260" ph="..." />
+            <marker date="1494974888000" expanded="true" signature="5936:6258" ph="..." />
+            <marker date="1494974888000" expanded="true" signature="5984:6088" ph="..." />
+            <marker date="1494974888000" expanded="true" signature="6151:6255" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/web/app/themes/storefront-child/nyhetsbrev/functions.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1181">
-          <caret line="87" column="10" lean-forward="false" selection-start-line="87" selection-start-column="10" selection-end-line="87" selection-end-column="10" />
+        <state relative-caret-position="456">
+          <caret line="90" column="10" lean-forward="true" selection-start-line="90" selection-start-column="10" selection-end-line="90" selection-end-column="10" />
           <folding>
-            <marker date="1496835459000" expanded="true" signature="9:95" ph=" Created by PhpStorm. ..." />
-            <marker date="1496835459000" expanded="true" signature="143:1120" ph="{...}" />
-            <marker date="1496835459000" expanded="true" signature="273:441" ph="..." />
-            <marker date="1496835459000" expanded="true" signature="802:1116" ph="..." />
-            <marker date="1496835459000" expanded="true" signature="881:1110" ph="..." />
-            <marker date="1496835459000" expanded="true" signature="1230:1966" ph="{...}" />
-            <marker date="1496835459000" expanded="true" signature="2067:2956" ph="{...}" />
-            <marker date="1496835459000" expanded="true" signature="2169:2930" ph="..." />
-            <marker date="1496835459000" expanded="true" signature="2406:2527" ph="..." />
-            <marker date="1496835459000" expanded="true" signature="2425:2517" ph="..." />
-            <marker date="1496835459000" expanded="true" signature="2758:2922" ph="..." />
-            <marker date="1496835459000" expanded="true" signature="3003:3028" ph="..." />
+            <marker date="1496836182000" expanded="true" signature="9:95" ph=" Created by PhpStorm. ..." />
+            <marker date="1496836182000" expanded="true" signature="143:1120" ph="{...}" />
+            <marker date="1496836182000" expanded="true" signature="273:441" ph="..." />
+            <marker date="1496836182000" expanded="true" signature="802:1116" ph="..." />
+            <marker date="1496836182000" expanded="true" signature="881:1110" ph="..." />
+            <marker date="1496836182000" expanded="true" signature="1230:1966" ph="{...}" />
+            <marker date="1496836182000" expanded="true" signature="2067:3034" ph="{...}" />
+            <marker date="1496836182000" expanded="true" signature="2169:3008" ph="..." />
+            <marker date="1496836182000" expanded="true" signature="2406:2527" ph="..." />
+            <marker date="1496836182000" expanded="true" signature="2425:2517" ph="..." />
+            <marker date="1496836182000" expanded="true" signature="2758:2922" ph="..." />
+            <marker date="1496836182000" expanded="true" signature="3081:3106" ph="..." />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/web/app/themes/storefront-child/nyhetsbrev/js/ajax-script.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="461">
-          <caret line="26" column="10" lean-forward="false" selection-start-line="26" selection-start-column="10" selection-end-line="26" selection-end-column="10" />
+        <state relative-caret-position="646">
+          <caret line="36" column="25" lean-forward="false" selection-start-line="36" selection-start-column="25" selection-end-line="36" selection-end-column="25" />
           <folding>
-            <marker date="1496835848000" expanded="true" signature="791:8181" ph="{...}" />
-            <marker date="1496835848000" expanded="true" signature="879:8179" ph="{...}" />
+            <marker date="1496836220000" expanded="true" signature="791:8306" ph="{...}" />
+            <marker date="1496836220000" expanded="true" signature="879:8304" ph="{...}" />
           </folding>
         </state>
       </provider>

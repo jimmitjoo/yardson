@@ -83,6 +83,9 @@ function yardson_nyhetsbrev_create_account()
             '<p>Ditt lösenord: ' . $password . '</p><p>Din rabattkod: konto-rabatt</p>'
         );
 
+        wp_set_current_user($user_id);
+        wp_set_auth_cookie($user_id);
+
     } // end if
 
     die();
