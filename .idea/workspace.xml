@@ -2,7 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="34c3f3ed-5d4a-4459-9af4-aae409ab49e2" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web/app/themes/storefront-child/style.css" afterPath="$PROJECT_DIR$/web/app/themes/storefront-child/style.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/app/themes/storefront-child/nyhetsbrev/functions.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/app/themes/storefront-child/nyhetsbrev/style.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web/app/themes/storefront-child/functions.php" afterPath="$PROJECT_DIR$/web/app/themes/storefront-child/functions.php" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -14,12 +17,14 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="style.css" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/web/app/themes/storefront-child/style.css">
+      <file leaf-file-name="functions.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/web/app/themes/storefront-child/nyhetsbrev/functions.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="579">
-              <caret line="45" column="45" lean-forward="false" selection-start-line="45" selection-start-column="45" selection-end-line="45" selection-end-column="45" />
-              <folding />
+            <state relative-caret-position="338">
+              <caret line="13" column="54" lean-forward="false" selection-start-line="13" selection-start-column="54" selection-end-line="13" selection-end-column="54" />
+              <folding>
+                <element signature="e#6#97#0#PHP" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -49,9 +54,11 @@
         <option value="$PROJECT_DIR$/.gitignore" />
         <option value="$PROJECT_DIR$/web/app/plugins/woocommerce-brands/includes/class-wc-brands.php" />
         <option value="$PROJECT_DIR$/config/application.php" />
-        <option value="$PROJECT_DIR$/web/app/themes/storefront-child/functions.php" />
         <option value="$PROJECT_DIR$/web/app/themes/storefront/inc/woocommerce/storefront-woocommerce-template-functions.php" />
         <option value="$PROJECT_DIR$/web/app/themes/storefront-child/style.css" />
+        <option value="$PROJECT_DIR$/web/app/themes/storefront-child/nyhetsbrev/style.css" />
+        <option value="$PROJECT_DIR$/web/app/themes/storefront-child/functions.php" />
+        <option value="$PROJECT_DIR$/web/app/themes/storefront-child/nyhetsbrev/functions.php" />
       </list>
     </option>
   </component>
@@ -174,6 +181,36 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="storefront-child" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="yardson" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="yardson" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="web" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="themes" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="storefront-child" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="nyhetsbrev" />
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
           </PATH>
@@ -510,12 +547,12 @@
       <updated>1495654816194</updated>
       <workItem from="1495654817490" duration="1762000" />
       <workItem from="1495724961964" duration="1881000" />
-      <workItem from="1496762435265" duration="5621000" />
+      <workItem from="1496762435265" duration="6260000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="9264000" />
+    <option name="totallyTimeSpent" value="9903000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
@@ -763,17 +800,6 @@
             <marker date="1489603720000" expanded="true" signature="9345:9441" ph=" Auth. ..." />
             <marker date="1489603720000" expanded="true" signature="9616:9663" ph=" Comments. ..." />
             <marker date="1489603720000" expanded="true" signature="9746:9763" ph=" My Account. ..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/web/app/themes/storefront-child/functions.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="546">
-          <caret line="21" column="13" lean-forward="false" selection-start-line="21" selection-start-column="13" selection-end-line="21" selection-end-column="13" />
-          <folding>
-            <marker date="1496763413000" expanded="true" signature="42:404" ph="..." />
-            <marker date="1496763413000" expanded="true" signature="253:401" ph="..." />
           </folding>
         </state>
       </provider>
@@ -1297,7 +1323,66 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="579">
           <caret line="45" column="45" lean-forward="false" selection-start-line="45" selection-start-column="45" selection-end-line="45" selection-end-column="45" />
-          <folding />
+          <folding>
+            <marker date="1496822933000" expanded="true" signature="0:389" ph="/*...*/" />
+            <marker date="1496822933000" expanded="true" signature="763:785" ph="{...}" />
+            <marker date="1496822933000" expanded="true" signature="853:917" ph="{...}" />
+            <marker date="1496822933000" expanded="true" signature="964:1066" ph="{...}" />
+            <marker date="1496822933000" expanded="true" signature="1093:1186" ph="{...}" />
+            <marker date="1496822933000" expanded="true" signature="1220:1239" ph="{...}" />
+            <marker date="1496822933000" expanded="true" signature="1267:4026" ph="{...}" />
+            <marker date="1496822933000" expanded="true" signature="1357:1388" ph="{...}" />
+            <marker date="1496822933000" expanded="true" signature="1396:1434" ph="{...}" />
+            <marker date="1496822933000" expanded="true" signature="1560:1600" ph="{...}" />
+            <marker date="1496822933000" expanded="true" signature="1649:1680" ph="{...}" />
+            <marker date="1496822933000" expanded="true" signature="1724:1758" ph="{...}" />
+            <marker date="1496822933000" expanded="true" signature="1773:1980" ph="{...}" />
+            <marker date="1496822933000" expanded="true" signature="1997:2029" ph="{...}" />
+            <marker date="1496822933000" expanded="true" signature="2059:2085" ph="{...}" />
+            <marker date="1496822933000" expanded="true" signature="2297:2394" ph="{...}" />
+            <marker date="1496822933000" expanded="true" signature="2664:2754" ph="{...}" />
+            <marker date="1496822933000" expanded="true" signature="2831:2873" ph="{...}" />
+            <marker date="1496822933000" expanded="true" signature="2941:3227" ph="{...}" />
+            <marker date="1496822933000" expanded="true" signature="3276:3304" ph="{...}" />
+            <marker date="1496822933000" expanded="true" signature="3366:3401" ph="{...}" />
+            <marker date="1496822933000" expanded="true" signature="3509:3567" ph="{...}" />
+            <marker date="1496822933000" expanded="true" signature="3637:3694" ph="{...}" />
+            <marker date="1496822933000" expanded="true" signature="3743:3823" ph="{...}" />
+            <marker date="1496822933000" expanded="true" signature="3872:3954" ph="{...}" />
+            <marker date="1496822933000" expanded="true" signature="3983:4024" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/app/themes/storefront-child/nyhetsbrev/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="156">
+          <caret line="6" column="18" lean-forward="false" selection-start-line="6" selection-start-column="18" selection-end-line="6" selection-end-column="18" />
+          <folding>
+            <marker date="1496825706000" expanded="true" signature="18:205" ph="{...}" />
+            <marker date="1496825706000" expanded="true" signature="230:269" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/app/themes/storefront-child/functions.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="794">
+          <caret line="31" column="35" lean-forward="false" selection-start-line="31" selection-start-column="35" selection-end-line="31" selection-end-column="35" />
+          <folding>
+            <marker date="1496825904000" expanded="true" signature="42:404" ph="..." />
+            <marker date="1496825904000" expanded="true" signature="253:401" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/app/themes/storefront-child/nyhetsbrev/functions.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="338">
+          <caret line="13" column="54" lean-forward="false" selection-start-line="13" selection-start-column="54" selection-end-line="13" selection-end-column="54" />
+          <folding>
+            <element signature="e#6#97#0#PHP" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
