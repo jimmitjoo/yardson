@@ -17,3 +17,13 @@ function yardson_nyhetsbrev_enqueue_styles() {
     );
 }
 add_action( 'wp_enqueue_scripts', 'yardson_nyhetsbrev_enqueue_styles' );
+
+function yardson_nyhetsbrev_markup() {
+    echo '<div class="newsletter-popup">';
+        echo '<div class="form">';
+            echo '<h4>Skapa ett gratis konto</h4>';
+            echo '<h1>Få 10% rabatt</h1>';
+        echo '</div>';
+    echo '</div>';
+}
+add_action( 'wp_footer', 'yardson_nyhetsbrev_markup' );
