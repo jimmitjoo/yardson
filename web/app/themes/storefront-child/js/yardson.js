@@ -23,7 +23,8 @@ function get_cookie(name) {
     return null;
 }
 
-setTimeout(function() {
+if ( get_cookie( 'has_visited' ) === null ) {
+    jQuery('#nlpop').show();
+} else {
     create_cookie('has_visited', 'yes', 365);
-    console.log('sätter cookie');
-}, 5000);
+}
