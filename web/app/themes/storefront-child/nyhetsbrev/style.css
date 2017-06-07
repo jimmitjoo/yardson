@@ -1,3 +1,11 @@
+#nlpop {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100vw;
+    height: 100vh;
+    background: rgba(0,0,0,.97);
+}
 .newsletter-popup {
     background-image: url('images/tjej-tittar-vanster.jpg');
     background-position: 0 -70px;
