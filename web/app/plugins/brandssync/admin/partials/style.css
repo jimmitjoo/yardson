@@ -1,0 +1,23 @@
+.column-imported {
+  width: 54px;
+}
+label.locale {
+  width: 80px;
+  display: inline-block;
+}
+.text-danger {
+  color: red;
+}
+.text-success {
+  color: green;
+}
+.text-warning {
+  color: #cbcb00;
+}
+.brandssync-status-page .card {
+  display: inline-block;
+  vertical-align: top;
+}
+.widefat .column-brandssync_status{
+  width: 85px;
+}
