@@ -3,7 +3,7 @@ if ( get_cookie( 'shown_create_account' ) === null ) {
         jQuery('#nlpop').show();
         create_cookie('shown_create_account', 'yes', 21);
 
-        jQuery('#nlpop').click(function() {
+        jQuery('#nlpop').click(function(event) {
             jQuery(this).hide();
         });
 
