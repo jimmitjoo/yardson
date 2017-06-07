@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="34c3f3ed-5d4a-4459-9af4-aae409ab49e2" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web/app/themes/storefront-child/nyhetsbrev/functions.php" afterPath="$PROJECT_DIR$/web/app/themes/storefront-child/nyhetsbrev/functions.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web/app/themes/storefront-child/nyhetsbrev/js/nyhetsbrev.js" afterPath="$PROJECT_DIR$/web/app/themes/storefront-child/nyhetsbrev/js/nyhetsbrev.js" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -18,7 +19,7 @@
         <entry file="file://$PROJECT_DIR$/web/app/themes/storefront-child/nyhetsbrev/js/nyhetsbrev.js">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="26">
-              <caret line="1" column="35" lean-forward="false" selection-start-line="1" selection-start-column="35" selection-end-line="1" selection-end-column="35" />
+              <caret line="1" column="20" lean-forward="true" selection-start-line="1" selection-start-column="20" selection-end-line="1" selection-end-column="20" />
               <folding />
             </state>
           </provider>
@@ -55,8 +56,8 @@
         <option value="$PROJECT_DIR$/web/app/themes/storefront-child/nyhetsbrev/js/ajax-script.js" />
         <option value="$PROJECT_DIR$/web/app/themes/storefront-child/nyhetsbrev/style.css" />
         <option value="$PROJECT_DIR$/web/app/themes/storefront-child/functions.php" />
-        <option value="$PROJECT_DIR$/web/app/themes/storefront-child/nyhetsbrev/functions.php" />
         <option value="$PROJECT_DIR$/web/app/themes/storefront-child/js/yardson.js" />
+        <option value="$PROJECT_DIR$/web/app/themes/storefront-child/nyhetsbrev/functions.php" />
         <option value="$PROJECT_DIR$/web/app/themes/storefront-child/nyhetsbrev/js/nyhetsbrev.js" />
       </list>
     </option>
@@ -611,12 +612,12 @@
       <updated>1495654816194</updated>
       <workItem from="1495654817490" duration="1762000" />
       <workItem from="1495724961964" duration="1881000" />
-      <workItem from="1496762435265" duration="10186000" />
+      <workItem from="1496762435265" duration="10215000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="13829000" />
+    <option name="totallyTimeSpent" value="13858000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
@@ -1952,26 +1953,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/web/app/themes/storefront-child/nyhetsbrev/functions.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="483">
-          <caret line="24" column="1" lean-forward="true" selection-start-line="24" selection-start-column="1" selection-end-line="24" selection-end-column="1" />
-          <folding>
-            <marker date="1496830818000" expanded="true" signature="9:95" ph=" Created by PhpStorm. ..." />
-            <marker date="1496830818000" expanded="true" signature="143:911" ph="{...}" />
-            <marker date="1496830818000" expanded="true" signature="270:438" ph="..." />
-            <marker date="1496830818000" expanded="true" signature="789:907" ph="..." />
-            <marker date="1496830818000" expanded="true" signature="1021:1726" ph="{...}" />
-            <marker date="1496830818000" expanded="true" signature="1827:2704" ph="{...}" />
-            <marker date="1496830818000" expanded="true" signature="1929:2690" ph="..." />
-            <marker date="1496830818000" expanded="true" signature="2166:2287" ph="..." />
-            <marker date="1496830818000" expanded="true" signature="2185:2277" ph="..." />
-            <marker date="1496830818000" expanded="true" signature="2518:2682" ph="..." />
-            <marker date="1496830818000" expanded="true" signature="2751:2776" ph="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/web/app/themes/storefront-child/js/yardson.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="702">
@@ -1988,10 +1969,30 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/web/app/themes/storefront-child/nyhetsbrev/functions.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="518">
+          <caret line="29" column="1" lean-forward="true" selection-start-line="29" selection-start-column="1" selection-end-line="29" selection-end-column="1" />
+          <folding>
+            <marker date="1496831258000" expanded="true" signature="9:95" ph=" Created by PhpStorm. ..." />
+            <marker date="1496831258000" expanded="true" signature="143:911" ph="{...}" />
+            <marker date="1496831258000" expanded="true" signature="270:438" ph="..." />
+            <marker date="1496831258000" expanded="true" signature="789:907" ph="..." />
+            <marker date="1496831258000" expanded="true" signature="1021:1737" ph="{...}" />
+            <marker date="1496831258000" expanded="true" signature="1838:2715" ph="{...}" />
+            <marker date="1496831258000" expanded="true" signature="1940:2701" ph="..." />
+            <marker date="1496831258000" expanded="true" signature="2177:2298" ph="..." />
+            <marker date="1496831258000" expanded="true" signature="2196:2288" ph="..." />
+            <marker date="1496831258000" expanded="true" signature="2529:2693" ph="..." />
+            <marker date="1496831258000" expanded="true" signature="2762:2787" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/web/app/themes/storefront-child/nyhetsbrev/js/nyhetsbrev.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="26">
-          <caret line="1" column="35" lean-forward="false" selection-start-line="1" selection-start-column="35" selection-end-line="1" selection-end-column="35" />
+          <caret line="1" column="20" lean-forward="true" selection-start-line="1" selection-start-column="20" selection-end-line="1" selection-end-column="20" />
           <folding />
         </state>
       </provider>

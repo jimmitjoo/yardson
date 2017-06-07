@@ -28,7 +28,7 @@ add_action('wp_enqueue_scripts', 'yardson_nyhetsbrev_enqueue_styles');
 
 function yardson_nyhetsbrev_markup()
 {
-    echo '<div class="newsletter-popup">';
+    echo '<div id="nlpop" class="newsletter-popup">';
     echo '<div class="form">';
     echo '<h4>Skapa ett <strong>gratis konto</strong></h4>';
     echo '<h1>Få <strong>10% rabatt</strong></h1>';
