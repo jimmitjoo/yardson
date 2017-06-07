@@ -30,7 +30,7 @@ function yardson_nyhetsbrev_markup()
 {
     echo '<div id="nlpop">';
     echo '<div class="newsletter-popup">';
-    echo '<div class="close"></div>';
+    echo '<div class="close">Stäng</div>';
     echo '<div class="form">';
     echo '<h4>Skapa ett <strong>gratis konto</strong></h4>';
     echo '<h1>Få <strong>10% rabatt</strong></h1>';
