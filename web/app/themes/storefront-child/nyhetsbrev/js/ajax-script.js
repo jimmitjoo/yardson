@@ -5,6 +5,7 @@ jQuery('#nyhetsbrev_formular').on('submit', function (event) {
 
     window.newsletterFormData.nyhetsbrev_email = jQuery('#nyhetsbrev_email').val();
 
+
     jQuery.ajax(
         {
             type: "post",
