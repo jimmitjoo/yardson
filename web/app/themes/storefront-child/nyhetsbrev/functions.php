@@ -93,5 +93,5 @@ function wpdocs_set_html_mail_content_type() {
     return 'text/html';
 }
 
-add_action( 'wp_ajax_my_action', 'yardson_nyhetsbrev_create_account' );
-add_action( 'wp_ajax_nopriv_my_action', 'yardson_nyhetsbrev_create_account' );
+add_action( 'wp_ajax_yardson_nyhetsbrev_create_account', 'yardson_nyhetsbrev_create_account' );
+add_action( 'wp_ajax_nopriv_yardson_nyhetsbrev_create_account', 'yardson_nyhetsbrev_create_account' );
