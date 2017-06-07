@@ -18,7 +18,8 @@ var options = {
 jQuery('document').ready(function () {
     console.log('doc ready');
 
-    jQuery('#nyhetsbrev_formular').submit(function () {
+    jQuery('#nyhetsbrev_formular').submit(function (e) {
+        e.preventDefault();
         console.log('submitted');
         jQuery.ajax({
             url: yardson_nyhetsbrev.ajax_url,  // this is part of the JS object you pass in from wp_localize_scripts.
