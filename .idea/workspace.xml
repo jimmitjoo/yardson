@@ -17,8 +17,8 @@
       <file leaf-file-name="ajax-script.js" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/web/app/themes/storefront-child/nyhetsbrev/js/ajax-script.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="578">
-              <caret line="33" column="5" lean-forward="false" selection-start-line="33" selection-start-column="5" selection-end-line="33" selection-end-column="5" />
+            <state relative-caret-position="188">
+              <caret line="18" column="26" lean-forward="false" selection-start-line="18" selection-start-column="26" selection-end-line="18" selection-end-column="26" />
               <folding />
             </state>
           </provider>
@@ -489,7 +489,7 @@
     <property name="settings.editor.selected.configurable" value="preferences.intentionPowerPack" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="SearchEverywhereHistoryKey" value="&#9;FILE&#9;file:///Users/jimmiejohansson/Code/yardson/web/app/themes/storefront-child/nyhetsbrev/functions.php&#10;get_template_directory_uri&#9;null&#9;null" />
+    <property name="SearchEverywhereHistoryKey" value="&#9;FILE&#9;file:///Users/jimmiejohansson/Code/yardson/web/app/themes/storefront-child/nyhetsbrev/js/ajax-script.js&#10;get_template_directory_uri&#9;null&#9;null" />
     <property name="FullScreen" value="true" />
   </component>
   <component name="RecentsManager">
@@ -611,12 +611,12 @@
       <updated>1495654816194</updated>
       <workItem from="1495654817490" duration="1762000" />
       <workItem from="1495724961964" duration="1881000" />
-      <workItem from="1496762435265" duration="12675000" />
+      <workItem from="1496762435265" duration="12776000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="16318000" />
+    <option name="totallyTimeSpent" value="16419000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
@@ -1957,10 +1957,22 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/web/app/themes/storefront-child/nyhetsbrev/js/nyhetsbrev.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="26">
+          <caret line="1" column="16" lean-forward="true" selection-start-line="1" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
+          <folding>
+            <marker date="1496833509000" expanded="true" signature="53:304" ph="{...}" />
+            <marker date="1496833509000" expanded="true" signature="95:300" ph="{...}" />
+            <marker date="1496833509000" expanded="true" signature="243:291" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/web/app/themes/storefront-child/nyhetsbrev/functions.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="650">
-          <caret line="31" column="67" lean-forward="false" selection-start-line="31" selection-start-column="67" selection-end-line="31" selection-end-column="67" />
+        <state relative-caret-position="541">
+          <caret line="40" column="50" lean-forward="true" selection-start-line="40" selection-start-column="50" selection-end-line="40" selection-end-column="50" />
           <folding>
             <marker date="1496833434000" expanded="true" signature="9:95" ph=" Created by PhpStorm. ..." />
             <marker date="1496833434000" expanded="true" signature="143:1120" ph="{...}" />
@@ -1978,22 +1990,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/web/app/themes/storefront-child/nyhetsbrev/js/nyhetsbrev.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="26">
-          <caret line="1" column="16" lean-forward="true" selection-start-line="1" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
-          <folding>
-            <marker date="1496833509000" expanded="true" signature="53:304" ph="{...}" />
-            <marker date="1496833509000" expanded="true" signature="95:300" ph="{...}" />
-            <marker date="1496833509000" expanded="true" signature="243:291" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/web/app/themes/storefront-child/nyhetsbrev/js/ajax-script.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="578">
-          <caret line="33" column="5" lean-forward="false" selection-start-line="33" selection-start-column="5" selection-end-line="33" selection-end-column="5" />
+        <state relative-caret-position="188">
+          <caret line="18" column="26" lean-forward="false" selection-start-line="18" selection-start-column="26" selection-end-line="18" selection-end-column="26" />
           <folding />
         </state>
       </provider>
