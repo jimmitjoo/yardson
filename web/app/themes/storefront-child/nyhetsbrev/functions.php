@@ -35,6 +35,7 @@ function yardson_nyhetsbrev_markup()
     echo '<input id="nyhetsbrev_email" type="email" name="nyhetsbrev_email" placeholder="din@epost.se">';
     echo '<input id="nyhetsbrev_submit" class="button alt" type="submit" value="Skapa konto">';
     echo '</form>';
+    echo '<p><small>Genom att skapa konto godkänner jag YARDsons <a href="/villkor">villkor</a>.</small></p>';
     echo '</div>';
     echo '</div>';
 
