@@ -17,8 +17,8 @@
       <file leaf-file-name="ajax-script.js" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/web/app/themes/storefront-child/nyhetsbrev/js/ajax-script.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="682">
-              <caret line="37" column="21" lean-forward="false" selection-start-line="37" selection-start-column="21" selection-end-line="37" selection-end-column="21" />
+            <state relative-caret-position="500">
+              <caret line="30" column="40" lean-forward="false" selection-start-line="30" selection-start-column="40" selection-end-line="30" selection-end-column="40" />
               <folding />
             </state>
           </provider>
@@ -35,6 +35,7 @@
       <find>woocommerce_single_product_summary</find>
       <find>cart</find>
       <find>displ</find>
+      <find>log</find>
     </findStrings>
     <dirStrings>
       <dir>$PROJECT_DIR$/web/app/plugins/woocommerce</dir>
@@ -479,6 +480,20 @@
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
           </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="yardson" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="yardson" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="config" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
         </subPane>
       </pane>
       <pane id="Scope" />
@@ -611,12 +626,12 @@
       <updated>1495654816194</updated>
       <workItem from="1495654817490" duration="1762000" />
       <workItem from="1495724961964" duration="1881000" />
-      <workItem from="1496762435265" duration="12904000" />
+      <workItem from="1496762435265" duration="13001000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="16547000" />
+    <option name="totallyTimeSpent" value="16644000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
@@ -735,13 +750,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="58">
           <caret line="402" column="30" lean-forward="false" selection-start-line="402" selection-start-column="30" selection-end-line="402" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/config/application.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="701">
-          <caret line="64" column="38" lean-forward="false" selection-start-line="64" selection-start-column="38" selection-end-line="64" selection-end-column="38" />
         </state>
       </provider>
     </entry>
@@ -1946,17 +1954,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/web/app/themes/storefront-child/functions.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="182">
-          <caret line="7" column="31" lean-forward="true" selection-start-line="7" selection-start-column="31" selection-end-line="7" selection-end-column="31" />
-          <folding>
-            <marker date="1496830442000" expanded="true" signature="42:559" ph="..." />
-            <marker date="1496830442000" expanded="true" signature="253:401" ph="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/web/app/themes/storefront-child/nyhetsbrev/js/nyhetsbrev.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="26">
@@ -1965,6 +1962,37 @@
             <marker date="1496833509000" expanded="true" signature="53:304" ph="{...}" />
             <marker date="1496833509000" expanded="true" signature="95:300" ph="{...}" />
             <marker date="1496833509000" expanded="true" signature="243:291" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/wp-config.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1496762389000" expanded="true" signature="9:253" ph=" Do not edit this file. Edit the config files found in the config/ dir instead. ..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config/application.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="273">
+          <caret line="67" column="33" lean-forward="false" selection-start-line="67" selection-start-column="30" selection-end-line="67" selection-end-column="33" />
+          <folding>
+            <marker date="1496762389000" expanded="true" signature="174:228" ph=" Expose global env() function from oscarotero/env ..." />
+            <marker date="1496762389000" expanded="true" signature="248:329" ph=" Use Dotenv to set required environment variables and load .env file in root ..." />
+            <marker date="1496762389000" expanded="true" signature="411:520" ph="..." />
+            <marker date="1496762389000" expanded="true" signature="526:619" ph=" Set up our global environment constant and load its config first ..." />
+            <marker date="1496762389000" expanded="true" signature="764:795" ph="..." />
+            <marker date="1496762389000" expanded="true" signature="801:811" ph=" URLs ..." />
+            <marker date="1496762389000" expanded="true" signature="894:924" ph=" Custom Content Directory ..." />
+            <marker date="1496762389000" expanded="true" signature="1065:1082" ph=" DB settings ..." />
+            <marker date="1496762389000" expanded="true" signature="1354:1396" ph=" Authentication Unique Keys and Salts ..." />
+            <marker date="1496762389000" expanded="true" signature="1759:1780" ph=" Custom Settings ..." />
+            <marker date="1496762389000" expanded="true" signature="1962:1987" ph=" Bootstrap WordPress ..." />
+            <marker date="1496762389000" expanded="true" signature="2016:2063" ph="..." />
           </folding>
         </state>
       </provider>
@@ -1990,10 +2018,21 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/web/app/themes/storefront-child/functions.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="40">
+          <caret line="7" column="31" lean-forward="true" selection-start-line="7" selection-start-column="31" selection-end-line="7" selection-end-column="31" />
+          <folding>
+            <marker date="1496830442000" expanded="true" signature="42:559" ph="..." />
+            <marker date="1496830442000" expanded="true" signature="253:401" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/web/app/themes/storefront-child/nyhetsbrev/js/ajax-script.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="682">
-          <caret line="37" column="21" lean-forward="false" selection-start-line="37" selection-start-column="21" selection-end-line="37" selection-end-column="21" />
+        <state relative-caret-position="500">
+          <caret line="30" column="40" lean-forward="false" selection-start-line="30" selection-start-column="40" selection-end-line="30" selection-end-column="40" />
           <folding />
         </state>
       </provider>

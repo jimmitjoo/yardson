@@ -27,6 +27,8 @@ jQuery('document').ready(function () {
             dataType: 'json',
             data: window.newsletterFormData,
             success: function (responseText, statusText, xhr, $form) {
+                console.log(responseText);
+                console.log(statusText);
                 jQuery('#nyhetsbrev_formular').html('<p>Ditt konto är nu skapat, kolla din e-post!</p>');
             },
             // use beforeSubmit to add your nonce to the form data before submitting.
