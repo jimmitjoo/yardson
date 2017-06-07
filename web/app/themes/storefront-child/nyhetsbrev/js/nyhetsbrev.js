@@ -1,4 +1,4 @@
-if ( get_cookie( 'has_visited' ) === 'undefined' ) {
+if ( get_cookie( 'has_visited' ) === null ) {
     jQuery('.newsletter-popup').css({'display': 'block'});
     console.log('visa nyhetsbrev popup!');
 } else {
