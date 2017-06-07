@@ -31,6 +31,7 @@ function yardson_nyhetsbrev_markup()
     echo '<div class="form">';
     echo '<h4>Skapa ett gratis konto</h4>';
     echo '<h1>Få 10% rabatt</h1>';
+    echo '<h6>på första köpet!</h6>';
     echo '<form id="nyhetsbrev_formular">';
     echo '<input id="nyhetsbrev_email" type="email" name="nyhetsbrev_email" placeholder="din@epost.se">';
     echo '<input id="nyhetsbrev_submit" class="button alt" type="submit" value="Skapa konto">';
