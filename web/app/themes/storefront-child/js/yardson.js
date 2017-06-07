@@ -22,10 +22,3 @@ function get_cookie(name) {
     }
     return null;
 }
-
-if ( get_cookie( 'shown_create_account' ) === null ) {
-    jQuery('document').ready(function() {
-        jQuery('#nlpop').show();
-        create_cookie('shown_create_account', 'yes', 21);
-    });
-}
