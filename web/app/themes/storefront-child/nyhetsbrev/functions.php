@@ -21,7 +21,7 @@ function yardson_nyhetsbrev_enqueue_styles()
     wp_enqueue_script( 'yardson-nyhetsbrev-ajax-script', get_template_directory_uri() . '/../storefront-child/nyhetsbrev/js/ajax-script.js', array('jquery') );
 
     wp_localize_script( "yardson-nyhetsbrev-ajax-script",
-        'yardson_nyhetsbrev-display',
+        'yardson_nyhetsbrev',
         array(
             'ajax_url' => admin_url( 'admin-ajax.php' ), //url for php file that process ajax request to WP
             'nonce' => wp_create_nonce( "unique_id_nonce" ),// this is a unique token to prevent form hijacking
@@ -29,7 +29,6 @@ function yardson_nyhetsbrev_enqueue_styles()
     );
 }
 
-add_action('wp_enqueue_scripts', 'yardson_nyhetsbrev_enqueue_styles');
 add_action('wp_enqueue_scripts', 'yardson_nyhetsbrev_enqueue_styles');
 
 function yardson_nyhetsbrev_markup()
