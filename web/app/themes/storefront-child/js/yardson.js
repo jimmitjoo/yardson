@@ -25,4 +25,5 @@ function get_cookie(name) {
 
 setTimeout(function() {
     create_cookie('has_visited', 'yes', 365);
-}, 1000);
+    console.log('sätter cookie');
+}, 5000);
