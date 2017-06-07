@@ -18,7 +18,7 @@ function yardson_nyhetsbrev_enqueue_styles()
     );
 
     wp_enqueue_script( 'yardson-nyhetsbrev-display', get_template_directory_uri() . '/../storefront-child/nyhetsbrev/js/nyhetsbrev.js', array('yardson-script', 'jquery') );
-    wp_enqueue_script( 'yardson-nyhetsbrev-ajax-script', get_template_directory_uri() . '/../storefront-child/nyhetsbrev/js/ajax-script.js', array('jquery') );
+    //wp_enqueue_script( 'yardson-nyhetsbrev-ajax-script', get_template_directory_uri() . '/../storefront-child/nyhetsbrev/js/ajax-script.js', array('jquery') );
 
     wp_localize_script( "yardson-nyhetsbrev-ajax-script",
         'yardson_nyhetsbrev',
