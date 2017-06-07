@@ -4,7 +4,7 @@ if ( get_cookie( 'shown_create_account' ) === null ) {
         create_cookie('shown_create_account', 'yes', 21);
 
         jQuery('#nlpop').click(function() {
-            $(this).hide();
+            jQuery(this).hide();
         });
 
     });
