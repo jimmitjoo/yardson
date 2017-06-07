@@ -15,7 +15,7 @@ var options = {
 };
 
 // you should probably use an id more unique than "form"
-jQuery('#nyhetsbrev_formular').ajaxForm(options);
+jQuery('#nyhetsbrev_formular').ajax(options);
 /*
 jQuery('#nyhetsbrev_formular').on('submit', function (event) {
     event.preventDefault();
