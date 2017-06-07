@@ -23,11 +23,9 @@ function get_cookie(name) {
     return null;
 }
 
-if ( get_cookie( 'has_visited' ) === null ) {
+if ( get_cookie( 'shown_create_account' ) === null ) {
     jQuery('document').ready(function() {
         jQuery('#nlpop').show();
-        console.log('visar!!!');
+        create_cookie('shown_create_account', 'yes', 21);
     });
-} else {
-    create_cookie('has_visited', 'yes', 365);
 }
