@@ -4,6 +4,7 @@
     left: 0;
     width: 100vw;
     height: 100vh;
+    display: none;
     background: rgba(0,0,0,.97);
 }
 .newsletter-popup {
@@ -11,7 +12,6 @@
     background-position: 0 -70px;
     background-size: cover;
     color: #fff;
-    display: none;
     height: 400px;
     left: 50%;
     margin-left: -500px;
