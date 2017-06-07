@@ -66,11 +66,20 @@ function yardson_nyhetsbrev_create_account()
         $user = new WP_User($user_id);
         $user->set_role('customer');
 
+        add_filter( 'wp_mail_content_type', 'wpdocs_set_html_mail_content_type' );
+
         // Email the user
-        wp_mail($email_address, 'Välkommen!', 'Ditt lösenord: ' . $password);
+        wp_mail(
+            $email_address,
+            'Välkommen till YARDson!',
+            '<p>Ditt lösenord: ' . $password . '</p><p>Din rabattkod: konto-rabatt</p>'
+        );
 
     } // end if
 
+}
+function wpdocs_set_html_mail_content_type() {
+    return 'text/html';
 }
 
 add_action( 'wp_ajax_nopriv_my_action', 'yardson_nyhetsbrev_create_account' );
