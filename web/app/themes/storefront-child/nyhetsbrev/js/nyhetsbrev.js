@@ -3,8 +3,8 @@ if ( get_cookie( 'shown_create_account' ) === null ) {
         jQuery('#nlpop').show();
         create_cookie('shown_create_account', 'yes', 21);
 
-        jQuery('#nlpop').click(function(event) {
-            jQuery(this).hide();
+        jQuery('#nlpop .close').click(function(event) {
+            jQuery('#nlpop').hide();
         });
 
     });
