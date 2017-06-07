@@ -6,6 +6,7 @@
     height: 100vh;
     display: none;
     background: rgba(0,0,0,.97);
+    z-index: 999;
 }
 .newsletter-popup {
     background-image: url('images/tjej-tittar-vanster.jpg');
