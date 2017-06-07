@@ -88,8 +88,6 @@ function yardson_nyhetsbrev_create_account()
 
     } // end if
 
-    die();
-
 }
 function wpdocs_set_html_mail_content_type() {
     return 'text/html';
