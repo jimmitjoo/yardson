@@ -10,6 +10,7 @@ function yardson_enqueue_styles() {
         array( $parent_style ),
         wp_get_theme()->get('Version')
     );
+    wp_enqueue_script('yardson-script', get_template_directory_uri() . '/../storefront-child/js/yardson.js', ['jquery'], wp_get_theme()->get('Version') );
 }
 add_action( 'wp_enqueue_scripts', 'yardson_enqueue_styles' );
 
