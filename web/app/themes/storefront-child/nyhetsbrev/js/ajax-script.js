@@ -17,7 +17,7 @@ var options = {
 };
 jQuery('document').ready(function () {
 // you should probably use an id more unique than "form"
-    jQuery('#nyhetsbrev_formular').ajax(options);
+    jQuery.ajax(options);
 });
 /*
  jQuery('#nyhetsbrev_formular').on('submit', function (event) {
