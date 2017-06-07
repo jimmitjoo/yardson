@@ -23,6 +23,12 @@
 .newsletter-popup h4 {
     color: #fff;
 }
+.newsletter-popup h1 {
+    margin-bottom: 0;
+}
+.newsletter-popup h4:not(:first-of-type) {
+    margin-bottom: 20px;
+}
 #nyhetsbrev_formular {
     margin-bottom: 0;
 }

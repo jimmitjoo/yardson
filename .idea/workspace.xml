@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="34c3f3ed-5d4a-4459-9af4-aae409ab49e2" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web/app/themes/storefront-child/nyhetsbrev/functions.php" afterPath="$PROJECT_DIR$/web/app/themes/storefront-child/nyhetsbrev/functions.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web/app/themes/storefront-child/nyhetsbrev/style.css" afterPath="$PROJECT_DIR$/web/app/themes/storefront-child/nyhetsbrev/style.css" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -14,14 +15,12 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="functions.php" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/web/app/themes/storefront-child/nyhetsbrev/functions.php">
+      <file leaf-file-name="style.css" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/web/app/themes/storefront-child/nyhetsbrev/style.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="513">
-              <caret line="73" column="22" lean-forward="false" selection-start-line="73" selection-start-column="13" selection-end-line="73" selection-end-column="22" />
-              <folding>
-                <element signature="e#6#97#0#PHP" expanded="true" />
-              </folding>
+            <state relative-caret-position="754">
+              <caret line="29" column="24" lean-forward="false" selection-start-line="29" selection-start-column="24" selection-end-line="29" selection-end-column="24" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -56,8 +55,8 @@
         <option value="$PROJECT_DIR$/web/app/themes/storefront-child/style.css" />
         <option value="$PROJECT_DIR$/web/app/themes/storefront-child/functions.php" />
         <option value="$PROJECT_DIR$/web/app/themes/storefront-child/nyhetsbrev/js/ajax-script.js" />
-        <option value="$PROJECT_DIR$/web/app/themes/storefront-child/nyhetsbrev/style.css" />
         <option value="$PROJECT_DIR$/web/app/themes/storefront-child/nyhetsbrev/functions.php" />
+        <option value="$PROJECT_DIR$/web/app/themes/storefront-child/nyhetsbrev/style.css" />
       </list>
     </option>
   </component>
@@ -581,12 +580,12 @@
       <updated>1495654816194</updated>
       <workItem from="1495654817490" duration="1762000" />
       <workItem from="1495724961964" duration="1881000" />
-      <workItem from="1496762435265" duration="8942000" />
+      <workItem from="1496762435265" duration="9017000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="12585000" />
+    <option name="totallyTimeSpent" value="12660000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
@@ -1882,19 +1881,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/web/app/themes/storefront-child/nyhetsbrev/style.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="338">
-          <caret line="13" column="18" lean-forward="false" selection-start-line="13" selection-start-column="18" selection-end-line="13" selection-end-column="18" />
-          <folding>
-            <marker date="1496829254000" expanded="true" signature="18:359" ph="{...}" />
-            <marker date="1496829254000" expanded="true" signature="384:423" ph="{...}" />
-            <marker date="1496829254000" expanded="true" signature="511:531" ph="{...}" />
-            <marker date="1496829254000" expanded="true" signature="553:578" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/web/app/themes/storefront-child/nyhetsbrev/js/ajax-script.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="338">
@@ -1920,11 +1906,29 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/web/app/themes/storefront-child/nyhetsbrev/functions.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="513">
-          <caret line="73" column="22" lean-forward="false" selection-start-line="73" selection-start-column="13" selection-end-line="73" selection-end-column="22" />
+        <state relative-caret-position="354">
+          <caret line="33" column="13" lean-forward="false" selection-start-line="33" selection-start-column="13" selection-end-line="33" selection-end-column="13" />
           <folding>
-            <element signature="e#6#97#0#PHP" expanded="true" />
+            <marker date="1496829828000" expanded="true" signature="9:95" ph=" Created by PhpStorm. ..." />
+            <marker date="1496829828000" expanded="true" signature="143:748" ph="{...}" />
+            <marker date="1496829828000" expanded="true" signature="270:438" ph="..." />
+            <marker date="1496829828000" expanded="true" signature="626:744" ph="..." />
+            <marker date="1496829828000" expanded="true" signature="858:1563" ph="{...}" />
+            <marker date="1496829828000" expanded="true" signature="1664:2541" ph="{...}" />
+            <marker date="1496829828000" expanded="true" signature="1766:2527" ph="..." />
+            <marker date="1496829828000" expanded="true" signature="2003:2124" ph="..." />
+            <marker date="1496829828000" expanded="true" signature="2022:2114" ph="..." />
+            <marker date="1496829828000" expanded="true" signature="2355:2519" ph="..." />
+            <marker date="1496829828000" expanded="true" signature="2588:2613" ph="..." />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/app/themes/storefront-child/nyhetsbrev/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="754">
+          <caret line="29" column="24" lean-forward="false" selection-start-line="29" selection-start-column="24" selection-end-line="29" selection-end-column="24" />
+          <folding />
         </state>
       </provider>
     </entry>
