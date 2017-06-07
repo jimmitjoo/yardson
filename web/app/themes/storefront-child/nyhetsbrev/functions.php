@@ -17,7 +17,7 @@ function yardson_nyhetsbrev_enqueue_styles()
         wp_get_theme()->get('Version')
     );
 
-    wp_enqueue_script( 'yardson-nyhetsbrev-ajax-script', get_template_directory_uri() . '/nyhetsbrev/js/ajax-script.js', array('jquery') );
+    wp_enqueue_script( 'yardson-nyhetsbrev-ajax-script', get_template_directory_uri() . '/../storefront-child/nyhetsbrev/js/ajax-script.js', array('jquery') );
 
     wp_localize_script( 'yardson-nyhetsbrev-ajax-script', 'yardson_nyhetsbrev',
         array( 'ajax_url' => admin_url( 'admin-ajax.php' ) ) );

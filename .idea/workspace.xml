@@ -2,11 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="34c3f3ed-5d4a-4459-9af4-aae409ab49e2" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/app/themes/storefront-child/nyhetsbrev/js/ajax-script.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/web/app/themes/storefront-child/images/tjej-tittar-vanster.jpg" afterPath="$PROJECT_DIR$/web/app/themes/storefront-child/nyhetsbrev/images/tjej-tittar-vanster.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web/app/themes/storefront-child/nyhetsbrev/functions.php" afterPath="$PROJECT_DIR$/web/app/themes/storefront-child/nyhetsbrev/functions.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web/app/themes/storefront-child/nyhetsbrev/style.css" afterPath="$PROJECT_DIR$/web/app/themes/storefront-child/nyhetsbrev/style.css" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -18,12 +14,14 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="ajax-script.js" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/web/app/themes/storefront-child/nyhetsbrev/js/ajax-script.js">
+      <file leaf-file-name="functions.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/web/app/themes/storefront-child/nyhetsbrev/functions.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="130">
-              <caret line="5" column="69" lean-forward="true" selection-start-line="5" selection-start-column="69" selection-end-line="5" selection-end-column="69" />
-              <folding />
+            <state relative-caret-position="425">
+              <caret line="19" column="109" lean-forward="false" selection-start-line="19" selection-start-column="109" selection-end-line="19" selection-end-column="109" />
+              <folding>
+                <element signature="e#6#97#0#PHP" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -57,8 +55,8 @@
         <option value="$PROJECT_DIR$/web/app/themes/storefront-child/style.css" />
         <option value="$PROJECT_DIR$/web/app/themes/storefront-child/functions.php" />
         <option value="$PROJECT_DIR$/web/app/themes/storefront-child/nyhetsbrev/style.css" />
-        <option value="$PROJECT_DIR$/web/app/themes/storefront-child/nyhetsbrev/functions.php" />
         <option value="$PROJECT_DIR$/web/app/themes/storefront-child/nyhetsbrev/js/ajax-script.js" />
+        <option value="$PROJECT_DIR$/web/app/themes/storefront-child/nyhetsbrev/functions.php" />
       </list>
     </option>
   </component>
@@ -460,7 +458,7 @@
     <property name="settings.editor.selected.configurable" value="preferences.intentionPowerPack" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="SearchEverywhereHistoryKey" value="&#9;FILE&#9;file:///Users/jimmiejohansson/Code/yardson/web/app/themes/storefront-child/nyhetsbrev/js/ajax-script.js" />
+    <property name="SearchEverywhereHistoryKey" value="&#9;FILE&#9;file:///Users/jimmiejohansson/Code/yardson/web/app/themes/storefront-child/nyhetsbrev/functions.php&#10;get_template_directory_uri&#9;null&#9;null" />
     <property name="FullScreen" value="true" />
   </component>
   <component name="RecentsManager">
@@ -582,12 +580,12 @@
       <updated>1495654816194</updated>
       <workItem from="1495654817490" duration="1762000" />
       <workItem from="1495724961964" duration="1881000" />
-      <workItem from="1496762435265" duration="7892000" />
+      <workItem from="1496762435265" duration="8042000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="11535000" />
+    <option name="totallyTimeSpent" value="11685000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
@@ -1412,29 +1410,519 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/web/app/themes/storefront-child/nyhetsbrev/functions.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="474">
-          <caret line="37" column="18" lean-forward="true" selection-start-line="37" selection-start-column="18" selection-end-line="37" selection-end-column="18" />
-          <folding>
-            <marker date="1496828222000" expanded="true" signature="9:95" ph=" Created by PhpStorm. ..." />
-            <marker date="1496828222000" expanded="true" signature="143:728" ph="{...}" />
-            <marker date="1496828222000" expanded="true" signature="270:438" ph="..." />
-            <marker date="1496828222000" expanded="true" signature="606:724" ph="..." />
-            <marker date="1496828222000" expanded="true" signature="838:1341" ph="{...}" />
-            <marker date="1496828222000" expanded="true" signature="1442:2130" ph="{...}" />
-            <marker date="1496828222000" expanded="true" signature="1544:2116" ph="..." />
-            <marker date="1496828222000" expanded="true" signature="1781:1902" ph="..." />
-            <marker date="1496828222000" expanded="true" signature="1800:1892" ph="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/web/app/themes/storefront-child/nyhetsbrev/js/ajax-script.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="130">
           <caret line="5" column="69" lean-forward="true" selection-start-line="5" selection-start-column="69" selection-end-line="5" selection-end-column="69" />
-          <folding />
+          <folding>
+            <marker date="1496828250000" expanded="true" signature="94:488" ph="{...}" />
+            <marker date="1496828250000" expanded="true" signature="235:479" ph="{&quot;type&quot;: &quot;post&quot;...}" />
+            <marker date="1496828250000" expanded="true" signature="420:469" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/wp/wp-includes/theme.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="317">
+          <caret line="327" column="36" lean-forward="true" selection-start-line="327" selection-start-column="36" selection-end-line="327" selection-end-column="36" />
+          <folding>
+            <marker date="1494974888000" expanded="false" signature="9:103" ph=" Theme, template, and stylesheet functions. ..." />
+            <marker date="1494974888000" expanded="true" signature="110:1177" ph=" Returns an array of WP_Theme objects based on the arguments. ..." />
+            <marker date="1494974888000" expanded="true" signature="1223:3294" ph="..." />
+            <marker date="1494974888000" expanded="true" signature="1472:2033" ph="..." />
+            <marker date="1494974888000" expanded="true" signature="1741:2030" ph="..." />
+            <marker date="1494974888000" expanded="true" signature="2144:2707" ph="..." />
+            <marker date="1494974888000" expanded="true" signature="2817:3103" ph="..." />
+            <marker date="1494974888000" expanded="true" signature="3140:3274" ph="..." />
+            <marker date="1494974888000" expanded="true" signature="3187:3271" ph="..." />
+            <marker date="1494974888000" expanded="true" signature="3300:3863" ph=" Gets a WP_Theme object for a theme. ..." />
+            <marker date="1494974888000" expanded="true" signature="3931:4357" ph="..." />
+            <marker date="1494974888000" expanded="true" signature="4058:4304" ph="..." />
+            <marker date="1494974888000" expanded="true" signature="4363:4520" ph=" Clears the cache held by get_theme_roots() and WP_Theme. ..." />
+            <marker date="1494974888000" expanded="true" signature="4585:4785" ph="..." />
+            <marker date="1494974888000" expanded="true" signature="4791:4918" ph=" Whether a child theme is in use. ..." />
+            <marker date="1494974888000" expanded="true" signature="4948:4994" ph="..." />
+            <marker date="1494974888000" expanded="true" signature="5000:5314" ph=" Retrieve name of the current stylesheet. ..." />
+            <marker date="1494974888000" expanded="true" signature="5344:5553" ph="..." />
+            <marker date="1494974888000" expanded="true" signature="5349:5483" ph=" Filters the name of current stylesheet. ..." />
+            <marker date="1494974888000" expanded="true" signature="5559:5691" ph=" Retrieve stylesheet directory path for current theme. ..." />
+            <marker date="1494974888000" expanded="true" signature="5731:6256" ph="..." />
+            <marker date="1494974888000" expanded="true" signature="5862:6161" ph=" Filters the stylesheet directory path for current theme. ..." />
+            <marker date="1494974888000" expanded="true" signature="6262:6342" ph=" Retrieve stylesheet directory URI. ..." />
+            <marker date="1494974888000" expanded="true" signature="6386:6951" ph="..." />
+            <marker date="1494974888000" expanded="true" signature="6576:6844" ph=" Filters the stylesheet directory URI. ..." />
+            <marker date="1494974888000" expanded="true" signature="6957:7190" ph=" Retrieves the URI of current theme stylesheet. ..." />
+            <marker date="1494974888000" expanded="true" signature="7224:7690" ph="..." />
+            <marker date="1494974888000" expanded="true" signature="7339:7606" ph=" Filters the URI of the current theme stylesheet. ..." />
+            <marker date="1494974888000" expanded="true" signature="7696:8497" ph=" Retrieves the localized stylesheet URI. ..." />
+            <marker date="1494974888000" expanded="true" signature="8538:9272" ph="..." />
+            <marker date="1494974888000" expanded="true" signature="8983:9181" ph=" Filters the localized stylesheet URI. ..." />
+            <marker date="1494974888000" expanded="true" signature="9278:9374" ph=" Retrieve name of the current theme. ..." />
+            <marker date="1494974888000" expanded="true" signature="9402:9604" ph="..." />
+            <marker date="1494974888000" expanded="true" signature="9407:9538" ph=" Filters the name of the current theme. ..." />
+            <marker date="1494974888000" expanded="true" signature="9610:9714" ph=" Retrieve current theme directory. ..." />
+            <marker date="1494974888000" expanded="true" signature="9752:10248" ph="..." />
+            <marker date="1494974888000" expanded="true" signature="9873:10159" ph=" Filters the current theme directory path. ..." />
+            <marker date="1494974888000" expanded="true" signature="10254:10353" ph=" Retrieve theme directory URI. ..." />
+            <marker date="1494974888000" expanded="true" signature="10395:10955" ph="..." />
+            <marker date="1494974888000" expanded="true" signature="10575:10854" ph=" Filters the current theme directory URI. ..." />
+            <marker date="1494974888000" expanded="true" signature="10961:11186" ph=" Retrieve theme roots. ..." />
+            <marker date="1494974888000" expanded="true" signature="11217:11543" ph="..." />
+            <marker date="1494974888000" expanded="true" signature="11398:11519" ph="..." />
+            <marker date="1494974888000" expanded="true" signature="11549:11789" ph=" Register a directory that contains themes. ..." />
+            <marker date="1494974888000" expanded="true" signature="11841:12451" ph="..." />
+            <marker date="1494974888000" expanded="true" signature="11911:12175" ph="..." />
+            <marker date="1494974888000" expanded="true" signature="12152:12172" ph="..." />
+            <marker date="1494974888000" expanded="true" signature="12223:12260" ph="..." />
+            <marker date="1494974888000" expanded="true" signature="12392:12434" ph="..." />
+            <marker date="1494974888000" expanded="true" signature="12457:12763" ph=" Search all registered theme directories for complete and valid themes. ..." />
+            <marker date="1494974888000" expanded="true" signature="12819:16872" ph="..." />
+            <marker date="1494974888000" expanded="true" signature="13346:13553" ph="..." />
+            <marker date="1494974888000" expanded="true" signature="13560:13840" ph=" Filters whether to get the cache of the registered theme directories. ..." />
+            <marker date="1494974888000" expanded="true" signature="13955:14546" ph="..." />
+            <marker date="1494974888000" expanded="true" signature="14047:14462" ph="..." />
+            <marker date="1494974888000" expanded="true" signature="14107:14433" ph="..." />
+            <marker date="1494974888000" expanded="true" signature="14282:14427" ph="..." />
+            <marker date="1494974888000" expanded="true" signature="14554:14597" ph="..." />
+            <marker date="1494974888000" expanded="true" signature="14719:16421" ph="..." />
+            <marker date="1494974888000" expanded="true" signature="14847:14929" ph="..." />
+            <marker date="1494974888000" expanded="true" signature="14960:16418" ph="..." />
+            <marker date="1494974888000" expanded="true" signature="15123:15349" ph="..." />
+            <marker date="1494974888000" expanded="true" signature="15262:15343" ph="..." />
+            <marker date="1494974888000" expanded="true" signature="15357:16414" ph="..." />
+            <marker date="1494974888000" expanded="true" signature="15604:15697" ph="..." />
+            <marker date="1494974888000" expanded="true" signature="15738:16144" ph="..." />
+            <marker date="1494974888000" expanded="true" signature="16010:16111" ph="..." />
+            <marker date="1494974888000" expanded="true" signature="16324:16408" ph="..." />
+            <marker date="1494974888000" expanded="true" signature="16595:16713" ph="..." />
+            <marker date="1494974888000" expanded="true" signature="16878:17134" ph=" Retrieve path to themes directory. ..." />
+            <marker date="1494974888000" expanded="true" signature="17197:17885" ph="..." />
+            <marker date="1494974888000" expanded="true" signature="17326:17621" ph="..." />
+            <marker date="1494974888000" expanded="true" signature="17629:17675" ph="..." />
+            <marker date="1494974888000" expanded="true" signature="17682:17830" ph=" Filters the absolute path to the themes directory. ..." />
+            <marker date="1494974888000" expanded="true" signature="17891:18441" ph=" Retrieve URI for themes directory. ..." />
+            <marker date="1494974888000" expanded="true" signature="18529:19921" ph="..." />
+            <marker date="1494974888000" expanded="true" signature="18723:19423" ph="..." />
+            <marker date="1494974888000" expanded="true" signature="18789:19360" ph="..." />
+            <marker date="1494974888000" expanded="true" signature="19368:19420" ph="..." />
+            <marker date="1494974888000" expanded="true" signature="19431:19478" ph="..." />
+            <marker date="1494974888000" expanded="true" signature="19485:19808" ph=" Filters the URI for themes directory. ..." />
+            <marker date="1494974888000" expanded="true" signature="19927:20358" ph=" Get the raw theme root relative to the content directory with no filters applied. ..." />
+            <marker date="1494974888000" expanded="true" signature="20438:21105" ph="..." />
+            <marker date="1494974888000" expanded="true" signature="20681:20901" ph="..." />
+            <marker date="1494974888000" expanded="true" signature="20932:21081" ph="..." />
+            <marker date="1494974888000" expanded="true" signature="21111:21178" ph=" Display localized stylesheet link element. ..." />
+            <marker date="1494974888000" expanded="true" signature="21211:21386" ph="..." />
+            <marker date="1494974888000" expanded="true" signature="21392:21825" ph=" Switches the theme. ..." />
+            <marker date="1494974888000" expanded="true" signature="21866:24508" ph="..." />
+            <marker date="1494974888000" expanded="true" signature="22016:22129" ph="..." />
+            <marker date="1494974888000" expanded="true" signature="22173:22217" ph="..." />
+            <marker date="1494974888000" expanded="true" signature="22260:22358" ph="..." />
+            <marker date="1494974888000" expanded="true" signature="22453:22490" ph="..." />
+            <marker date="1494974888000" expanded="true" signature="22740:22896" ph="..." />
+            <marker date="1494974888000" expanded="true" signature="22904:22980" ph="..." />
+            <marker date="1494974888000" expanded="true" signature="23211:23511" ph="..." />
+            <marker date="1494974888000" expanded="true" signature="23374:23445" ph="..." />
+            <marker date="1494974888000" expanded="true" signature="23519:24055" ph="..." />
+            <marker date="1494974888000" expanded="true" signature="23524:23746" ph="..." />
+            <marker date="1494974888000" expanded="true" signature="23805:23851" ph="..." />
+            <marker date="1494974888000" expanded="true" signature="23895:24052" ph="..." />
+            <marker date="1494974888000" expanded="true" signature="23980:24048" ph="..." />
+            <marker date="1494974888000" expanded="true" signature="24129:24440" ph=" Fires after the theme is switched. ..." />
+            <marker date="1494974888000" expanded="true" signature="24514:25031" ph=" Checks that current theme files 'index.php' and 'style.css' exists. ..." />
+            <marker date="1494974888000" expanded="true" signature="25069:26488" ph="..." />
+            <marker date="1494974888000" expanded="true" signature="25074:25232" ph=" Filters whether to validate the current theme. ..." />
+            <marker date="1494974888000" expanded="true" signature="25394:25410" ph="..." />
+            <marker date="1494974888000" expanded="true" signature="25481:25497" ph="..." />
+            <marker date="1494974888000" expanded="true" signature="25590:25606" ph="..." />
+            <marker date="1494974888000" expanded="true" signature="25614:25643" ph="..." />
+            <marker date="1494974888000" expanded="true" signature="25720:25774" ph="..." />
+            <marker date="1494974888000" expanded="true" signature="25781:26279" ph=" If we're in an invalid state but WP_DEFAULT_THEME doesn't exist, ..." />
+            <marker date="1494974888000" expanded="true" signature="26408:26425" ph="..." />
+            <marker date="1494974888000" expanded="true" signature="26494:26598" ph=" Retrieve all theme modifications. ..." />
+            <marker date="1494974888000" expanded="true" signature="26628:27095" ph="..." />
+            <marker date="1494974888000" expanded="true" signature="26746:27078" ph="..." />
+            <marker date="1494974888000" expanded="true" signature="26979:27075" ph="..." />
+            <marker date="1494974888000" expanded="true" signature="27101:27550" ph=" Retrieve theme modification value for the current theme. ..." />
+            <marker date="1494974888000" expanded="true" signature="27604:28362" ph="..." />
+            <marker date="1494974888000" expanded="true" signature="27664:28117" ph="..." />
+            <marker date="1494974888000" expanded="true" signature="27670:28052" ph=" Filters the theme modification, or 'theme_mod', value. ..." />
+            <marker date="1494974888000" expanded="true" signature="28368:28549" ph=" Update theme modification value for the current theme. ..." />
+            <marker date="1494974888000" expanded="true" signature="28593:29261" ph="..." />
+            <marker date="1494974888000" expanded="true" signature="28690:29089" ph=" Filters the theme mod value on save. ..." />
+            <marker date="1494974888000" expanded="true" signature="29267:29495" ph=" Remove theme modification name from current theme list. ..." />
+            <marker date="1494974888000" expanded="true" signature="29534:29780" ph="..." />
+            <marker date="1494974888000" expanded="true" signature="29659:29694" ph="..." />
+            <marker date="1494974888000" expanded="true" signature="29786:29863" ph=" Remove theme modifications option for current theme. ..." />
+            <marker date="1494974888000" expanded="true" signature="29896:30137" ph="..." />
+            <marker date="1494974888000" expanded="true" signature="30143:30299" ph=" Retrieves the custom header text color in HEX format. ..." />
+            <marker date="1494974888000" expanded="true" signature="30335:30440" ph="..." />
+            <marker date="1494974888000" expanded="true" signature="30446:30547" ph=" Displays the custom header text color in HEX format (minus the hash symbol). ..." />
+            <marker date="1494974888000" expanded="true" signature="30579:30610" ph="..." />
+            <marker date="1494974888000" expanded="true" signature="30616:30695" ph=" Whether to display the header text. ..." />
+            <marker date="1494974888000" expanded="true" signature="30730:30960" ph="..." />
+            <marker date="1494974888000" expanded="true" signature="30966:31121" ph=" Check whether a header image is set or not. ..." />
+            <marker date="1494974888000" expanded="true" signature="31153:31189" ph="..." />
+            <marker date="1494974888000" expanded="true" signature="31195:31287" ph=" Retrieve header image for custom header. ..." />
+            <marker date="1494974888000" expanded="true" signature="31319:31583" ph="..." />
+            <marker date="1494974888000" expanded="true" signature="31589:31907" ph=" Create image tag markup for a custom header image. ..." />
+            <marker date="1494974888000" expanded="true" signature="31960:33501" ph="..." />
+            <marker date="1494974888000" expanded="true" signature="32054:32069" ph="..." />
+            <marker date="1494974888000" expanded="true" signature="32170:32302" ph="..." />
+            <marker date="1494974888000" expanded="true" signature="32188:32299" ph="..." />
+            <marker date="1494974888000" expanded="true" signature="32435:32960" ph="..." />
+            <marker date="1494974888000" expanded="true" signature="32603:32957" ph="..." />
+            <marker date="1494974888000" expanded="true" signature="32889:32953" ph="..." />
+            <marker date="1494974888000" expanded="true" signature="33061:33109" ph="..." />
+            <marker date="1494974888000" expanded="true" signature="33134:33426" ph=" Filters the markup of header images. ..." />
+            <marker date="1494974888000" expanded="true" signature="33507:33666" ph=" Display the image markup for a custom header image. ..." />
+            <marker date="1494974888000" expanded="true" signature="33719:33757" ph="..." />
+            <marker date="1494974888000" expanded="true" signature="33763:33974" ph=" Get random header image data from registered images in theme. ..." />
+            <marker date="1494974888000" expanded="true" signature="34013:34996" ph="..." />
+            <marker date="1494974888000" expanded="true" signature="34087:34966" ph="..." />
+            <marker date="1494974888000" expanded="true" signature="34345:34567" ph="..." />
+            <marker date="1494974888000" expanded="true" signature="34401:34442" ph="..." />
+            <marker date="1494974888000" expanded="true" signature="34450:34563" ph="..." />
+            <marker date="1494974888000" expanded="true" signature="35002:35129" ph=" Get random header image url from registered images in theme. ..." />
+            <marker date="1494974888000" expanded="true" signature="35168:35290" ph="..." />
+            <marker date="1494974888000" expanded="true" signature="35296:35686" ph=" Check if random header image is in use. ..." />
+            <marker date="1494974888000" expanded="true" signature="35739:36270" ph="..." />
+            <marker date="1494974888000" expanded="true" signature="35874:36062" ph="..." />
+            <marker date="1494974888000" expanded="true" signature="36070:36252" ph="..." />
+            <marker date="1494974888000" expanded="true" signature="36276:36326" ph=" Display header image URL. ..." />
+            <marker date="1494974888000" expanded="true" signature="36354:36431" ph="..." />
+            <marker date="1494974888000" expanded="true" signature="36401:36429" ph="..." />
+            <marker date="1494974888000" expanded="true" signature="36437:36535" ph=" Get the header images uploaded for the current theme. ..." />
+            <marker date="1494974888000" expanded="true" signature="36577:37630" ph="..." />
+            <marker date="1494974888000" expanded="true" signature="36907:37603" ph="..." />
+            <marker date="1494974888000" expanded="true" signature="37636:37749" ph=" Get the header image data. ..." />
+            <marker date="1494974888000" expanded="true" signature="37782:38984" ph="..." />
+            <marker date="1494974888000" expanded="true" signature="37848:37887" ph="..." />
+            <marker date="1494974888000" expanded="true" signature="37895:38652" ph="..." />
+            <marker date="1494974888000" expanded="true" signature="38024:38649" ph="..." />
+            <marker date="1494974888000" expanded="true" signature="38307:38645" ph="..." />
+            <marker date="1494974888000" expanded="true" signature="38373:38640" ph="..." />
+            <marker date="1494974888000" expanded="true" signature="38473:38634" ph="..." />
+            <marker date="1494974888000" expanded="true" signature="38673:38930" ph="..." />
+            <marker date="1494974888000" expanded="true" signature="38990:39292" ph=" Register a selection of default headers to be displayed by the custom header admin UI. ..." />
+            <marker date="1494974888000" expanded="true" signature="39342:39461" ph="..." />
+            <marker date="1494974888000" expanded="true" signature="39467:39975" ph=" Unregister default headers. ..." />
+            <marker date="1494974888000" expanded="true" signature="40026:40286" ph="..." />
+            <marker date="1494974888000" expanded="true" signature="40086:40142" ph="..." />
+            <marker date="1494974888000" expanded="true" signature="40197:40258" ph="..." />
+            <marker date="1494974888000" expanded="true" signature="40266:40284" ph="..." />
+            <marker date="1494974888000" expanded="true" signature="40292:40451" ph=" Check whether a header video is set or not. ..." />
+            <marker date="1494974888000" expanded="true" signature="40483:40523" ph="..." />
+            <marker date="1494974888000" expanded="true" signature="40528:40730" ph="..." />
+            <marker date="1494974888000" expanded="true" signature="40766:41255" ph="..." />
+            <marker date="1494974888000" expanded="true" signature="40892:40979" ph="..." />
+            <marker date="1494974888000" expanded="true" signature="40986:41103" ph=" Filters the header video URL. ..." />
+            <marker date="1494974888000" expanded="true" signature="41187:41205" ph="..." />
+            <marker date="1494974888000" expanded="true" signature="41261:41311" ph=" Display header video URL. ..." />
+            <marker date="1494974888000" expanded="true" signature="41347:41428" ph="..." />
+            <marker date="1494974888000" expanded="true" signature="41398:41426" ph="..." />
+            <marker date="1494974888000" expanded="true" signature="41434:41510" ph=" Retrieve header video settings. ..." />
+            <marker date="1494974888000" expanded="true" signature="41551:42423" ph="..." />
+            <marker date="1494974888000" expanded="true" signature="41716:42121" ph="..." />
+            <marker date="1494974888000" expanded="true" signature="41958:42117" ph="..." />
+            <marker date="1494974888000" expanded="true" signature="42218:42265" ph="..." />
+            <marker date="1494974888000" expanded="true" signature="42310:42359" ph="..." />
+            <marker date="1494974888000" expanded="true" signature="42429:42563" ph=" Check whether a custom header is set or not. ..." />
+            <marker date="1494974888000" expanded="true" signature="42596:42714" ph="..." />
+            <marker date="1494974888000" expanded="true" signature="42679:42696" ph="..." />
+            <marker date="1494974888000" expanded="true" signature="42720:42906" ph=" Checks whether the custom header video is eligible to show on the current page. ..." />
+            <marker date="1494974888000" expanded="true" signature="42944:43745" ph="..." />
+            <marker date="1494974888000" expanded="true" signature="43002:43020" ph="..." />
+            <marker date="1494974888000" expanded="true" signature="43179:43203" ph="..." />
+            <marker date="1494974888000" expanded="true" signature="43211:43265" ph="..." />
+            <marker date="1494974888000" expanded="true" signature="43272:43678" ph=" Modify whether the custom header video is eligible to show on the current page. ..." />
+            <marker date="1494974888000" expanded="true" signature="43751:43955" ph=" Retrieve the markup for a custom header. ..." />
+            <marker date="1494974888000" expanded="true" signature="43995:44185" ph="..." />
+            <marker date="1494974888000" expanded="true" signature="44055:44070" ph="..." />
+            <marker date="1494974888000" expanded="true" signature="44089:44182" ph="..." />
+            <marker date="1494974888000" expanded="true" signature="44191:44325" ph=" Print the markup for a custom header. ..." />
+            <marker date="1494974888000" expanded="true" signature="44365:44716" ph="..." />
+            <marker date="1494974888000" expanded="true" signature="44445:44457" ph="..." />
+            <marker date="1494974888000" expanded="true" signature="44569:44714" ph="..." />
+            <marker date="1494974888000" expanded="true" signature="44722:44816" ph=" Retrieve background image for custom background. ..." />
+            <marker date="1494974888000" expanded="true" signature="44852:44956" ph="..." />
+            <marker date="1494974888000" expanded="true" signature="44962:45017" ph=" Display background image path. ..." />
+            <marker date="1494974888000" expanded="true" signature="45049:45080" ph="..." />
+            <marker date="1494974888000" expanded="true" signature="45086:45175" ph=" Retrieve value for custom background color. ..." />
+            <marker date="1494974888000" expanded="true" signature="45211:45315" ph="..." />
+            <marker date="1494974888000" expanded="true" signature="45321:45377" ph=" Display background color value. ..." />
+            <marker date="1494974888000" expanded="true" signature="45409:45440" ph="..." />
+            <marker date="1494974888000" expanded="true" signature="45446:45527" ph=" Default custom background callback. ..." />
+            <marker date="1494974888000" expanded="true" signature="45564:47835" ph="..." />
+            <marker date="1494974888000" expanded="true" signature="45916:45936" ph="..." />
+            <marker date="1494974888000" expanded="true" signature="45974:46094" ph="..." />
+            <marker date="1494974888000" expanded="true" signature="46008:46081" ph="..." />
+            <marker date="1494974888000" expanded="true" signature="46173:47707" ph="..." />
+            <marker date="1494974888000" expanded="true" signature="46600:46628" ph="..." />
+            <marker date="1494974888000" expanded="true" signature="46709:46736" ph="..." />
+            <marker date="1494974888000" expanded="true" signature="47004:47026" ph="..." />
+            <marker date="1494974888000" expanded="true" signature="47297:47323" ph="..." />
+            <marker date="1494974888000" expanded="true" signature="47552:47582" ph="..." />
+            <marker date="1494974888000" expanded="true" signature="47761:47827" ph="..." />
+            <marker date="1494974888000" expanded="true" signature="47793:47815" ph="..." />
+            <marker date="1494974888000" expanded="true" signature="47841:47920" ph=" Render the Custom CSS style element. ..." />
+            <marker date="1494974888000" expanded="true" signature="47952:48234" ph="..." />
+            <marker date="1494974888000" expanded="true" signature="48028:48227" ph="..." />
+            <marker date="1494974888000" expanded="true" signature="48075:48218" ph="..." />
+            <marker date="1494974888000" expanded="true" signature="48085:48206" ph="..." />
+            <marker date="1494974888000" expanded="true" signature="48240:48502" ph=" Fetch the `custom_css` post for a given theme. ..." />
+            <marker date="1494974888000" expanded="true" signature="48558:49722" ph="..." />
+            <marker date="1494974888000" expanded="true" signature="48589:48625" ph="..." />
+            <marker date="1494974888000" expanded="true" signature="48660:49031" ph="..." />
+            <marker date="1494974888000" expanded="true" signature="49092:49619" ph="..." />
+            <marker date="1494974888000" expanded="true" signature="49193:49229" ph="..." />
+            <marker date="1494974888000" expanded="true" signature="49325:49616" ph="..." />
+            <marker date="1494974888000" expanded="true" signature="49408:49545" ph="..." />
+            <marker date="1494974888000" expanded="true" signature="49627:49704" ph="..." />
+            <marker date="1494974888000" expanded="true" signature="49728:49972" ph=" Fetch the saved Custom CSS content for rendering. ..." />
+            <marker date="1494974888000" expanded="true" signature="50023:50495" ph="..." />
+            <marker date="1494974888000" expanded="true" signature="50067:50103" ph="..." />
+            <marker date="1494974888000" expanded="true" signature="50169:50201" ph="..." />
+            <marker date="1494974888000" expanded="true" signature="50208:50412" ph=" Modify the Custom CSS Output into the &lt;head&gt;. ..." />
+            <marker date="1494974888000" expanded="true" signature="50501:51057" ph=" Update the `custom_css` post for a given theme. ..." />
+            <marker date="1494974888000" expanded="true" signature="51121:53817" ph="..." />
+            <marker date="1494974888000" expanded="true" signature="51145:51223" ph="..." />
+            <marker date="1494974888000" expanded="true" signature="51159:51221" ph="..." />
+            <marker date="1494974888000" expanded="true" signature="51242:51304" ph="..." />
+            <marker date="1494974888000" expanded="true" signature="51312:52763" ph=" Filters the `css` (`post_content`) and `preprocessed` (`post_content_filtered`) args for a `custom_css` post being updated. ..." />
+            <marker date="1494974888000" expanded="true" signature="52886:53130" ph="..." />
+            <marker date="1494974888000" expanded="true" signature="53271:53360" ph="..." />
+            <marker date="1494974888000" expanded="true" signature="53368:53746" ph="..." />
+            <marker date="1494974888000" expanded="true" signature="53455:53743" ph="..." />
+            <marker date="1494974888000" expanded="true" signature="53508:53559" ph="..." />
+            <marker date="1494974888000" expanded="true" signature="53702:53739" ph="..." />
+            <marker date="1494974888000" expanded="true" signature="53776:53791" ph="..." />
+            <marker date="1494974888000" expanded="true" signature="53823:54748" ph=" Add callback for custom TinyMCE editor stylesheets. ..." />
+            <marker date="1494974888000" expanded="true" signature="54814:55180" ph="..." />
+            <marker date="1494974888000" expanded="true" signature="55009:55115" ph="..." />
+            <marker date="1494974888000" expanded="true" signature="55186:55366" ph=" Removes all visual editor stylesheets. ..." />
+            <marker date="1494974888000" expanded="true" signature="55402:55584" ph="..." />
+            <marker date="1494974888000" expanded="true" signature="55590:55791" ph=" Retrieve any registered editor stylesheets ..." />
+            <marker date="1494974888000" expanded="true" signature="55829:57206" ph="..." />
+            <marker date="1494974888000" expanded="true" signature="56001:56967" ph="..." />
+            <marker date="1494974888000" expanded="true" signature="56316:56455" ph="..." />
+            <marker date="1494974888000" expanded="true" signature="56367:56451" ph="..." />
+            <marker date="1494974888000" expanded="true" signature="56556:56818" ph="..." />
+            <marker date="1494974888000" expanded="true" signature="56700:56814" ph="..." />
+            <marker date="1494974888000" expanded="true" signature="56759:56809" ph="..." />
+            <marker date="1494974888000" expanded="true" signature="56860:56964" ph="..." />
+            <marker date="1494974888000" expanded="true" signature="56915:56960" ph="..." />
+            <marker date="1494974888000" expanded="true" signature="56974:57142" ph=" Filters the array of stylesheets applied to the editor. ..." />
+            <marker date="1494974888000" expanded="true" signature="57212:57355" ph=" Expand a theme's starter content configuration using core-provided data. ..." />
+            <marker date="1494974888000" expanded="true" signature="57396:66472" ph="..." />
+            <marker date="1494974888000" expanded="true" signature="57556:57589" ph="..." />
+            <marker date="1494974888000" expanded="true" signature="57597:57620" ph="..." />
+            <marker date="1494974888000" expanded="true" signature="57646:63058" ph="..." />
+            <marker date="1494974888000" expanded="true" signature="57668:59328" ph="..." />
+            <marker date="1494974888000" expanded="true" signature="57702:58291" ph="..." />
+            <marker date="1494974888000" expanded="true" signature="57717:58289" ph="..." />
+            <marker date="1494974888000" expanded="true" signature="57794:58283" ph="..." />
+            <marker date="1494974888000" expanded="true" signature="57805:58281" ph="..." />
+            <marker date="1494974888000" expanded="true" signature="58319:58539" ph="..." />
+            <marker date="1494974888000" expanded="true" signature="58334:58537" ph="..." />
+            <marker date="1494974888000" expanded="true" signature="58565:58648" ph="..." />
+            <marker date="1494974888000" expanded="true" signature="58584:58646" ph="..." />
+            <marker date="1494974888000" expanded="true" signature="58674:58757" ph="..." />
+            <marker date="1494974888000" expanded="true" signature="58693:58755" ph="..." />
+            <marker date="1494974888000" expanded="true" signature="58785:58872" ph="..." />
+            <marker date="1494974888000" expanded="true" signature="58806:58870" ph="..." />
+            <marker date="1494974888000" expanded="true" signature="58894:58969" ph="..." />
+            <marker date="1494974888000" expanded="true" signature="58909:58967" ph="..." />
+            <marker date="1494974888000" expanded="true" signature="59002:59099" ph="..." />
+            <marker date="1494974888000" expanded="true" signature="59028:59097" ph="..." />
+            <marker date="1494974888000" expanded="true" signature="59129:59220" ph="..." />
+            <marker date="1494974888000" expanded="true" signature="59152:59218" ph="..." />
+            <marker date="1494974888000" expanded="true" signature="59244:59323" ph="..." />
+            <marker date="1494974888000" expanded="true" signature="59261:59321" ph="..." />
+            <marker date="1494974888000" expanded="true" signature="59354:61526" ph="..." />
+            <marker date="1494974888000" expanded="true" signature="59379:59491" ph="..." />
+            <marker date="1494974888000" expanded="true" signature="59518:59641" ph="..." />
+            <marker date="1494974888000" expanded="true" signature="59669:59756" ph="..." />
+            <marker date="1494974888000" expanded="true" signature="59783:59869" ph="..." />
+            <marker date="1494974888000" expanded="true" signature="59896:59982" ph="..." />
+            <marker date="1494974888000" expanded="true" signature="60012:60101" ph="..." />
+            <marker date="1494974888000" expanded="true" signature="60130:60234" ph="..." />
+            <marker date="1494974888000" expanded="true" signature="60265:60378" ph="..." />
+            <marker date="1494974888000" expanded="true" signature="60411:60515" ph="..." />
+            <marker date="1494974888000" expanded="true" signature="60544:60650" ph="..." />
+            <marker date="1494974888000" expanded="true" signature="60682:60810" ph="..." />
+            <marker date="1494974888000" expanded="true" signature="60841:60960" ph="..." />
+            <marker date="1494974888000" expanded="true" signature="60992:61098" ph="..." />
+            <marker date="1494974888000" expanded="true" signature="61128:61235" ph="..." />
+            <marker date="1494974888000" expanded="true" signature="61262:61357" ph="..." />
+            <marker date="1494974888000" expanded="true" signature="61387:61521" ph="..." />
+            <marker date="1494974888000" expanded="true" signature="61548:63054" ph="..." />
+            <marker date="1494974888000" expanded="true" signature="61568:61844" ph="..." />
+            <marker date="1494974888000" expanded="true" signature="61867:62154" ph="..." />
+            <marker date="1494974888000" expanded="true" signature="62179:62468" ph="..." />
+            <marker date="1494974888000" expanded="true" signature="62490:62580" ph="..." />
+            <marker date="1494974888000" expanded="true" signature="62602:62692" ph="..." />
+            <marker date="1494974888000" expanded="true" signature="62727:63049" ph="..." />
+            <marker date="1494974888000" expanded="true" signature="63124:66177" ph="..." />
+            <marker date="1494974888000" expanded="true" signature="63144:66174" ph="..." />
+            <marker date="1494974888000" expanded="true" signature="63227:63280" ph="..." />
+            <marker date="1494974888000" expanded="true" signature="63342:64027" ph="..." />
+            <marker date="1494974888000" expanded="true" signature="63404:64015" ph="..." />
+            <marker date="1494974888000" expanded="true" signature="63450:64009" ph="..." />
+            <marker date="1494974888000" expanded="true" signature="63485:63796" ph="..." />
+            <marker date="1494974888000" expanded="true" signature="63580:63734" ph="..." />
+            <marker date="1494974888000" expanded="true" signature="63605:63724" ph="..." />
+            <marker date="1494974888000" expanded="true" signature="63916:64002" ph="..." />
+            <marker date="1494974888000" expanded="true" signature="64103:65029" ph="..." />
+            <marker date="1494974888000" expanded="true" signature="64173:65017" ph="..." />
+            <marker date="1494974888000" expanded="true" signature="64252:64304" ph="..." />
+            <marker date="1494974888000" expanded="true" signature="64444:65011" ph="..." />
+            <marker date="1494974888000" expanded="true" signature="64486:64761" ph="..." />
+            <marker date="1494974888000" expanded="true" signature="64581:64676" ph="..." />
+            <marker date="1494974888000" expanded="true" signature="64895:65004" ph="..." />
+            <marker date="1494974888000" expanded="true" signature="65110:65264" ph="..." />
+            <marker date="1494974888000" expanded="true" signature="65161:65252" ph="..." />
+            <marker date="1494974888000" expanded="true" signature="65200:65246" ph="..." />
+            <marker date="1494974888000" expanded="true" signature="65402:66171" ph="..." />
+            <marker date="1494974888000" expanded="true" signature="65453:66159" ph="..." />
+            <marker date="1494974888000" expanded="true" signature="65485:66000" ph="..." />
+            <marker date="1494974888000" expanded="true" signature="65578:65653" ph="..." />
+            <marker date="1494974888000" expanded="true" signature="65747:65992" ph="..." />
+            <marker date="1494974888000" expanded="true" signature="65775:65984" ph="..." />
+            <marker date="1494974888000" expanded="true" signature="66079:66153" ph="..." />
+            <marker date="1494974888000" expanded="true" signature="66184:66396" ph=" Filters the expanded array of starter content. ..." />
+            <marker date="1494974888000" expanded="true" signature="66478:67521" ph=" Registers theme support for a given feature. ..." />
+            <marker date="1494974888000" expanded="true" signature="67564:74590" ph="..." />
+            <marker date="1494974888000" expanded="true" signature="67714:74545" ph="..." />
+            <marker date="1494974888000" expanded="true" signature="67740:68169" ph="..." />
+            <marker date="1494974888000" expanded="true" signature="67844:67860" ph="..." />
+            <marker date="1494974888000" expanded="true" signature="67868:67968" ph="..." />
+            <marker date="1494974888000" expanded="true" signature="68054:68157" ph="..." />
+            <marker date="1494974888000" expanded="true" signature="68194:68401" ph="..." />
+            <marker date="1494974888000" expanded="true" signature="68227:68390" ph="..." />
+            <marker date="1494974888000" expanded="true" signature="68419:69015" ph="..." />
+            <marker date="1494974888000" expanded="true" signature="68520:68654" ph="..." />
+            <marker date="1494974888000" expanded="true" signature="68691:68822" ph="..." />
+            <marker date="1494974888000" expanded="true" signature="69038:69575" ph="..." />
+            <marker date="1494974888000" expanded="true" signature="69070:69109" ph="..." />
+            <marker date="1494974888000" expanded="true" signature="69132:69271" ph="..." />
+            <marker date="1494974888000" expanded="true" signature="69488:69564" ph="..." />
+            <marker date="1494974888000" expanded="true" signature="69609:69685" ph="..." />
+            <marker date="1494974888000" expanded="true" signature="69711:72662" ph="..." />
+            <marker date="1494974888000" expanded="true" signature="69799:70204" ph="..." />
+            <marker date="1494974888000" expanded="true" signature="70795:71192" ph="//..." />
+            <marker date="1494974888000" expanded="true" signature="72425:72650" ph="..." />
+            <marker date="1494974888000" expanded="true" signature="72692:74043" ph="..." />
+            <marker date="1494974888000" expanded="true" signature="72780:73231" ph="..." />
+            <marker date="1494974888000" expanded="true" signature="74122:74543" ph="..." />
+            <marker date="1494974888000" expanded="true" signature="74255:74542" ph="..." />
+            <marker date="1494974888000" expanded="true" signature="74329:74517" ph="..." />
+            <marker date="1494974888000" expanded="true" signature="74374:74506" ph="..." />
+            <marker date="1494974888000" expanded="true" signature="74596:74806" ph=" Registers the internal custom header and background routines. ..." />
+            <marker date="1494974888000" expanded="true" signature="74860:76010" ph="..." />
+            <marker date="1494974888000" expanded="true" signature="74963:75473" ph="..." />
+            <marker date="1494974888000" expanded="true" signature="75286:75470" ph="..." />
+            <marker date="1494974888000" expanded="true" signature="75531:76008" ph="..." />
+            <marker date="1494974888000" expanded="true" signature="75821:76005" ph="..." />
+            <marker date="1494974888000" expanded="true" signature="76016:76134" ph=" Adds CSS to hide header text for custom logo, based on Customizer setting. ..." />
+            <marker date="1494974888000" expanded="true" signature="76176:76728" ph="..." />
+            <marker date="1494974888000" expanded="true" signature="76340:76726" ph="..." />
+            <marker date="1494974888000" expanded="true" signature="76611:76716" ph="..." />
+            <marker date="1494974888000" expanded="true" signature="76621:76637" ph="..." />
+            <marker date="1494974888000" expanded="true" signature="76640:76706" ph="{...}" />
+            <marker date="1494974888000" expanded="true" signature="76734:77005" ph=" Gets the theme support arguments passed when registering that support ..." />
+            <marker date="1494974888000" expanded="true" signature="77048:77563" ph="..." />
+            <marker date="1494974888000" expanded="true" signature="77284:77561" ph="..." />
+            <marker date="1494974888000" expanded="true" signature="77361:77503" ph="..." />
+            <marker date="1494974888000" expanded="true" signature="77516:77559" ph="..." />
+            <marker date="1494974888000" expanded="true" signature="77569:77929" ph=" Allows a theme to de-register its support of a certain feature ..." />
+            <marker date="1494974888000" expanded="true" signature="77975:78181" ph="..." />
+            <marker date="1494974888000" expanded="true" signature="78187:78488" ph=" Do not use. Removes theme support internally, ignorant of the blacklist. ..." />
+            <marker date="1494974888000" expanded="true" signature="78535:79778" ph="..." />
+            <marker date="1494974888000" expanded="true" signature="78588:78841" ph="..." />
+            <marker date="1494974888000" expanded="true" signature="78621:78778" ph="..." />
+            <marker date="1494974888000" expanded="true" signature="78934:79718" ph="..." />
+            <marker date="1494974888000" expanded="true" signature="78959:79382" ph="..." />
+            <marker date="1494974888000" expanded="true" signature="79113:79182" ph="..." />
+            <marker date="1494974888000" expanded="true" signature="79236:79371" ph="..." />
+            <marker date="1494974888000" expanded="true" signature="79412:79716" ph="..." />
+            <marker date="1494974888000" expanded="true" signature="79784:79964" ph=" Checks a theme's support for a given feature ..." />
+            <marker date="1494974888000" expanded="true" signature="80012:82134" ph="..." />
+            <marker date="1494974888000" expanded="true" signature="80389:81410" ph="..." />
+            <marker date="1494974888000" expanded="true" signature="80415:80801" ph="..." />
+            <marker date="1494974888000" expanded="true" signature="80841:81122" ph="..." />
+            <marker date="1494974888000" expanded="true" signature="81197:81408" ph="..." />
+            <marker date="1494974888000" expanded="true" signature="81417:82025" ph=" Filters whether the current theme supports a specific feature. ..." />
+            <marker date="1494974888000" expanded="true" signature="82140:82448" ph=" Checks a theme's support for a given feature before loading the functions which implement it. ..." />
+            <marker date="1494974888000" expanded="true" signature="82509:82612" ph="..." />
+            <marker date="1494974888000" expanded="true" signature="82554:82595" ph="..." />
+            <marker date="1494974888000" expanded="true" signature="82618:82986" ph=" Checks an attachment being deleted to see if it's a header or background image. ..." />
+            <marker date="1494974888000" expanded="true" signature="83035:83619" ph="..." />
+            <marker date="1494974888000" expanded="true" signature="83278:83354" ph="..." />
+            <marker date="1494974888000" expanded="true" signature="83418:83501" ph="..." />
+            <marker date="1494974888000" expanded="true" signature="83573:83617" ph="..." />
+            <marker date="1494974888000" expanded="true" signature="83625:83779" ph=" Checks if a theme has been changed and runs 'after_switch_theme' hook on the next WP load. ..." />
+            <marker date="1494974888000" expanded="true" signature="83815:84976" ph="..." />
+            <marker date="1494974888000" expanded="true" signature="83870:84974" ph="..." />
+            <marker date="1494974888000" expanded="true" signature="84061:84190" ph="..." />
+            <marker date="1494974888000" expanded="true" signature="84224:84778" ph="..." />
+            <marker date="1494974888000" expanded="true" signature="84231:84696" ph=" Fires on the first WP load after a theme switch if the old theme still exists. ..." />
+            <marker date="1494974888000" expanded="true" signature="84786:84901" ph="..." />
+            <marker date="1494974888000" expanded="true" signature="84982:85497" ph=" Includes and instantiates the WP_Customize_Manager class. ..." />
+            <marker date="1494974888000" expanded="true" signature="85534:87333" ph="..." />
+            <marker date="1494974888000" expanded="true" signature="85903:85915" ph="..." />
+            <marker date="1494974888000" expanded="true" signature="85921:86146" ph="..." />
+            <marker date="1494974888000" expanded="true" signature="86299:86381" ph="..." />
+            <marker date="1494974888000" expanded="true" signature="86531:86600" ph="..." />
+            <marker date="1494974888000" expanded="true" signature="86665:86744" ph="..." />
+            <marker date="1494974888000" expanded="true" signature="86866:86901" ph="..." />
+            <marker date="1494974888000" expanded="true" signature="86955:87000" ph="..." />
+            <marker date="1494974888000" expanded="true" signature="87063:87148" ph="..." />
+            <marker date="1494974888000" expanded="true" signature="87339:87536" ph=" Publish a snapshot's changes. ..." />
+            <marker date="1494974888000" expanded="true" signature="87626:91406" ph="..." />
+            <marker date="1494974888000" expanded="true" signature="87849:87861" ph="..." />
+            <marker date="1494974888000" expanded="true" signature="87896:88069" ph="..." />
+            <marker date="1494974888000" expanded="true" signature="88118:89254" ph="..." />
+            <marker date="1494974888000" expanded="true" signature="88123:88991" ph="..." />
+            <marker date="1494974888000" expanded="true" signature="89327:89831" ph="..." />
+            <marker date="1494974888000" expanded="true" signature="89885:91404" ph="..." />
+            <marker date="1494974888000" expanded="true" signature="89952:90199" ph="..." />
+            <marker date="1494974888000" expanded="true" signature="90231:90271" ph="..." />
+            <marker date="1494974888000" expanded="true" signature="90279:91401" ph="..." />
+            <marker date="1494974888000" expanded="true" signature="91412:91866" ph=" Filters changeset post data upon insert to ensure post_name is intact. ..." />
+            <marker date="1494974888000" expanded="true" signature="91962:92344" ph="..." />
+            <marker date="1494974888000" expanded="true" signature="92058:92322" ph="..." />
+            <marker date="1494974888000" expanded="true" signature="92253:92319" ph="..." />
+            <marker date="1494974888000" expanded="true" signature="92350:92421" ph=" Adds settings for the customize-loader script. ..." />
+            <marker date="1494974888000" expanded="true" signature="92466:93423" ph="..." />
+            <marker date="1494974888000" expanded="true" signature="92671:92800" ph="..." />
+            <marker date="1494974888000" expanded="true" signature="92823:93135" ph="..." />
+            <marker date="1494974888000" expanded="true" signature="92980:93131" ph="..." />
+            <marker date="1494974888000" expanded="true" signature="93429:93683" ph=" Returns a URL to load the Customizer. ..." />
+            <marker date="1494974888000" expanded="true" signature="93735:93867" ph="..." />
+            <marker date="1494974888000" expanded="true" signature="93873:94428" ph=" Prints a script to check whether or not the Customizer is supported, ..." />
+            <marker date="1494974888000" expanded="true" signature="94471:95506" ph="..." />
+            <marker date="1494974888000" expanded="true" signature="94667:94873" ph="..." />
+            <marker date="1494974888000" expanded="true" signature="94714:94861" ph="..." />
+            <marker date="1494974888000" expanded="true" signature="94934:95479" ph="..." />
+            <marker date="1494974888000" expanded="true" signature="94951:95464" ph="{...}" />
+            <marker date="1494974888000" expanded="true" signature="95090:95270" ph="..." />
+            <marker date="1494974888000" expanded="true" signature="95113:95263" ph="..." />
+            <marker date="1494974888000" expanded="true" signature="95231:95262" ph="..." />
+            <marker date="1494974888000" expanded="true" signature="95512:95752" ph=" Whether the site is being previewed in the Customizer. ..." />
+            <marker date="1494974888000" expanded="true" signature="95788:95903" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/app/themes/storefront-child/nyhetsbrev/functions.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="425">
+          <caret line="19" column="109" lean-forward="false" selection-start-line="19" selection-start-column="109" selection-end-line="19" selection-end-column="109" />
+          <folding>
+            <element signature="e#6#97#0#PHP" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
