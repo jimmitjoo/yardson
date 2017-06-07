@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="34c3f3ed-5d4a-4459-9af4-aae409ab49e2" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web/app/themes/storefront-child/nyhetsbrev/functions.php" afterPath="$PROJECT_DIR$/web/app/themes/storefront-child/nyhetsbrev/functions.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web/app/themes/storefront-child/nyhetsbrev/js/ajax-script.js" afterPath="$PROJECT_DIR$/web/app/themes/storefront-child/nyhetsbrev/js/ajax-script.js" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -16,14 +14,13 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="ajax-script.js" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/web/app/themes/storefront-child/nyhetsbrev/js/ajax-script.js">
+      <file leaf-file-name="functions.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/web/app/themes/storefront-child/nyhetsbrev/functions.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="470">
-              <caret line="24" column="62" lean-forward="true" selection-start-line="24" selection-start-column="62" selection-end-line="24" selection-end-column="62" />
+            <state relative-caret-position="643">
+              <caret line="87" column="12" lean-forward="false" selection-start-line="87" selection-start-column="12" selection-end-line="87" selection-end-column="12" />
               <folding>
-                <marker date="1496835044000" expanded="true" signature="791:1962" ph="{...}" />
-                <marker date="1496835044000" expanded="true" signature="879:1960" ph="{...}" />
+                <element signature="e#6#97#0#PHP" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -62,8 +59,8 @@
         <option value="$PROJECT_DIR$/web/app/themes/storefront-child/js/yardson.js" />
         <option value="$PROJECT_DIR$/web/app/themes/storefront-child/nyhetsbrev/style.css" />
         <option value="$PROJECT_DIR$/web/app/themes/storefront-child/nyhetsbrev/js/nyhetsbrev.js" />
-        <option value="$PROJECT_DIR$/web/app/themes/storefront-child/nyhetsbrev/functions.php" />
         <option value="$PROJECT_DIR$/web/app/themes/storefront-child/nyhetsbrev/js/ajax-script.js" />
+        <option value="$PROJECT_DIR$/web/app/themes/storefront-child/nyhetsbrev/functions.php" />
       </list>
     </option>
   </component>
@@ -246,36 +243,6 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="nyhetsbrev" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="js" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="yardson" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="yardson" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="web" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="app" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="themes" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="storefront-child" />
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
@@ -509,7 +476,7 @@
     <property name="settings.editor.selected.configurable" value="preferences.intentionPowerPack" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="SearchEverywhereHistoryKey" value="&#9;FILE&#9;file:///Users/jimmiejohansson/Code/yardson/web/app/themes/storefront-child/nyhetsbrev/js/ajax-script.js&#10;get_template_directory_uri&#9;null&#9;null" />
+    <property name="SearchEverywhereHistoryKey" value="&#9;FILE&#9;file:///Users/jimmiejohansson/Code/yardson/web/app/themes/storefront-child/nyhetsbrev/functions.php&#10;get_template_directory_uri&#9;null&#9;null" />
     <property name="FullScreen" value="true" />
   </component>
   <component name="RecentsManager">
@@ -631,12 +598,12 @@
       <updated>1495654816194</updated>
       <workItem from="1495654817490" duration="1762000" />
       <workItem from="1495724961964" duration="1881000" />
-      <workItem from="1496762435265" duration="13535000" />
+      <workItem from="1496762435265" duration="13748000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="17178000" />
+    <option name="totallyTimeSpent" value="17391000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
@@ -2013,34 +1980,32 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/web/app/themes/storefront-child/nyhetsbrev/functions.php">
+    <entry file="file://$PROJECT_DIR$/web/app/themes/storefront-child/nyhetsbrev/js/ajax-script.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="363">
-          <caret line="58" column="0" lean-forward="true" selection-start-line="58" selection-start-column="0" selection-end-line="58" selection-end-column="0" />
+        <state relative-caret-position="416">
+          <caret line="16" column="2" lean-forward="true" selection-start-line="16" selection-start-column="2" selection-end-line="16" selection-end-column="2" />
           <folding>
-            <marker date="1496835007000" expanded="true" signature="9:95" ph=" Created by PhpStorm. ..." />
-            <marker date="1496835007000" expanded="true" signature="143:1120" ph="{...}" />
-            <marker date="1496835007000" expanded="true" signature="273:441" ph="..." />
-            <marker date="1496835007000" expanded="true" signature="802:1116" ph="..." />
-            <marker date="1496835007000" expanded="true" signature="881:1110" ph="..." />
-            <marker date="1496835007000" expanded="true" signature="1230:1966" ph="{...}" />
-            <marker date="1496835007000" expanded="true" signature="2067:2997" ph="{...}" />
-            <marker date="1496835007000" expanded="true" signature="2222:2983" ph="..." />
-            <marker date="1496835007000" expanded="true" signature="2459:2580" ph="..." />
-            <marker date="1496835007000" expanded="true" signature="2478:2570" ph="..." />
-            <marker date="1496835007000" expanded="true" signature="2811:2975" ph="..." />
-            <marker date="1496835007000" expanded="true" signature="3044:3069" ph="..." />
+            <marker date="1496835044000" expanded="true" signature="119:752" ph="{&quot;url&quot;: yardson_nyhetsbrev.ajax_url...}" />
+            <marker date="1496835044000" expanded="true" signature="435:540" ph="{...}" />
+            <marker date="1496835044000" expanded="true" signature="669:748" ph="{...}" />
+            <marker date="1496835044000" expanded="true" signature="791:1960" ph="{...}" />
+            <marker date="1496835044000" expanded="true" signature="791:1962" ph="{...}" />
+            <marker date="1496835044000" expanded="true" signature="879:1956" ph="{...}" />
+            <marker date="1496835044000" expanded="true" signature="879:1960" ph="{...}" />
+            <marker date="1496835044000" expanded="true" signature="1114:1925" ph="{&quot;url&quot;: yardson_nyhetsbrev.ajax_url...}" />
+            <marker date="1496835044000" expanded="true" signature="1470:1675" ph="{...}" />
+            <marker date="1496835044000" expanded="true" signature="1820:1915" ph="{...}" />
+            <marker date="1496835044000" expanded="true" signature="1963:2324" ph="/*...*/" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/web/app/themes/storefront-child/nyhetsbrev/js/ajax-script.js">
+    <entry file="file://$PROJECT_DIR$/web/app/themes/storefront-child/nyhetsbrev/functions.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="470">
-          <caret line="24" column="62" lean-forward="true" selection-start-line="24" selection-start-column="62" selection-end-line="24" selection-end-column="62" />
+        <state relative-caret-position="643">
+          <caret line="87" column="12" lean-forward="false" selection-start-line="87" selection-start-column="12" selection-end-line="87" selection-end-column="12" />
           <folding>
-            <marker date="1496835044000" expanded="true" signature="791:1962" ph="{...}" />
-            <marker date="1496835044000" expanded="true" signature="879:1960" ph="{...}" />
+            <element signature="e#6#97#0#PHP" expanded="true" />
           </folding>
         </state>
       </provider>

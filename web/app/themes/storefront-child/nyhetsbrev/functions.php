@@ -55,8 +55,6 @@ add_action('wp_footer', 'yardson_nyhetsbrev_markup');
 
 function yardson_nyhetsbrev_create_account()
 {
-    echo 'yardson_nyhetsbrev_create_account körs!';
-
     $email_address = $_POST['nyhetsbrev_email'];
     if (null == username_exists($email_address)) {
 
@@ -86,6 +84,8 @@ function yardson_nyhetsbrev_create_account()
         );
 
     } // end if
+
+    return 1;
 
 }
 function wpdocs_set_html_mail_content_type() {
