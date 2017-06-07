@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="34c3f3ed-5d4a-4459-9af4-aae409ab49e2" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web/app/themes/storefront-child/nyhetsbrev/functions.php" afterPath="$PROJECT_DIR$/web/app/themes/storefront-child/nyhetsbrev/functions.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web/app/themes/storefront-child/nyhetsbrev/js/ajax-script.js" afterPath="$PROJECT_DIR$/web/app/themes/storefront-child/nyhetsbrev/js/ajax-script.js" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -14,14 +14,12 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="functions.php" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/web/app/themes/storefront-child/nyhetsbrev/functions.php">
+      <file leaf-file-name="ajax-script.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/web/app/themes/storefront-child/nyhetsbrev/js/ajax-script.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="222">
-              <caret line="57" column="51" lean-forward="false" selection-start-line="57" selection-start-column="51" selection-end-line="57" selection-end-column="51" />
-              <folding>
-                <element signature="e#6#97#0#PHP" expanded="true" />
-              </folding>
+            <state relative-caret-position="51">
+              <caret line="2" column="71" lean-forward="false" selection-start-line="2" selection-start-column="71" selection-end-line="2" selection-end-column="71" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -59,8 +57,8 @@
         <option value="$PROJECT_DIR$/web/app/themes/storefront-child/js/yardson.js" />
         <option value="$PROJECT_DIR$/web/app/themes/storefront-child/nyhetsbrev/style.css" />
         <option value="$PROJECT_DIR$/web/app/themes/storefront-child/nyhetsbrev/js/nyhetsbrev.js" />
-        <option value="$PROJECT_DIR$/web/app/themes/storefront-child/nyhetsbrev/js/ajax-script.js" />
         <option value="$PROJECT_DIR$/web/app/themes/storefront-child/nyhetsbrev/functions.php" />
+        <option value="$PROJECT_DIR$/web/app/themes/storefront-child/nyhetsbrev/js/ajax-script.js" />
       </list>
     </option>
   </component>
@@ -506,7 +504,7 @@
     <property name="settings.editor.selected.configurable" value="preferences.intentionPowerPack" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="SearchEverywhereHistoryKey" value="&#9;FILE&#9;file:///Users/jimmiejohansson/Code/yardson/web/app/themes/storefront-child/nyhetsbrev/functions.php&#10;get_template_directory_uri&#9;null&#9;null" />
+    <property name="SearchEverywhereHistoryKey" value="&#9;FILE&#9;file:///Users/jimmiejohansson/Code/yardson/web/app/themes/storefront-child/nyhetsbrev/js/ajax-script.js&#10;get_template_directory_uri&#9;null&#9;null" />
     <property name="FullScreen" value="true" />
   </component>
   <component name="RecentsManager">
@@ -628,12 +626,12 @@
       <updated>1495654816194</updated>
       <workItem from="1495654817490" duration="1762000" />
       <workItem from="1495724961964" duration="1881000" />
-      <workItem from="1496762435265" duration="13132000" />
+      <workItem from="1496762435265" duration="13264000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="16775000" />
+    <option name="totallyTimeSpent" value="16907000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
@@ -2010,31 +2008,32 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/web/app/themes/storefront-child/nyhetsbrev/js/ajax-script.js">
+    <entry file="file://$PROJECT_DIR$/web/app/themes/storefront-child/nyhetsbrev/functions.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="344">
-          <caret line="24" column="30" lean-forward="true" selection-start-line="24" selection-start-column="30" selection-end-line="24" selection-end-column="30" />
+        <state relative-caret-position="226">
+          <caret line="51" column="1" lean-forward="true" selection-start-line="51" selection-start-column="1" selection-end-line="51" selection-end-column="1" />
           <folding>
-            <marker date="1496834430000" expanded="true" signature="127:760" ph="{&quot;url&quot;: yardson_nyhetsbrev.ajax_url...}" />
-            <marker date="1496834430000" expanded="true" signature="443:548" ph="{...}" />
-            <marker date="1496834430000" expanded="true" signature="677:756" ph="{...}" />
-            <marker date="1496834430000" expanded="true" signature="799:1817" ph="{...}" />
-            <marker date="1496834430000" expanded="true" signature="887:1813" ph="{...}" />
-            <marker date="1496834430000" expanded="true" signature="971:1782" ph="{&quot;url&quot;: yardson_nyhetsbrev.ajax_url...}" />
-            <marker date="1496834430000" expanded="true" signature="1327:1532" ph="{...}" />
-            <marker date="1496834430000" expanded="true" signature="1677:1772" ph="{...}" />
-            <marker date="1496834430000" expanded="true" signature="1820:2181" ph="/*...*/" />
+            <marker date="1496834573000" expanded="true" signature="9:95" ph=" Created by PhpStorm. ..." />
+            <marker date="1496834573000" expanded="true" signature="143:1120" ph="{...}" />
+            <marker date="1496834573000" expanded="true" signature="273:441" ph="..." />
+            <marker date="1496834573000" expanded="true" signature="802:1116" ph="..." />
+            <marker date="1496834573000" expanded="true" signature="881:1110" ph="..." />
+            <marker date="1496834573000" expanded="true" signature="1230:1966" ph="{...}" />
+            <marker date="1496834573000" expanded="true" signature="2067:3019" ph="{...}" />
+            <marker date="1496834573000" expanded="true" signature="2244:3005" ph="..." />
+            <marker date="1496834573000" expanded="true" signature="2481:2602" ph="..." />
+            <marker date="1496834573000" expanded="true" signature="2500:2592" ph="..." />
+            <marker date="1496834573000" expanded="true" signature="2833:2997" ph="..." />
+            <marker date="1496834573000" expanded="true" signature="3066:3091" ph="..." />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/web/app/themes/storefront-child/nyhetsbrev/functions.php">
+    <entry file="file://$PROJECT_DIR$/web/app/themes/storefront-child/nyhetsbrev/js/ajax-script.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="222">
-          <caret line="57" column="51" lean-forward="false" selection-start-line="57" selection-start-column="51" selection-end-line="57" selection-end-column="51" />
-          <folding>
-            <element signature="e#6#97#0#PHP" expanded="true" />
-          </folding>
+        <state relative-caret-position="51">
+          <caret line="2" column="71" lean-forward="false" selection-start-line="2" selection-start-column="71" selection-end-line="2" selection-end-column="71" />
+          <folding />
         </state>
       </provider>
     </entry>
