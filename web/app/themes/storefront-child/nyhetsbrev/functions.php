@@ -30,6 +30,7 @@ function yardson_nyhetsbrev_enqueue_styles()
 }
 
 add_action('wp_enqueue_scripts', 'yardson_nyhetsbrev_enqueue_styles');
+add_action('wp_enqueue_scripts', 'yardson_nyhetsbrev_enqueue_styles');
 
 function yardson_nyhetsbrev_markup()
 {
@@ -90,4 +91,5 @@ function wpdocs_set_html_mail_content_type() {
     return 'text/html';
 }
 
+add_action( 'wp_ajax_my_action', 'yardson_nyhetsbrev_create_account' );
 add_action( 'wp_ajax_nopriv_my_action', 'yardson_nyhetsbrev_create_account' );
