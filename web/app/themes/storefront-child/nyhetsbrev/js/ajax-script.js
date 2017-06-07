@@ -34,6 +34,8 @@ jQuery('document').ready(function () {
                 arr.push({"name": "nonce", "value": yardson_nyhetsbrev.nonce});
             }
         });
+
+        return false;
     });
 });
 /*
