@@ -25,7 +25,10 @@ Text Domain:  	storefront-child
 }
 @media (max-width: 767px) {
     .site-header .site-security {
-        width: 23.347826%;
+        width: 156px;
+        position: absolute;
+        right: 105px;
+        float: none;
     }
 }
 .site-header .site-branding img {
