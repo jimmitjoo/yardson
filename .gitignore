@@ -3,6 +3,7 @@ web/app/plugins/*
 !web/app/plugins/.gitkeep
 !web/app/plugins/brandssync
 !web/app/plugins/woocommerce-brands
+!web/app/plugins/storefront-powerpack
 !web/app/plugins/facebook-for-woocommerce
 !web/app/plugins/advanced-custom-fields-pro
 !web/app/plugins/woocommerce-gateway-stripe

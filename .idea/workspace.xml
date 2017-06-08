@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="34c3f3ed-5d4a-4459-9af4-aae409ab49e2" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web/app/themes/storefront-child/style.css" afterPath="$PROJECT_DIR$/web/app/themes/storefront-child/style.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gitignore" afterPath="$PROJECT_DIR$/.gitignore" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -14,11 +15,11 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="style.css" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/web/app/themes/storefront-child/style.css">
+      <file leaf-file-name=".gitignore" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/.gitignore">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="557">
-              <caret line="30" column="20" lean-forward="false" selection-start-line="30" selection-start-column="20" selection-end-line="30" selection-end-column="20" />
+            <state relative-caret-position="130">
+              <caret line="5" column="37" lean-forward="false" selection-start-line="5" selection-start-column="37" selection-end-line="5" selection-end-column="37" />
               <folding />
             </state>
           </provider>
@@ -73,9 +74,9 @@
         <option value="$PROJECT_DIR$/web/app/themes/storefront-child/nyhetsbrev/js/nyhetsbrev.js" />
         <option value="$PROJECT_DIR$/web/app/themes/storefront-child/nyhetsbrev/functions.php" />
         <option value="$PROJECT_DIR$/web/app/themes/storefront-child/nyhetsbrev/js/ajax-script.js" />
-        <option value="$PROJECT_DIR$/.gitignore" />
         <option value="$PROJECT_DIR$/web/app/themes/storefront-child/functions.php" />
         <option value="$PROJECT_DIR$/web/app/themes/storefront-child/style.css" />
+        <option value="$PROJECT_DIR$/.gitignore" />
       </list>
     </option>
   </component>
@@ -460,12 +461,12 @@
       <updated>1495654816194</updated>
       <workItem from="1495654817490" duration="1762000" />
       <workItem from="1495724961964" duration="1881000" />
-      <workItem from="1496762435265" duration="16714000" />
+      <workItem from="1496762435265" duration="16838000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="20357000" />
+    <option name="totallyTimeSpent" value="20481000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
@@ -1892,14 +1893,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/.gitignore">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="182">
-          <caret line="7" column="43" lean-forward="false" selection-start-line="7" selection-start-column="43" selection-end-line="7" selection-end-column="43" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/web/app/themes/storefront/header.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="697">
@@ -2395,6 +2388,48 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="557">
           <caret line="30" column="20" lean-forward="false" selection-start-line="30" selection-start-column="20" selection-end-line="30" selection-end-column="20" />
+          <folding>
+            <marker date="1496922159000" expanded="true" signature="0:389" ph="/*...*/" />
+            <marker date="1496922159000" expanded="true" signature="418:444" ph="{...}" />
+            <marker date="1496922159000" expanded="true" signature="473:525" ph="{...}" />
+            <marker date="1496922159000" expanded="true" signature="554:600" ph="{...}" />
+            <marker date="1496922159000" expanded="true" signature="627:763" ph="{...}" />
+            <marker date="1496922159000" expanded="true" signature="661:761" ph="{...}" />
+            <marker date="1496922159000" expanded="true" signature="796:820" ph="{...}" />
+            <marker date="1496922159000" expanded="true" signature="1193:1215" ph="{...}" />
+            <marker date="1496922159000" expanded="true" signature="1284:1348" ph="{...}" />
+            <marker date="1496922159000" expanded="true" signature="1395:1497" ph="{...}" />
+            <marker date="1496922159000" expanded="true" signature="1525:1621" ph="{...}" />
+            <marker date="1496922159000" expanded="true" signature="1656:1675" ph="{...}" />
+            <marker date="1496922159000" expanded="true" signature="1703:4652" ph="{...}" />
+            <marker date="1496922159000" expanded="true" signature="1844:1876" ph="{...}" />
+            <marker date="1496922159000" expanded="true" signature="1966:1997" ph="{...}" />
+            <marker date="1496922159000" expanded="true" signature="2006:2044" ph="{...}" />
+            <marker date="1496922159000" expanded="true" signature="2170:2210" ph="{...}" />
+            <marker date="1496922159000" expanded="true" signature="2260:2291" ph="{...}" />
+            <marker date="1496922159000" expanded="true" signature="2335:2369" ph="{...}" />
+            <marker date="1496922159000" expanded="true" signature="2385:2598" ph="{...}" />
+            <marker date="1496922159000" expanded="true" signature="2616:2648" ph="{...}" />
+            <marker date="1496922159000" expanded="true" signature="2679:2705" ph="{...}" />
+            <marker date="1496922159000" expanded="true" signature="2917:3014" ph="{...}" />
+            <marker date="1496922159000" expanded="true" signature="3284:3374" ph="{...}" />
+            <marker date="1496922159000" expanded="true" signature="3451:3493" ph="{...}" />
+            <marker date="1496922159000" expanded="true" signature="3558:3847" ph="{...}" />
+            <marker date="1496922159000" expanded="true" signature="3897:3925" ph="{...}" />
+            <marker date="1496922159000" expanded="true" signature="3987:4022" ph="{...}" />
+            <marker date="1496922159000" expanded="true" signature="4131:4189" ph="{...}" />
+            <marker date="1496922159000" expanded="true" signature="4260:4317" ph="{...}" />
+            <marker date="1496922159000" expanded="true" signature="4367:4447" ph="{...}" />
+            <marker date="1496922159000" expanded="true" signature="4497:4579" ph="{...}" />
+            <marker date="1496922159000" expanded="true" signature="4609:4650" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="130">
+          <caret line="5" column="37" lean-forward="false" selection-start-line="5" selection-start-column="37" selection-end-line="5" selection-end-column="37" />
           <folding />
         </state>
       </provider>
