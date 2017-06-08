@@ -3,17 +3,17 @@
     bottom: 0;
     left: 0;
     width: 700px;
-    height: 400px;
+    height: 300px;
     display: none;
     background: rgba(0,0,0,.97);
-    z-index: 999;
+    z-index: 10000;
 }
 .newsletter-popup {
     background-image: url('images/tjej-tittar-vanster.jpg');
     background-position: 0 -70px;
     background-size: cover;
     color: #fff;
-    height: 400px;
+    height: 300px;
     left: 0;
     margin-left: 0;
     position: fixed;
