@@ -30,4 +30,23 @@ add_action( 'woocommerce_external_add_to_cart', 'woocommerce_external_add_to_car
 add_action( 'woocommerce_single_variation', 'woocommerce_single_variation', 10 );
 add_action( 'woocommerce_single_variation', 'woocommerce_single_variation_add_to_cart_button', 11 );
 
+
+
+if ( ! function_exists( 'storefront_site_security' ) ) {
+    /**
+     * Site branding wrapper and display
+     *
+     * @since  1.0.0
+     * @return void
+     */
+    function storefront_site_security() {
+        ?>
+        <div class="site-security">
+            <img src="<?php echo get_template_directory_uri() . '/../storefront-child/images/site-security.png'; ?>">
+        </div>
+        <?php
+    }
+}
+add_action( 'storefront_header', 'storefront_site_security', 21 );
+
 include 'nyhetsbrev/functions.php';
