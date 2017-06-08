@@ -18,6 +18,9 @@
     z-index: 10000;
     display: none;
     box-shadow: -1px -1px 2px rgba(0, 0, 0, .2);
+    border-top: 1px solid #f9db91;
+    border-right: 1px solid #f9db91;
+    cursor: pointer;
 }
 .newsletter-popup {
     background-image: url('images/tjej-tittar-vanster.jpg');
