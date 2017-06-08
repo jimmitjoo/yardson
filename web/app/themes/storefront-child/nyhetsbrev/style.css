@@ -87,3 +87,17 @@
         bottom: 69px;
     }
 }
+@media (max-width: 400px) {
+    #nlpop {
+        width: 320px;
+    }
+    .newsletter-popup {
+        background-position: 0;
+        height: 300px;
+        width: 320px;
+    }
+    .newsletter-popup .form {
+        width: 320px;
+        margin: 40px 10px;
+    }
+}
