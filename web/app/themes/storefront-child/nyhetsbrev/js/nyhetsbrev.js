@@ -15,6 +15,7 @@ jQuery('document').ready(function () {
 
     jQuery('#nlpop-open').click(function () {
         jQuery('#nlpop').show();
+        jQuery('#nlpop-open').hide();
     });
 });
 
