@@ -65,13 +65,25 @@
 }
 
 @media (max-width: 960px) {
+    #nlpop {
+        bottom: 0;
+        width: 400px;
+    }
     .newsletter-popup {
-        background-position: -60px -70px;
-        height: 361px;
-        left: 50%;
-        margin-left: -200px;
-        top: 70px;
+        background-position: 0;
+        height: 300px;
+        left: 0;
+        margin-left: 0;
+        top: inherit;
+        bottom: 0;
         width: 400px;
         background-repeat: no-repeat;
+    }
+
+}
+
+@media (max-width: 767px) {
+    #nlpop-open {
+        bottom: 69px;
     }
 }
