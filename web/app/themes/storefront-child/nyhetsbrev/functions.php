@@ -51,7 +51,7 @@ function yardson_nyhetsbrev_markup()
 
     $display = !is_user_logged_in();
     echo '<script>var yardson_nyhetsbrev_display = ' . $display . ';</script>';
-    echo '<div id="nlpop-open">Få 10% rabatt på första köpet</div>';
+    echo '<div id="nlpop-open">Få <strong>10% rabatt</strong> på första köpet</div>';
 
 }
 
