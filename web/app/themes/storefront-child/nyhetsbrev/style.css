@@ -67,7 +67,7 @@
 @media (max-width: 960px) {
     #nlpop {
         bottom: 0;
-        width: 400px;
+        width: 375px;
     }
     .newsletter-popup {
         background-position: 0;
@@ -76,10 +76,11 @@
         margin-left: 0;
         top: inherit;
         bottom: 0;
-        width: 400px;
         background-repeat: no-repeat;
+        width: 375px;
     }
     .newsletter-popup .form {
+        width: 375px;
         margin: 40px 20px;
     }
 }
