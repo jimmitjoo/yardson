@@ -17,9 +17,10 @@ Text Domain:  	storefront-child
 }
 .site-header .site-branding {
     width: 11.7391304348%;
+    margin-right: 2%;
 }
 .site-header .site-security {
-    width: 10%;
+    width: 12.347826087%;
     float: left;
 }
 .site-header .site-branding img {
