@@ -29,11 +29,6 @@ function yardson_nyhetsbrev_enqueue_styles()
     );
 }
 
-add_action( 'init', 'yardson_cookie' );
-function yardson_cookie() {
-    setcookie( 'yardson_logged_in', is_user_logged_in(), 3600 );
-}
-
 add_action('wp_enqueue_scripts', 'yardson_nyhetsbrev_enqueue_styles');
 
 function yardson_nyhetsbrev_markup()
@@ -54,7 +49,8 @@ function yardson_nyhetsbrev_markup()
     echo '</div>';
     echo '</div>';
 
-    echo '<div id="nlpop-open">Få 10% rabatt på första köpet</div>';
+    $display = (is_user_logged_in()) ? 'block' : 'none';
+    echo '<div id="nlpop-open" style="display: '.$display.';">Få 10% rabatt på första köpet</div>';
 
 }
 
