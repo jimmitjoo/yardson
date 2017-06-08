@@ -49,6 +49,8 @@ function yardson_nyhetsbrev_markup()
     echo '</div>';
     echo '</div>';
 
+    echo '<div id="nlpop-open">Få 10% rabatt på första köpet</div>';
+
 }
 
 add_action('wp_footer', 'yardson_nyhetsbrev_markup');

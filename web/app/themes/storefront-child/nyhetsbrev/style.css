@@ -8,6 +8,15 @@
     background: rgba(0,0,0,.97);
     z-index: 10000;
 }
+#nlpop-open {
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    padding: 5px 10px;
+    background: #f0c14b;
+    z-index: 10000;
+    display: none;
+}
 .newsletter-popup {
     background-image: url('images/tjej-tittar-vanster.jpg');
     background-position: 0 -70px;

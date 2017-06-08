@@ -35,6 +35,8 @@ jQuery('document').ready(function () {
             success: function (responseText, statusText, xhr, $form) {
                 jQuery('#nyhetsbrev_formular').html('<p>Ditt konto är nu skapat, kolla din e-post!</p>');
 
+                create_cookie('account_is_created', 'yes', 365);
+
                 setTimeout(function() {
                     window.location.href = '/mitt-konto';
                 }, 3000);

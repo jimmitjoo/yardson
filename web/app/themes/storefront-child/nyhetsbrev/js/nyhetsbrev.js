@@ -1,13 +1,17 @@
-if ( get_cookie( 'shown_create_account' ) === null ) {
-    jQuery('document').ready(function() {
-        console.log('show nlpop');
+jQuery('document').ready(function () {
+    if (get_cookie('shown_create_account') === null) {
         jQuery('#nlpop').show();
+        jQuery('#nlpop-open').hide();
+
         create_cookie('shown_create_account', 'yes', 21);
 
-        jQuery('#nlpop .close').click(function(event) {
-            jQuery('#nlpop').slideDown();
-            console.log('close nlpop');
+        jQuery('#nlpop .close').click(function (event) {
+            jQuery('#nlpop').hide();
+            jQuery('#nlpop-open').show();
         });
+    } else if (get_cookie('account_is_created') === null) {
+        jQuery('#nlpop-open').show();
+    }
+});
 
-    });
-}
+console.log({'Cookies':get_cookie('wordpress_logged_in')});
