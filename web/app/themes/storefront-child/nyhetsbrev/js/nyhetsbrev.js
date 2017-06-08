@@ -1,10 +1,10 @@
 jQuery('document').ready(function () {
-    if (get_cookie('shown_create_account') === null && yardson_nyhetsbrev_display) {
+    if (get_cookie('shown_create_account') === null && yardson_nyhetsbrev_display > 0) {
         jQuery('#nlpop').show();
         jQuery('#nlpop-open').hide();
 
         create_cookie('shown_create_account', 'yes', 21);
-    } else if (get_cookie('account_is_created') === null && yardson_nyhetsbrev_display) {
+    } else if (get_cookie('account_is_created') === null && yardson_nyhetsbrev_display > 0) {
         jQuery('#nlpop-open').show();
     }
 
