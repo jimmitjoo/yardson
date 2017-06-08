@@ -86,6 +86,10 @@
     #nlpop-open {
         bottom: 69px;
     }
+    .handheld-navigation {
+        max-height: 75vh;
+        overflow-y: scroll;
+    }
 }
 @media (max-width: 400px) {
     #nlpop {
