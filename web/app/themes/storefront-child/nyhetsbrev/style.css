@@ -79,7 +79,9 @@
         width: 400px;
         background-repeat: no-repeat;
     }
-
+    .newsletter-popup .form {
+        margin: 40px 20px;
+    }
 }
 
 @media (max-width: 767px) {
