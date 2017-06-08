@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="34c3f3ed-5d4a-4459-9af4-aae409ab49e2" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web/app/themes/storefront-child/nyhetsbrev/style.css" afterPath="$PROJECT_DIR$/web/app/themes/storefront-child/nyhetsbrev/style.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web/app/themes/storefront-child/nyhetsbrev/functions.php" afterPath="$PROJECT_DIR$/web/app/themes/storefront-child/nyhetsbrev/functions.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web/app/themes/storefront-child/nyhetsbrev/js/nyhetsbrev.js" afterPath="$PROJECT_DIR$/web/app/themes/storefront-child/nyhetsbrev/js/nyhetsbrev.js" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -14,12 +15,14 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="style.css" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/web/app/themes/storefront-child/nyhetsbrev/style.css">
+      <file leaf-file-name="functions.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/web/app/themes/storefront-child/nyhetsbrev/functions.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="476">
-              <caret line="88" column="5" lean-forward="false" selection-start-line="88" selection-start-column="5" selection-end-line="88" selection-end-column="5" />
-              <folding />
+            <state relative-caret-position="604">
+              <caret line="51" column="23" lean-forward="false" selection-start-line="51" selection-start-column="16" selection-end-line="51" selection-end-column="33" />
+              <folding>
+                <element signature="e#6#97#0#PHP" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -73,9 +76,9 @@
         <option value="$PROJECT_DIR$/web/app/themes/storefront-child/style.css" />
         <option value="$PROJECT_DIR$/.gitignore" />
         <option value="$PROJECT_DIR$/web/app/themes/storefront-child/nyhetsbrev/js/ajax-script.js" />
+        <option value="$PROJECT_DIR$/web/app/themes/storefront-child/nyhetsbrev/style.css" />
         <option value="$PROJECT_DIR$/web/app/themes/storefront-child/nyhetsbrev/js/nyhetsbrev.js" />
         <option value="$PROJECT_DIR$/web/app/themes/storefront-child/nyhetsbrev/functions.php" />
-        <option value="$PROJECT_DIR$/web/app/themes/storefront-child/nyhetsbrev/style.css" />
       </list>
     </option>
   </component>
@@ -431,7 +434,7 @@
     <property name="settings.editor.selected.configurable" value="preferences.intentionPowerPack" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="SearchEverywhereHistoryKey" value="&#9;FILE&#9;file:///Users/jimmiejohansson/Code/yardson/web/app/themes/storefront-child/nyhetsbrev/style.css&#10;get_template_directory_uri&#9;null&#9;null" />
+    <property name="SearchEverywhereHistoryKey" value="&#9;FILE&#9;file:///Users/jimmiejohansson/Code/yardson/web/app/themes/storefront-child/nyhetsbrev/functions.php&#10;get_template_directory_uri&#9;null&#9;null" />
     <property name="FullScreen" value="true" />
     <property name="nodejs_interpreter_path" value="$USER_HOME$/.nvm/versions/node/v7.10.0/bin/node" />
   </component>
@@ -555,12 +558,12 @@
       <updated>1495654816194</updated>
       <workItem from="1495654817490" duration="1762000" />
       <workItem from="1495724961964" duration="1881000" />
-      <workItem from="1496762435265" duration="20033000" />
+      <workItem from="1496762435265" duration="20211000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="23676000" />
+    <option name="totallyTimeSpent" value="23854000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
@@ -599,14 +602,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/.gitignore">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="667">
-          <caret line="23" column="0" lean-forward="false" selection-start-line="23" selection-start-column="0" selection-end-line="23" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/.env" />
     <entry file="file://$PROJECT_DIR$/.env.example">
       <provider selected="true" editor-type-id="text-editor">
@@ -2455,24 +2450,38 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/web/app/themes/storefront-child/nyhetsbrev/js/nyhetsbrev.js">
+    <entry file="file://$PROJECT_DIR$/web/app/themes/storefront-child/nyhetsbrev/style.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="468">
-          <caret line="18" column="7" lean-forward="false" selection-start-line="18" selection-start-column="7" selection-end-line="18" selection-end-column="7" />
+        <state relative-caret-position="222">
+          <caret line="88" column="5" lean-forward="false" selection-start-line="88" selection-start-column="5" selection-end-line="88" selection-end-column="5" />
           <folding>
-            <marker date="1496944829000" expanded="true" signature="37:643" ph="{...}" />
-            <marker date="1496944829000" expanded="true" signature="122:259" ph="{...}" />
-            <marker date="1496944829000" expanded="true" signature="342:387" ph="{...}" />
-            <marker date="1496944829000" expanded="true" signature="433:511" ph="{...}" />
-            <marker date="1496944829000" expanded="true" signature="561:639" ph="{...}" />
+            <marker date="1496950557000" expanded="true" signature="7:217" ph="{...}" />
+            <marker date="1496950557000" expanded="true" signature="230:537" ph="{...}" />
+            <marker date="1496950557000" expanded="true" signature="556:871" ph="{...}" />
+            <marker date="1496950557000" expanded="true" signature="897:993" ph="{...}" />
+            <marker date="1496950557000" expanded="true" signature="1018:1057" ph="{...}" />
+            <marker date="1496950557000" expanded="true" signature="1145:1165" ph="{...}" />
+            <marker date="1496950557000" expanded="true" signature="1187:1212" ph="{...}" />
+            <marker date="1496950557000" expanded="true" signature="1254:1282" ph="{...}" />
+            <marker date="1496950557000" expanded="true" signature="1304:1329" ph="{...}" />
+            <marker date="1496950557000" expanded="true" signature="1357:1648" ph="{...}" />
+            <marker date="1496950557000" expanded="true" signature="1370:1418" ph="{...}" />
+            <marker date="1496950557000" expanded="true" signature="1441:1645" ph="{...}" />
+            <marker date="1496950557000" expanded="true" signature="1676:1837" ph="{...}" />
+            <marker date="1496950557000" expanded="true" signature="1694:1723" ph="{...}" />
+            <marker date="1496950557000" expanded="true" signature="1774:1835" ph="{...}" />
+            <marker date="1496950557000" expanded="true" signature="1864:2100" ph="{...}" />
+            <marker date="1496950557000" expanded="true" signature="1877:1906" ph="{...}" />
+            <marker date="1496950557000" expanded="true" signature="1929:2013" ph="{...}" />
+            <marker date="1496950557000" expanded="true" signature="2042:2098" ph="{...}" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/web/app/themes/storefront-child/nyhetsbrev/js/ajax-script.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="263">
-          <caret line="37" column="64" lean-forward="true" selection-start-line="37" selection-start-column="64" selection-end-line="37" selection-end-column="64" />
+        <state relative-caret-position="737">
+          <caret line="37" column="31" lean-forward="true" selection-start-line="37" selection-start-column="0" selection-end-line="38" selection-end-column="0" />
           <folding>
             <marker date="1496943214000" expanded="true" signature="119:752" ph="{&quot;url&quot;: yardson_nyhetsbrev.ajax_url...}" />
             <marker date="1496943214000" expanded="true" signature="435:540" ph="{...}" />
@@ -2490,32 +2499,389 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/web/app/themes/storefront-child/nyhetsbrev/functions.php">
+    <entry file="file://$PROJECT_DIR$/web/app/themes/storefront-child/nyhetsbrev/js/nyhetsbrev.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="604">
-          <caret line="51" column="56" lean-forward="false" selection-start-line="51" selection-start-column="56" selection-end-line="51" selection-end-column="56" />
+        <state relative-caret-position="494">
+          <caret line="19" column="0" lean-forward="false" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
           <folding>
-            <marker date="1496949661000" expanded="true" signature="9:95" ph=" Created by PhpStorm. ..." />
-            <marker date="1496949661000" expanded="true" signature="143:1120" ph="{...}" />
-            <marker date="1496949661000" expanded="true" signature="273:441" ph="..." />
-            <marker date="1496949661000" expanded="true" signature="802:1116" ph="..." />
-            <marker date="1496949661000" expanded="true" signature="881:1110" ph="..." />
-            <marker date="1496949661000" expanded="true" signature="1230:2190" ph="{...}" />
-            <marker date="1496949661000" expanded="true" signature="2291:3246" ph="{...}" />
-            <marker date="1496949661000" expanded="true" signature="2393:3232" ph="..." />
-            <marker date="1496949661000" expanded="true" signature="2630:2751" ph="..." />
-            <marker date="1496949661000" expanded="true" signature="2649:2741" ph="..." />
-            <marker date="1496949661000" expanded="true" signature="2982:3146" ph="..." />
-            <marker date="1496949661000" expanded="true" signature="3293:3318" ph="..." />
+            <marker date="1496950649000" expanded="true" signature="37:643" ph="{...}" />
+            <marker date="1496950649000" expanded="true" signature="122:259" ph="{...}" />
+            <marker date="1496950649000" expanded="true" signature="342:387" ph="{...}" />
+            <marker date="1496950649000" expanded="true" signature="433:511" ph="{...}" />
+            <marker date="1496950649000" expanded="true" signature="561:639" ph="{...}" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/web/app/themes/storefront-child/nyhetsbrev/style.css">
+    <entry file="file://$PROJECT_DIR$/web/wp/wp-includes/pluggable.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="476">
-          <caret line="88" column="5" lean-forward="false" selection-start-line="88" selection-start-column="5" selection-end-line="88" selection-end-column="5" />
-          <folding />
+        <state relative-caret-position="291">
+          <caret line="959" column="9" lean-forward="false" selection-start-line="959" selection-start-column="9" selection-end-line="959" selection-end-column="9" />
+          <folding>
+            <marker date="1494974888000" expanded="false" signature="9:164" ph=" These functions can be replaced via plugins. If plugins do not redefine these ..." />
+            <marker date="1494974888000" expanded="true" signature="216:1283" ph="..." />
+            <marker date="1494974888000" expanded="true" signature="220:756" ph=" Changes the current user by ID or name. ..." />
+            <marker date="1494974888000" expanded="true" signature="806:1281" ph="..." />
+            <marker date="1494974888000" expanded="true" signature="1038:1064" ph="..." />
+            <marker date="1494974888000" expanded="true" signature="1155:1220" ph=" Fires after the current user is set. ..." />
+            <marker date="1494974888000" expanded="true" signature="1339:1860" ph="..." />
+            <marker date="1494974888000" expanded="true" signature="1343:1790" ph=" Retrieve the current user object. ..." />
+            <marker date="1494974888000" expanded="true" signature="1825:1858" ph="..." />
+            <marker date="1494974888000" expanded="true" signature="1909:2151" ph="..." />
+            <marker date="1494974888000" expanded="true" signature="1913:2071" ph=" Retrieve user info by user ID. ..." />
+            <marker date="1494974888000" expanded="true" signature="2109:2149" ph="..." />
+            <marker date="1494974888000" expanded="true" signature="2199:2804" ph="..." />
+            <marker date="1494974888000" expanded="true" signature="2203:2603" ph=" Retrieve user info by a given field ..." />
+            <marker date="1494974888000" expanded="true" signature="2646:2802" ph="..." />
+            <marker date="1494974888000" expanded="true" signature="2852:3472" ph="..." />
+            <marker date="1494974888000" expanded="true" signature="2856:3069" ph=" Retrieve info for user lists to prevent multiple queries by get_userdata() ..." />
+            <marker date="1494974888000" expanded="true" signature="3107:3470" ph="..." />
+            <marker date="1494974888000" expanded="true" signature="3278:3324" ph="SELECT * FRO... ${$wpdb-&gt;users}" />
+            <marker date="1494974888000" expanded="true" signature="3377:3432" ph="..." />
+            <marker date="1494974888000" expanded="true" signature="3518:14053" ph="..." />
+            <marker date="1494974888000" expanded="true" signature="3522:4788" ph=" Send mail, similar to PHP's mail ..." />
+            <marker date="1494974888000" expanded="true" signature="4875:14051" ph="..." />
+            <marker date="1494974888000" expanded="true" signature="4949:5179" ph=" Filters the wp_mail() arguments. ..." />
+            <marker date="1494974888000" expanded="true" signature="5315:5338" ph="..." />
+            <marker date="1494974888000" expanded="true" signature="5376:5409" ph="..." />
+            <marker date="1494974888000" expanded="true" signature="5447:5480" ph="..." />
+            <marker date="1494974888000" expanded="true" signature="5518:5551" ph="..." />
+            <marker date="1494974888000" expanded="true" signature="5593:5634" ph="..." />
+            <marker date="1494974888000" expanded="true" signature="5673:5752" ph="..." />
+            <marker date="1494974888000" expanded="true" signature="5862:6011" ph="..." />
+            <marker date="1494974888000" expanded="true" signature="6089:6113" ph="..." />
+            <marker date="1494974888000" expanded="true" signature="6121:8924" ph="..." />
+            <marker date="1494974888000" expanded="true" signature="6154:6339" ph="..." />
+            <marker date="1494974888000" expanded="true" signature="6347:6378" ph="..." />
+            <marker date="1494974888000" expanded="true" signature="6471:8921" ph="..." />
+            <marker date="1494974888000" expanded="true" signature="6558:8917" ph="..." />
+            <marker date="1494974888000" expanded="true" signature="6602:6821" ph="..." />
+            <marker date="1494974888000" expanded="true" signature="6658:6800" ph="..." />
+            <marker date="1494974888000" expanded="true" signature="7037:8912" ph="..." />
+            <marker date="1494974888000" expanded="true" signature="7121:7780" ph="..." />
+            <marker date="1494974888000" expanded="true" signature="7205:7682" ph="..." />
+            <marker date="1494974888000" expanded="true" signature="7300:7468" ph="..." />
+            <marker date="1494974888000" expanded="true" signature="7720:7766" ph="..." />
+            <marker date="1494974888000" expanded="true" signature="7806:8481" ph="..." />
+            <marker date="1494974888000" expanded="true" signature="7855:8381" ph="..." />
+            <marker date="1494974888000" expanded="true" signature="8026:8124" ph="..." />
+            <marker date="1494974888000" expanded="true" signature="8189:8325" ph="..." />
+            <marker date="1494974888000" expanded="true" signature="8419:8467" ph="..." />
+            <marker date="1494974888000" expanded="true" signature="8497:8576" ph="..." />
+            <marker date="1494974888000" expanded="true" signature="8593:8674" ph="..." />
+            <marker date="1494974888000" expanded="true" signature="8696:8787" ph="..." />
+            <marker date="1494974888000" expanded="true" signature="8801:8907" ph="..." />
+            <marker date="1494974888000" expanded="true" signature="9238:9617" ph="..." />
+            <marker date="1494974888000" expanded="true" signature="9652:9885" ph="..." />
+            <marker date="1494974888000" expanded="true" signature="9797:9839" ph="..." />
+            <marker date="1494974888000" expanded="true" signature="9892:10022" ph=" Filters the email address to send from. ..." />
+            <marker date="1494974888000" expanded="true" signature="10091:10260" ph=" Filters the name to associate with the &quot;from&quot; email address. ..." />
+            <marker date="1494974888000" expanded="true" signature="10793:11654" ph="..." />
+            <marker date="1494974888000" expanded="true" signature="10824:10840" ph="..." />
+            <marker date="1494974888000" expanded="true" signature="10889:11651" ph="..." />
+            <marker date="1494974888000" expanded="true" signature="10898:11594" ph="..." />
+            <marker date="1494974888000" expanded="true" signature="11076:11199" ph="..." />
+            <marker date="1494974888000" expanded="true" signature="11113:11193" ph="..." />
+            <marker date="1494974888000" expanded="true" signature="11234:11589" ph="..." />
+            <marker date="1494974888000" expanded="true" signature="11250:11322" ph="..." />
+            <marker date="1494974888000" expanded="true" signature="11338:11405" ph="..." />
+            <marker date="1494974888000" expanded="true" signature="11422:11490" ph="..." />
+            <marker date="1494974888000" expanded="true" signature="11512:11584" ph="..." />
+            <marker date="1494974888000" expanded="true" signature="11629:11647" ph="..." />
+            <marker date="1494974888000" expanded="true" signature="11870:12002" ph=" Filters the wp_mail() content type. ..." />
+            <marker date="1494974888000" expanded="true" signature="12413:12534" ph=" Filters the default wp_mail() charset. ..." />
+            <marker date="1494974888000" expanded="true" signature="12658:12986" ph="..." />
+            <marker date="1494974888000" expanded="true" signature="12712:12791" ph="..." />
+            <marker date="1494974888000" expanded="true" signature="13021:13182" ph="..." />
+            <marker date="1494974888000" expanded="true" signature="13065:13179" ph="..." />
+            <marker date="1494974888000" expanded="true" signature="13074:13122" ph="..." />
+            <marker date="1494974888000" expanded="true" signature="13157:13175" ph="..." />
+            <marker date="1494974888000" expanded="true" signature="13189:13337" ph=" Fires after PHPMailer is initialized. ..." />
+            <marker date="1494974888000" expanded="true" signature="13421:13452" ph="..." />
+            <marker date="1494974888000" expanded="true" signature="13487:14049" ph="..." />
+            <marker date="1494974888000" expanded="true" signature="13645:13925" ph=" Fires after a phpmailerException is caught. ..." />
+            <marker date="1494974888000" expanded="true" signature="14105:15955" ph="..." />
+            <marker date="1494974888000" expanded="true" signature="14109:14485" ph=" Authenticate a user, confirming the login credentials are valid. ..." />
+            <marker date="1494974888000" expanded="true" signature="14536:15953" ph="..." />
+            <marker date="1494974888000" expanded="true" signature="14611:15149" ph=" Filters whether a set of user login credentials are valid. ..." />
+            <marker date="1494974888000" expanded="true" signature="15246:15534" ph="..." />
+            <marker date="1494974888000" expanded="true" signature="15678:15935" ph="..." />
+            <marker date="1494974888000" expanded="true" signature="15684:15886" ph=" Fires after a user login has failed. ..." />
+            <marker date="1494974888000" expanded="true" signature="16001:16236" ph="..." />
+            <marker date="1494974888000" expanded="true" signature="16005:16055" ph=" Log the current user out. ..." />
+            <marker date="1494974888000" expanded="true" signature="16080:16234" ph="..." />
+            <marker date="1494974888000" expanded="true" signature="16142:16204" ph=" Fires after a user is logged-out. ..." />
+            <marker date="1494974888000" expanded="true" signature="16296:19689" ph="..." />
+            <marker date="1494974888000" expanded="true" signature="16300:16892" ph=" Validates authentication cookie. ..." />
+            <marker date="1494974888000" expanded="true" signature="16957:19687" ph="..." />
+            <marker date="1494974888000" expanded="true" signature="17027:17377" ph="..." />
+            <marker date="1494974888000" expanded="true" signature="17033:17299" ph=" Fires if an authentication cookie is malformed. ..." />
+            <marker date="1494974888000" expanded="true" signature="17710:17743" ph="..." />
+            <marker date="1494974888000" expanded="true" signature="17828:18079" ph="..." />
+            <marker date="1494974888000" expanded="true" signature="17834:18003" ph=" Fires once an authentication cookie has expired. ..." />
+            <marker date="1494974888000" expanded="true" signature="18141:18419" ph="..." />
+            <marker date="1494974888000" expanded="true" signature="18147:18338" ph=" Fires if a bad username is entered in the user authentication process. ..." />
+            <marker date="1494974888000" expanded="true" signature="18822:19083" ph="..." />
+            <marker date="1494974888000" expanded="true" signature="18828:19006" ph=" Fires if a bad authentication cookie hash is encountered. ..." />
+            <marker date="1494974888000" expanded="true" signature="19182:19266" ph="..." />
+            <marker date="1494974888000" expanded="true" signature="19336:19376" ph="..." />
+            <marker date="1494974888000" expanded="true" signature="19383:19604" ph=" Fires once an authentication cookie has been validated. ..." />
+            <marker date="1494974888000" expanded="true" signature="19749:21427" ph="..." />
+            <marker date="1494974888000" expanded="true" signature="19753:20193" ph=" Generate authentication cookie contents. ..." />
+            <marker date="1494974888000" expanded="true" signature="20286:21425" ph="..." />
+            <marker date="1494974888000" expanded="true" signature="20337:20352" ph="..." />
+            <marker date="1494974888000" expanded="true" signature="20373:20477" ph="..." />
+            <marker date="1494974888000" expanded="true" signature="20941:21333" ph=" Filters the authentication cookie. ..." />
+            <marker date="1494974888000" expanded="true" signature="21484:22563" ph="..." />
+            <marker date="1494974888000" expanded="true" signature="21488:21724" ph=" Parse a cookie into its components ..." />
+            <marker date="1494974888000" expanded="true" signature="21786:22561" ph="..." />
+            <marker date="1494974888000" expanded="true" signature="21811:22313" ph="..." />
+            <marker date="1494974888000" expanded="true" signature="21831:22217" ph="..." />
+            <marker date="1494974888000" expanded="true" signature="21847:21890" ph="..." />
+            <marker date="1494974888000" expanded="true" signature="21913:21963" ph="..." />
+            <marker date="1494974888000" expanded="true" signature="21984:22032" ph="..." />
+            <marker date="1494974888000" expanded="true" signature="22044:22211" ph="..." />
+            <marker date="1494974888000" expanded="true" signature="22066:22141" ph="..." />
+            <marker date="1494974888000" expanded="true" signature="22149:22210" ph="..." />
+            <marker date="1494974888000" expanded="true" signature="22400:22418" ph="..." />
+            <marker date="1494974888000" expanded="true" signature="22618:27832" ph="..." />
+            <marker date="1494974888000" expanded="true" signature="22622:23270" ph=" Log in a user by setting authentication cookies. ..." />
+            <marker date="1494974888000" expanded="true" signature="23360:27830" ph="..." />
+            <marker date="1494974888000" expanded="true" signature="23380:24021" ph="..." />
+            <marker date="1494974888000" expanded="true" signature="23386:23679" ph=" Filters the duration of the authentication cookie expiration period. ..." />
+            <marker date="1494974888000" expanded="true" signature="23797:23965" ph="..." />
+            <marker date="1494974888000" expanded="true" signature="24029:24219" ph="..." />
+            <marker date="1494974888000" expanded="true" signature="24246:24270" ph="..." />
+            <marker date="1494974888000" expanded="true" signature="24483:24650" ph=" Filters whether the connection is secure. ..." />
+            <marker date="1494974888000" expanded="true" signature="24727:25027" ph=" Filters whether to use a secure cookie when logged-in. ..." />
+            <marker date="1494974888000" expanded="true" signature="25165:25236" ph="..." />
+            <marker date="1494974888000" expanded="true" signature="25244:25301" ph="..." />
+            <marker date="1494974888000" expanded="true" signature="25327:25433" ph="..." />
+            <marker date="1494974888000" expanded="true" signature="25616:26247" ph=" Fires immediately before the authentication cookie is set. ..." />
+            <marker date="1494974888000" expanded="true" signature="26343:26995" ph=" Fires immediately before the logged-in authentication cookie is set. ..." />
+            <marker date="1494974888000" expanded="true" signature="27105:27274" ph=" Allows preventing auth cookies from actually being sent to the client. ..." />
+            <marker date="1494974888000" expanded="true" signature="27331:27343" ph="..." />
+            <marker date="1494974888000" expanded="true" signature="27889:29663" ph="..." />
+            <marker date="1494974888000" expanded="true" signature="27893:27976" ph=" Removes all of the cookies associated with authentication. ..." />
+            <marker date="1494974888000" expanded="true" signature="28012:29661" ph="..." />
+            <marker date="1494974888000" expanded="true" signature="28017:28103" ph=" Fires just before the authentication cookies are cleared. ..." />
+            <marker date="1494974888000" expanded="true" signature="28259:28271" ph="..." />
+            <marker date="1494974888000" expanded="true" signature="29717:29960" ph="..." />
+            <marker date="1494974888000" expanded="true" signature="29721:29866" ph=" Checks if the current visitor is a logged in user. ..." />
+            <marker date="1494974888000" expanded="true" signature="29899:29958" ph="..." />
+            <marker date="1494974888000" expanded="true" signature="30010:32166" ph="..." />
+            <marker date="1494974888000" expanded="true" signature="30014:30113" ph=" Checks if a user is logged in, if not it redirects them to the login page. ..." />
+            <marker date="1494974888000" expanded="true" signature="30142:32164" ph="..." />
+            <marker date="1494974888000" expanded="true" signature="30270:30447" ph=" Filters whether to use a secure authentication redirect. ..." />
+            <marker date="1494974888000" expanded="true" signature="30654:30902" ph="..." />
+            <marker date="1494974888000" expanded="true" signature="30713:30797" ph="..." />
+            <marker date="1494974888000" expanded="true" signature="30805:30899" ph="..." />
+            <marker date="1494974888000" expanded="true" signature="30909:31058" ph=" Filters the authentication redirect scheme. ..." />
+            <marker date="1494974888000" expanded="true" signature="31177:31830" ph="..." />
+            <marker date="1494974888000" expanded="true" signature="31183:31296" ph=" Fires before the authentication redirect. ..." />
+            <marker date="1494974888000" expanded="true" signature="31523:31779" ph="..." />
+            <marker date="1494974888000" expanded="true" signature="31583:31670" ph="..." />
+            <marker date="1494974888000" expanded="true" signature="31678:31775" ph="..." />
+            <marker date="1494974888000" expanded="true" signature="32222:33700" ph="..." />
+            <marker date="1494974888000" expanded="true" signature="32226:32737" ph=" Makes sure that a user was referred from another admin page. ..." />
+            <marker date="1494974888000" expanded="true" signature="32811:33698" ph="..." />
+            <marker date="1494974888000" expanded="true" signature="33151:33500" ph=" Fires once the admin request has been validated or not. ..." />
+            <marker date="1494974888000" expanded="true" signature="33640:33678" ph="..." />
+            <marker date="1494974888000" expanded="true" signature="33755:35648" ph="..." />
+            <marker date="1494974888000" expanded="true" signature="33759:34539" ph=" Verifies the Ajax request to prevent processing requests external of the blog. ..." />
+            <marker date="1494974888000" expanded="true" signature="34620:35646" ph="..." />
+            <marker date="1494974888000" expanded="true" signature="34644:34776" ph="..." />
+            <marker date="1494974888000" expanded="true" signature="35098:35451" ph=" Fires once the Ajax request has been validated or not. ..." />
+            <marker date="1494974888000" expanded="true" signature="35544:35626" ph="..." />
+            <marker date="1494974888000" expanded="true" signature="35571:35596" ph="..." />
+            <marker date="1494974888000" expanded="true" signature="35604:35623" ph="..." />
+            <marker date="1494974888000" expanded="true" signature="35696:37178" ph="..." />
+            <marker date="1494974888000" expanded="true" signature="35700:36353" ph=" Redirects to another page. ..." />
+            <marker date="1494974888000" expanded="true" signature="36404:37176" ph="..." />
+            <marker date="1494974888000" expanded="true" signature="36427:36591" ph=" Filters the redirect location. ..." />
+            <marker date="1494974888000" expanded="true" signature="36664:36831" ph=" Filters the redirect status code. ..." />
+            <marker date="1494974888000" expanded="true" signature="37235:38652" ph="..." />
+            <marker date="1494974888000" expanded="true" signature="37239:37400" ph=" Sanitizes a URL for use in a redirect. ..." />
+            <marker date="1494974888000" expanded="true" signature="37445:38291" ph="..." />
+            <marker date="1494974888000" expanded="true" signature="38297:38560" ph=" URL encode UTF-8 characters in a URL. ..." />
+            <marker date="1494974888000" expanded="true" signature="38615:38650" ph="..." />
+            <marker date="1494974888000" expanded="true" signature="38705:39831" ph="..." />
+            <marker date="1494974888000" expanded="true" signature="38709:39259" ph=" Performs a safe (local) redirect, using wp_redirect(). ..." />
+            <marker date="1494974888000" expanded="true" signature="39315:39829" ph="..." />
+            <marker date="1494974888000" expanded="true" signature="39436:39675" ph=" Filters the redirect fallback URL for when the provided redirect is not safe (local). ..." />
+            <marker date="1494974888000" expanded="true" signature="39888:42237" ph="..." />
+            <marker date="1494974888000" expanded="true" signature="39892:40372" ph=" Validates a URL for use in a redirect. ..." />
+            <marker date="1494974888000" expanded="true" signature="40432:42235" ph="..." />
+            <marker date="1494974888000" expanded="true" signature="41442:41463" ph="..." />
+            <marker date="1494974888000" expanded="true" signature="41596:41701" ph="..." />
+            <marker date="1494974888000" expanded="true" signature="41675:41698" ph="..." />
+            <marker date="1494974888000" expanded="true" signature="41740:41943" ph=" Filters the whitelist of hosts to redirect to. ..." />
+            <marker date="1494974888000" expanded="true" signature="42295:50618" ph="..." />
+            <marker date="1494974888000" expanded="true" signature="42299:42600" ph=" Notify an author (and/or others) of a comment/trackback/pingback on a post. ..." />
+            <marker date="1494974888000" expanded="true" signature="42669:50616" ph="..." />
+            <marker date="1494974888000" expanded="true" signature="42700:42751" ph="..." />
+            <marker date="1494974888000" expanded="true" signature="43090:43127" ph="..." />
+            <marker date="1494974888000" expanded="true" signature="43134:43481" ph=" Filters the list of email addresses to receive a comment notification. ..." />
+            <marker date="1494974888000" expanded="true" signature="43703:43721" ph="..." />
+            <marker date="1494974888000" expanded="true" signature="43820:44238" ph=" Filters whether to notify comment authors of their comments on their own posts. ..." />
+            <marker date="1494974888000" expanded="true" signature="44463:44508" ph="..." />
+            <marker date="1494974888000" expanded="true" signature="44648:44693" ph="..." />
+            <marker date="1494974888000" expanded="true" signature="44847:44892" ph="..." />
+            <marker date="1494974888000" expanded="true" signature="45024:45042" ph="..." />
+            <marker date="1494974888000" expanded="true" signature="45050:45087" ph="..." />
+            <marker date="1494974888000" expanded="true" signature="45561:48070" ph="..." />
+            <marker date="1494974888000" expanded="true" signature="45581:46387" ph="..." />
+            <marker date="1494974888000" expanded="true" signature="46406:47209" ph="..." />
+            <marker date="1494974888000" expanded="true" signature="47220:48068" ph="..." />
+            <marker date="1494974888000" expanded="true" signature="48326:48805" ph="..." />
+            <marker date="1494974888000" expanded="true" signature="48354:48502" ph="..." />
+            <marker date="1494974888000" expanded="true" signature="48510:48660" ph="..." />
+            <marker date="1494974888000" expanded="true" signature="48944:49096" ph="..." />
+            <marker date="1494974888000" expanded="true" signature="49104:49308" ph="..." />
+            <marker date="1494974888000" expanded="true" signature="49494:49688" ph=" Filters the comment notification email text. ..." />
+            <marker date="1494974888000" expanded="true" signature="49800:49992" ph=" Filters the comment notification email subject. ..." />
+            <marker date="1494974888000" expanded="true" signature="50093:50299" ph=" Filters the comment notification email headers. ..." />
+            <marker date="1494974888000" expanded="true" signature="50444:50539" ph="..." />
+            <marker date="1494974888000" expanded="true" signature="50568:50599" ph="..." />
+            <marker date="1494974888000" expanded="true" signature="50674:58056" ph="..." />
+            <marker date="1494974888000" expanded="true" signature="50678:51066" ph=" Notifies the moderator of the site about a new comment that is awaiting approval. ..." />
+            <marker date="1494974888000" expanded="true" signature="51112:58054" ph="..." />
+            <marker date="1494974888000" expanded="true" signature="51186:51449" ph=" Filters whether to send the site moderator email notifications, overriding the site setting. ..." />
+            <marker date="1494974888000" expanded="true" signature="51560:51577" ph="..." />
+            <marker date="1494974888000" expanded="true" signature="51951:52063" ph="..." />
+            <marker date="1494974888000" expanded="true" signature="52229:52303" ph="SELECT count... ${$wpdb-&gt;comments}" />
+            <marker date="1494974888000" expanded="true" signature="52652:55146" ph="..." />
+            <marker date="1494974888000" expanded="true" signature="52672:53421" ph="..." />
+            <marker date="1494974888000" expanded="true" signature="53440:54187" ph="..." />
+            <marker date="1494974888000" expanded="true" signature="54198:55144" ph="..." />
+            <marker date="1494974888000" expanded="true" signature="55376:55576" ph="..." />
+            <marker date="1494974888000" expanded="true" signature="55584:55786" ph="..." />
+            <marker date="1494974888000" expanded="true" signature="56092:56327" ph="..." />
+            <marker date="1494974888000" expanded="true" signature="56096:56286" ph="..." />
+            <marker date="1494974888000" expanded="true" signature="56658:56880" ph=" Filters the list of recipients for comment moderation emails. ..." />
+            <marker date="1494974888000" expanded="true" signature="56971:57164" ph=" Filters the comment moderation email text. ..." />
+            <marker date="1494974888000" expanded="true" signature="57265:57456" ph=" Filters the comment moderation email subject. ..." />
+            <marker date="1494974888000" expanded="true" signature="57546:57748" ph=" Filters the comment moderation email headers. ..." />
+            <marker date="1494974888000" expanded="true" signature="57882:57977" ph="..." />
+            <marker date="1494974888000" expanded="true" signature="58006:58037" ph="..." />
+            <marker date="1494974888000" expanded="true" signature="58124:59049" ph="..." />
+            <marker date="1494974888000" expanded="true" signature="58128:58263" ph=" Notify the blog admin of a user changing password, normally via email. ..." />
+            <marker date="1494974888000" expanded="true" signature="58317:59047" ph="..." />
+            <marker date="1494974888000" expanded="true" signature="58539:59045" ph="..." />
+            <marker date="1494974888000" expanded="true" signature="59110:62277" ph="..." />
+            <marker date="1494974888000" expanded="true" signature="59114:60017" ph=" Email login credentials to a newly-registered user. ..." />
+            <marker date="1494974888000" expanded="true" signature="60101:62275" ph="..." />
+            <marker date="1494974888000" expanded="true" signature="60132:60183" ph="..." />
+            <marker date="1494974888000" expanded="true" signature="60512:60992" ph="..." />
+            <marker date="1494974888000" expanded="true" signature="60956:60989" ph="..." />
+            <marker date="1494974888000" expanded="true" signature="61180:61192" ph="..." />
+            <marker date="1494974888000" expanded="true" signature="61484:61530" ph="..." />
+            <marker date="1494974888000" expanded="true" signature="62242:62273" ph="..." />
+            <marker date="1494974888000" expanded="true" signature="62327:62900" ph="..." />
+            <marker date="1494974888000" expanded="true" signature="62331:62587" ph=" Get the time-dependent variable for nonce creation. ..." />
+            <marker date="1494974888000" expanded="true" signature="62616:62898" ph="..." />
+            <marker date="1494974888000" expanded="true" signature="62621:62788" ph=" Filters the lifespan of nonces in seconds. ..." />
+            <marker date="1494974888000" expanded="true" signature="62952:64902" ph="..." />
+            <marker date="1494974888000" expanded="true" signature="62956:63575" ph=" Verify that correct nonce was used with time limit. ..." />
+            <marker date="1494974888000" expanded="true" signature="63628:64900" ph="..." />
+            <marker date="1494974888000" expanded="true" signature="63729:64007" ph="..." />
+            <marker date="1494974888000" expanded="true" signature="63735:63937" ph=" Filters whether the user who generated the nonce is logged out. ..." />
+            <marker date="1494974888000" expanded="true" signature="64035:64053" ph="..." />
+            <marker date="1494974888000" expanded="true" signature="64290:64304" ph="..." />
+            <marker date="1494974888000" expanded="true" signature="64493:64507" ph="..." />
+            <marker date="1494974888000" expanded="true" signature="64514:64791" ph=" Fires when nonce verification fails. ..." />
+            <marker date="1494974888000" expanded="true" signature="64954:65659" ph="..." />
+            <marker date="1494974888000" expanded="true" signature="64958:65252" ph=" Creates a cryptographic token tied to a specific action, user, user session, ..." />
+            <marker date="1494974888000" expanded="true" signature="65295:65657" ph="..." />
+            <marker date="1494974888000" expanded="true" signature="65369:65501" ph="..." />
+            <marker date="1494974888000" expanded="true" signature="65703:69996" ph="..." />
+            <marker date="1494974888000" expanded="true" signature="65707:67603" ph=" Get salt to add to hashes. ..." />
+            <marker date="1494974888000" expanded="true" signature="67644:69994" ph="..." />
+            <marker date="1494974888000" expanded="true" signature="67721:68082" ph="..." />
+            <marker date="1494974888000" expanded="true" signature="67727:68009" ph=" Filters the WordPress salt. ..." />
+            <marker date="1494974888000" expanded="true" signature="68146:68551" ph="..." />
+            <marker date="1494974888000" expanded="true" signature="68304:68548" ph="..." />
+            <marker date="1494974888000" expanded="true" signature="68355:68544" ph="..." />
+            <marker date="1494974888000" expanded="true" signature="68402:68422" ph="..." />
+            <marker date="1494974888000" expanded="true" signature="68571:68603" ph="..." />
+            <marker date="1494974888000" expanded="true" signature="68696:68729" ph="..." />
+            <marker date="1494974888000" expanded="true" signature="68845:68880" ph="..." />
+            <marker date="1494974888000" expanded="true" signature="68966:69486" ph="..." />
+            <marker date="1494974888000" expanded="true" signature="69014:69483" ph="..." />
+            <marker date="1494974888000" expanded="true" signature="69164:69211" ph="..." />
+            <marker date="1494974888000" expanded="true" signature="69244:69479" ph="..." />
+            <marker date="1494974888000" expanded="true" signature="69339:69474" ph="..." />
+            <marker date="1494974888000" expanded="true" signature="69494:69797" ph="..." />
+            <marker date="1494974888000" expanded="true" signature="69522:69729" ph="..." />
+            <marker date="1494974888000" expanded="true" signature="69604:69725" ph="..." />
+            <marker date="1494974888000" expanded="true" signature="70040:70375" ph="..." />
+            <marker date="1494974888000" expanded="true" signature="70044:70258" ph=" Get hash of given string. ..." />
+            <marker date="1494974888000" expanded="true" signature="70304:70373" ph="..." />
+            <marker date="1494974888000" expanded="true" signature="70428:71061" ph="..." />
+            <marker date="1494974888000" expanded="true" signature="70432:70816" ph=" Create a hash (encrypt) of a plain text password. ..." />
+            <marker date="1494974888000" expanded="true" signature="70857:71059" ph="..." />
+            <marker date="1494974888000" expanded="true" signature="70906:71001" ph="..." />
+            <marker date="1494974888000" expanded="true" signature="71115:73263" ph="..." />
+            <marker date="1494974888000" expanded="true" signature="71119:72071" ph=" Checks the plaintext password against the encrypted Password. ..." />
+            <marker date="1494974888000" expanded="true" signature="72135:73261" ph="..." />
+            <marker date="1494974888000" expanded="true" signature="72218:72841" ph="..." />
+            <marker date="1494974888000" expanded="true" signature="72299:72412" ph="..." />
+            <marker date="1494974888000" expanded="true" signature="72420:72757" ph=" Filters whether the plaintext password matches the encrypted password. ..." />
+            <marker date="1494974888000" expanded="true" signature="72965:73060" ph="..." />
+            <marker date="1494974888000" expanded="true" signature="73320:74493" ph="..." />
+            <marker date="1494974888000" expanded="true" signature="73324:73884" ph=" Generates a random password drawn from the defined set of characters. ..." />
+            <marker date="1494974888000" expanded="true" signature="73987:74491" ph="..." />
+            <marker date="1494974888000" expanded="true" signature="74233:74301" ph="..." />
+            <marker date="1494974888000" expanded="true" signature="74308:74433" ph=" Filters the randomly-generated password. ..." />
+            <marker date="1494974888000" expanded="true" signature="74537:76989" ph="..." />
+            <marker date="1494974888000" expanded="true" signature="74541:74949" ph=" Generates a random number ..." />
+            <marker date="1494974888000" expanded="true" signature="74992:76987" ph="..." />
+            <marker date="1494974888000" expanded="true" signature="75534:76020" ph="..." />
+            <marker date="1494974888000" expanded="true" signature="75542:75879" ph="..." />
+            <marker date="1494974888000" expanded="true" signature="75789:75820" ph="..." />
+            <marker date="1494974888000" expanded="true" signature="75828:75875" ph="..." />
+            <marker date="1494974888000" expanded="true" signature="75901:75946" ph="..." />
+            <marker date="1494974888000" expanded="true" signature="75972:76017" ph="..." />
+            <marker date="1494974888000" expanded="true" signature="76164:76575" ph="..." />
+            <marker date="1494974888000" expanded="true" signature="76527:76572" ph="..." />
+            <marker date="1494974888000" expanded="true" signature="77041:77988" ph="..." />
+            <marker date="1494974888000" expanded="true" signature="77045:77725" ph=" Updates the user's password with a new encrypted one. ..." />
+            <marker date="1494974888000" expanded="true" signature="77777:77986" ph="..." />
+            <marker date="1494974888000" expanded="true" signature="78037:84105" ph="..." />
+            <marker date="1494974888000" expanded="true" signature="78041:80511" ph=" Retrieve the avatar `&lt;img&gt;` tag for a user, email address, MD5 hash, comment, or post. ..." />
+            <marker date="1494974888000" expanded="true" signature="80603:84103" ph="..." />
+            <marker date="1494974888000" expanded="true" signature="80623:81009" ph="..." />
+            <marker date="1494974888000" expanded="true" signature="81037:81058" ph="..." />
+            <marker date="1494974888000" expanded="true" signature="81230:81267" ph="..." />
+            <marker date="1494974888000" expanded="true" signature="81302:81338" ph="..." />
+            <marker date="1494974888000" expanded="true" signature="81413:81461" ph="..." />
+            <marker date="1494974888000" expanded="true" signature="81468:82062" ph=" Filters whether to retrieve the avatar URL early. ..." />
+            <marker date="1494974888000" expanded="true" signature="82169:82352" ph="..." />
+            <marker date="1494974888000" expanded="true" signature="82423:82441" ph="..." />
+            <marker date="1494974888000" expanded="true" signature="82659:82677" ph="..." />
+            <marker date="1494974888000" expanded="true" signature="82811:82844" ph="..." />
+            <marker date="1494974888000" expanded="true" signature="82871:83007" ph="..." />
+            <marker date="1494974888000" expanded="true" signature="82909:82963" ph="..." />
+            <marker date="1494974888000" expanded="true" signature="82971:83004" ph="..." />
+            <marker date="1494974888000" expanded="true" signature="83029:83290" ph="..." />
+            <marker date="1494974888000" expanded="true" signature="83298:83984" ph=" Filters the avatar to retrieve. ..." />
+            <marker date="1494974888000" expanded="true" signature="84156:86825" ph="..." />
+            <marker date="1494974888000" expanded="true" signature="84160:85307" ph=" Displays a human readable HTML representation of the difference between two strings. ..." />
+            <marker date="1494974888000" expanded="true" signature="85378:86823" ph="..." />
+            <marker date="1494974888000" expanded="true" signature="86075:86206" ph="..." />
+            <marker date="1494974888000" expanded="true" signature="86214:86251" ph="..." />
+            <marker date="1494974888000" expanded="true" signature="86494:86659" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/app/themes/storefront-child/nyhetsbrev/functions.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="604">
+          <caret line="51" column="23" lean-forward="false" selection-start-line="51" selection-start-column="16" selection-end-line="51" selection-end-column="33" />
+          <folding>
+            <element signature="e#6#97#0#PHP" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

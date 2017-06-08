@@ -18,7 +18,3 @@ jQuery('document').ready(function () {
         jQuery('#nlpop-open').show();
     });
 });
-
-
-
-console.log({'Cookies':document.cookie});

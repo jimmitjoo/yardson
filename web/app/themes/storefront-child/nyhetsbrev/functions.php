@@ -49,7 +49,7 @@ function yardson_nyhetsbrev_markup()
     echo '</div>';
     echo '</div>';
 
-    $display = (is_user_logged_in()) ? 'true' : 'false';
+    $display = (is_user_logged_in()) ? 1 : 0;
     echo '<script>var yardson_nyhetsbrev_display = ' . $display . ';</script>';
     echo '<div id="nlpop-open">Få <strong>10% rabatt</strong> på första köpet</div>';
 
