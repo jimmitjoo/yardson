@@ -4,8 +4,8 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file",
         "This file is @generated automatically"
     ],
-    "hash": "6260745d3004d5766072c36f4c1f34d4",
-    "content-hash": "66208454148c0705796fea466ff19a74",
+    "hash": "f1a7ed437c38030052a99dfa4dc0fa43",
+    "content-hash": "4ac863dfa5c128011fe9c4605b145ad7",
     "packages": [
         {
             "name": "composer/installers",
@@ -488,6 +488,26 @@
             "homepage": "https://wordpress.org/plugins/on-sale-page-for-woocommerce/"
         },
         {
+            "name": "wpackagist-plugin/regenerate-thumbnails",
+            "version": "2.2.6",
+            "source": {
+                "type": "svn",
+                "url": "https://plugins.svn.wordpress.org/regenerate-thumbnails/",
+                "reference": "tags/2.2.6"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://downloads.wordpress.org/plugin/regenerate-thumbnails.2.2.6.zip",
+                "reference": null,
+                "shasum": null
+            },
+            "require": {
+                "composer/installers": "~1.0"
+            },
+            "type": "wordpress-plugin",
+            "homepage": "https://wordpress.org/plugins/regenerate-thumbnails/"
+        },
+        {
             "name": "wpackagist-plugin/visual-term-description-editor",
             "version": "1.7.0",
             "source": {
@@ -578,7 +598,7 @@
             "dist": {
                 "type": "zip",
                 "url": "https://downloads.wordpress.org/plugin/yith-woocommerce-ajax-navigation.3.4.2.zip",
-                "reference": null,
+                "reference": "tags/3.4.2",
                 "shasum": null
             },
             "require": {
