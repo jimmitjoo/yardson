@@ -12,6 +12,12 @@ jQuery('document').ready(function () {
     } else if (get_cookie('account_is_created') === null && yardson_nyhetsbrev_display) {
         jQuery('#nlpop-open').show();
     }
+
+    jQuery('#nlpop-open').click(function () {
+        jQuery('#nlpop').show();
+    });
 });
+
+
 
 console.log({'Cookies':document.cookie});
