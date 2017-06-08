@@ -14,4 +14,4 @@ jQuery('document').ready(function () {
     }
 });
 
-console.log({'Cookies':document.cookie.search(/\bwordpress_logged_in_\S*=/)});
+console.log({'Cookies':document.cookie});
